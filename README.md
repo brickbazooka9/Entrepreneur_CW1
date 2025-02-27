@@ -23,7 +23,10 @@ Table 1. Stakeholder Analysis and Potential Approach Methodologies
 
 Figure 1 demonstrates a power/interest grid which is a matrix used to identify and categorise stakeholders based on their influence and interest in a project. Real estate agents and Property developers would fall within high power and interest due to that they actively based investment decisions on the market trends, suggesting that their engagement is important to ensure that the product aligns with the current needs of the industry. Whereas, home buyers and sellers would fall within another spectrum of high interest but lower power because although they may be the direct users of the product but their influence to shape the market are lesser than real estate agents and property developers.
 
+
+
 Figure 1. Power/Interest grid
+
 ![power_matrix](https://github.com/user-attachments/assets/a00c2f20-4ebb-4eef-a849-4b599aee7679)
 
 
