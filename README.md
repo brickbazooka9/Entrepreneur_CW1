@@ -10,11 +10,23 @@
 #### Stakeholders and Customers Research
 Stakeholders and customers are essential in identifying and shaping the application opportunities, whether in terms of the scalability aspects, market adoption or the overall feasibility, their insight will refine the features of the application ensuring it will align with the current industry needs. Therefore an analysis of  potential customers and a well-constructed methodology to approach them is required to gain a deeper understanding of their needs and preferences.
 
-| Stakeholder   | Purpose        | Engagement Method | Findings |
-| ------------- | ------------- |-------------------|----------|
-| Real Estate Agents  | Identify pricing factors and market trends|
-| Property Developers  | Identify and compare the price in specific areas and forecasts the price in multiple locations|		
-| Home Buyer and Seller | Improve their decision making through the use of the application |
+Table 1 illustrates the potential customers and stakeholders for the application which are mainly within the real estate industries such as real estate agents, property developers and home buyers and sellers. The justification on why these groups in particular is due to their direct involvement and potential for them to subscribe to the product for instance the purpose for real estate agents to use the product may be to identify market trends, whereas property developers may be to compare the price between different areas. Nonetheless, these groups share commonalities the need for accurate real estate valuation and data driven decision making, both of which the product is able to provide. 
+
+In addition, the combination of semi-structured interview and online surveys are an effective methodoloigies to approach these customers due to that it offers both qualitative and quantitative data that will drive the development of the product. For instance, data from semi-structured interviews allow the understanding of the customer specific needs and expectation which could differentiate the product from competitors. While online surveys allow for a wider reach of quantifiable data on user preferences and potential adoption rates. 
+
+Table 1. Stakeholder Analysis and Potential Approach Methodologies 
+| Stakeholder   | Purpose        | Engagement Method | 
+| ------------- | ------------- |-------------------|
+| Real Estate Agents  | Identify pricing factors and market trends| Semi-structure Interview |
+| Property Developers  | Identify and compare the price in specific areas and forecasts the price in multiple locations| Online Survey | 
+| Home Buyer and Seller | Improve their decision making through the use of the application | Online survey |
+
+Figure 1 demonstrates a power/interest grid which is a matrix used to identify and categorise stakeholders based on their influence and interest in a project. Real estate agents and Property developers would fall within high power and interest due to that they actively based investment decisions on the market trends, suggesting that their engagement is important to ensure that the product aligns with the current needs of the industry. Whereas, home buyers and sellers would fall within another spectrum of high interest but lower power because although they may be the direct users of the product but their influence to shape the market are lesser than real estate agents and property developers.
+
+Figure 1. Power/Interest grid
+![power_matrix](https://github.com/user-attachments/assets/a00c2f20-4ebb-4eef-a849-4b599aee7679)
+
+
 
 #### Comptetitor Analysis 
 1. PropertyData
