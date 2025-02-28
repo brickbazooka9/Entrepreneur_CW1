@@ -4,7 +4,9 @@
 ## Product 
 
 #### What are the customer needs that you hope to satisfy (pains & gains)?
+
 **pains**
+
 Time-Consuming Property Search: Finding a property that meets specific needs requires extensive research, making the process slow and overwhelming.
 
 Lack of Up-to-Date Information: Real estate markets change rapidly, and outdated or incomplete data makes it difficult to assess risks and opportunities accurately.
@@ -18,6 +20,7 @@ Inefficient Communication with Agents: Engaging with real estate agents can be s
 Difficulty in Spotting Investment Opportunities: Identifying high-potential investment properties can be challenging, and may lead to missed opportunities.
 
 **gains**
+
 Automated Data Collection: AI gathers and updates real estate data in real-time, reducing manual research and saving valuable time.
 
 Improving Decision Making: AI tracks trends, price fluctuations, and neighborhood dynamics, presenting key insights, analyze unstructured data (e.g., news articles, reports) to detect market sentiment and investment opportunities, helping buyers identify investment opportunities
