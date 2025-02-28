@@ -7,27 +7,27 @@
 
 **pains**
 
-Time-Consuming Property Search: Finding a property that meets specific needs requires extensive research, making the process slow and overwhelming.
+1. Time-Consuming Property Search: Finding a property that meets specific needs requires extensive research, making the process slow and overwhelming.
 
-Lack of Up-to-Date Information: Real estate markets change rapidly, and outdated or incomplete data makes it difficult to assess risks and opportunities accurately.
+2. Lack of Up-to-Date Information: Real estate markets change rapidly, and outdated or incomplete data makes it difficult to assess risks and opportunities accurately.
 
-Limited Market Transparency:  Identifying investment risks, uncertainties, and hidden costs is challenging without clear and transparent market insights.
+3. Limited Market Transparency:  Identifying investment risks, uncertainties, and hidden costs is challenging without clear and transparent market insights.
 
-Unclear Real Estate Trends: Many investors struggle to track market movements, price trends, and neighborhood dynamics, leading to uncertainty in decision-making.
+4. Unclear Real Estate Trends: Many investors struggle to track market movements, price trends, and neighborhood dynamics, leading to uncertainty in decision-making.
 
-Inefficient Communication with Agents: Engaging with real estate agents can be slow and unstructured, delaying transactions and reducing efficiency.
+5. Inefficient Communication with Agents: Engaging with real estate agents can be slow and unstructured, delaying transactions and reducing efficiency.
 
-Difficulty in Spotting Investment Opportunities: Identifying high-potential investment properties can be challenging, and may lead to missed opportunities.
+6. Difficulty in Spotting Investment Opportunities: Identifying high-potential investment properties can be challenging, and may lead to missed opportunities.
 
 **gains**
 
-Automated Data Collection: AI gathers and updates real estate data in real-time, reducing manual research and saving valuable time.
+1. Automated Data Collection: AI gathers and updates real estate data in real-time, reducing manual research and saving valuable time.
 
-Improving Decision Making: AI tracks trends, price fluctuations, and neighborhood dynamics, presenting key insights, analyze unstructured data (e.g., news articles, reports) to detect market sentiment and investment opportunities, helping buyers identify investment opportunities
+2. Improving Decision Making: AI tracks trends, price fluctuations, and neighborhood dynamics, presenting key insights, analyze unstructured data (e.g., news articles, reports) to detect market sentiment and investment opportunities, helping buyers identify investment opportunities
 
-Personalized Investment Recommendations: AI analyzes user preferences and behavior, suggesting tailored property options based on individual needs.
+3. Personalized Investment Recommendations: AI analyzes user preferences and behavior, suggesting tailored property options based on individual needs.
 
-Visit Property Remotely with VR/AR: VR and AR techniques allow buyers to explore properties remotely, reducing the need for in-person visits.
+4. Visit Property Remotely with VR/AR: VR and AR techniques allow buyers to explore properties remotely, reducing the need for in-person visits.
 
 
 
