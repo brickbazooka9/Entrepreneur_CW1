@@ -42,6 +42,7 @@
 #### What relevant secondary research did you find?
 
 1. Mckinsey: [Generative AI can change real estate](<https://www.mckinsey.com/industries/real-estate/our-insights/generative-ai-can-change-real-estate-but-the-industry-must-change-to-reap-the-benefits>)
+2. Datacamp: [AI in Real Estate](<[https://www.mckinsey.com/industries/real-estate/our-insights/generative-ai-can-change-real-estate-but-the-industry-must-change-to-reap-the-benefits](https://www.datacamp.com/blog/ai-in-real-estate)>)
 
 #### Stakeholders and Customers Research
 Stakeholders and customers are essential in identifying and shaping the application opportunities, whether in terms of the scalability aspects, market adoption or the overall feasibility, their insight will refine the features of the application ensuring it will align with the current industry needs. Therefore an analysis of  potential customers and a well-constructed methodology to approach them is required to gain a deeper understanding of their needs and preferences.
