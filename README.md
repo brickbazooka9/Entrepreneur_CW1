@@ -42,7 +42,15 @@
 #### What relevant secondary research did you find?
 
 1. Mckinsey: [Generative AI can change real estate](<https://www.mckinsey.com/industries/real-estate/our-insights/generative-ai-can-change-real-estate-but-the-industry-must-change-to-reap-the-benefits>)
-2. Datacamp: [AI in Real Estate](<[https://www.mckinsey.com/industries/real-estate/our-insights/generative-ai-can-change-real-estate-but-the-industry-must-change-to-reap-the-benefits](https://www.datacamp.com/blog/ai-in-real-estate)>)
+2. Datacamp: [AI in Real Estate](<https://www.datacamp.com/blog/ai-in-real-estate>)
+3. CBRE: [What are the implications of AI for real estate?](<(https://www.cbre.co.uk/insights/reports/what-are-the-implications-of-ai-for-real-estate>)
+4. Built AI: (<https://www.eg.co.uk/agents/built-ai-partnership/>)
+5. Skyline AI: (<https://www.skyline.ai/>)
+6. House Canary: (<https://www.housecanary.com/>)
+7. PropMarker: (<https://propmarker.co.uk/>)
+8. Property Data: (<https://propertydata.co.uk/resources/the-impact-of-ai-and-machine-learning-on-real-estate-in-2024>)
+9. Zillow: (<https://www.zillow.com/homes/for_sale/?searchQueryState=%7B%22isMapVisible%22%3Afalse%2C%22mapBounds%22%3A%7B%22west%22%3A-125.523281%2C%22east%22%3A-63.296718%2C%22south%22%3A24.617482%2C%22north%22%3A50.827053%7D%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22beds%22%3A%7B%22min%22%3A1%2C%22max%22%3Anull%7D%7D%2C%22isListVisible%22%3Atrue%7D&category=SEMANTIC>)
+10. Propstream: (<https://www.propstream.com/?gad_source=1>)
 
 #### Stakeholders and Customers Research
 Stakeholders and customers are essential in identifying and shaping the application opportunities, whether in terms of the scalability aspects, market adoption or the overall feasibility, their insight will refine the features of the application ensuring it will align with the current industry needs. Therefore an analysis of  potential customers and a well-constructed methodology to approach them is required to gain a deeper understanding of their needs and preferences.
