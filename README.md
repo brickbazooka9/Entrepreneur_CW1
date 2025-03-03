@@ -143,3 +143,16 @@ Cons:
 
 
 ## Strategy plan 
+
+### Legal Status
+- What is your legal status and structure of your Business? 
+
+
+
+### Financing Options
+- What is your approach to financing?
+
+
+
+### Team
+- Who is your team and what are their roles and capabilities? 
