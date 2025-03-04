@@ -152,6 +152,33 @@ Cons:
 ### Financing Options
 - What is your approach to financing?
 
+### Operational Plan
+The operational plan of the business aims to provide insight regarding activities the business will engage on a daily basis in order to increase the value of the enterprise. To be able to outline the team's needs one of the suitable model that can be apply in this section is the McKinsey 7S Models which is a framework for organisational effectiveness that focuses on the the seven factors that must be aligned as demonstrated in Figure 2. 
+
+Figure 2. McKinsey 7S Model
+![mckinsey_framework](https://github.com/user-attachments/assets/bb09bedf-e8c7-40e3-a675-ef52be63d5aa)
+
+1) Strategy
+   This part of the model aims to identify how the business will be able to achieve its goal. Taking into consideration that the application aims to utilise AI and data analytics to offers an accurate predictions of the real estate price the components of the strategy include:
+   - B2C approach where the users are able to access the property valuations features through the application.
+   - Subscription base business model with the inclusion of two services 1) Basic version and 2) Premium Version.
+   - Apply Machine Learning to predicts the trends of the market through historical data.
+
+  2) Structure
+     This section aims to identify the hierarchy of the team which include:
+     - Data Science Team: Responsible for the development of the Machine Learning Model and price prediction
+     - Software Development Team: Responsible for the development of the user interface of the application
+     - More ???
+
+  3) Systems
+     
+      The systems of the framework aims to identify the workflows in order to run the business efficiently. This may involve the implementation of AI training pipeline that focuses on collecting and cleaning the real estate market data. The implementation of User Query Processing where the application allow user to input a location, the type of the property and the AI model will generate the cost prediction base on the user's input. Additionally, the systems should aim to be able to update its data base on the trends of the market and economic factors which may involve the implementation of daily updates from APIs and news source.
+  
+  5) Shared Values
+  6) Style
+  7) Staff
+  8) Skills 
+
 
 
 ### Team
