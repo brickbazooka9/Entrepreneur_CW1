@@ -174,10 +174,18 @@ Figure 2. McKinsey 7S Model
      
       The systems of the framework aims to identify the workflows in order to run the business efficiently. This may involve the implementation of AI training pipeline that focuses on collecting and cleaning the real estate market data. The implementation of User Query Processing where the application allow user to input a location, the type of the property and the AI model will generate the cost prediction base on the user's input. Additionally, the systems should aim to be able to update its data base on the trends of the market and economic factors which may involve the implementation of daily updates from APIs and news source.
   
-  5) Shared Values
-  6) Style
-  7) Staff
-  8) Skills 
+  4) Shared Values
+     - The team will aim to continuously improve the models in order to enhance the prediction accuracy.
+     - The project will aim to provide the users with the most up to date and reliable property predictions.
+     - All the data used to train the model will follow the compliance of The General Data Protection Regulation (GDPR)
+       
+  5) Style
+   The management within the team will follow an agile methodology and weekly meetings will be conducted and quick iterations on the development of the product. Additionally the team will be encourage to allow cross-functional teamwork between each team in order to enhance productivity and allow new insights to be obtain.
+
+  6) Staff
+     
+  7) Skills
+     The skills there will be require to allow a successful development of the product will involve knowledge regarding Machine Learning and AI. Software Development in order to construct a user interface application for the users. Moreover, market research will need to be implement in order to gain deeper understanding on the current real estate trends that will be essential for the product. 
 
 
 
