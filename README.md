@@ -300,4 +300,39 @@ Figure 2. McKinsey 7S Model
 
 
 ### Team
-- Who is your team and what are their roles and capabilities? 
+- Who is your team and what are their roles and capabilities?
+
+
+
+### What are the main risks to the success of your business and how will you address or mitigate them?
+The team conducted a PESTLE analysis to identify external factors that may hinder the success of the business.
+
+| Category       | Description  |
+|---------------|-------------|
+| **Political**  | - The government may impose restrictions on foreign investors purchasing real estate. <br> - Government urban development policies could disrupt AI-based price predictions. <br> - Strengthened immigration restrictions may reduce housing demand in urban areas. <br> - International conflicts may lead investors to withdraw from the market. |
+| **Economic**   | - Rising interest rates may increase home-buying costs and lead to declining property prices. <br> - The expansion of remote work may increase property prices in suburban areas. <br> - Economic downturns may drive demand for real estate as a safe-haven asset. |
+| **Social**     | - Demand for rental properties may increase over home purchases. <br> - New investment methods (e.g., real estate tokenization) may attract more investors. <br> - Public perception of AI-driven decision-making in real estate. <br> - People's concerns about remote real estate transactions. <br> *(If major fraud cases occur, it could damage the brand's reputation.)* |
+| **Technological** | - Real estate tokenization (Failure to adapt may result in losing market competitiveness). <br> - Increasing cybersecurity risks *(Personal data leaks, fraud, hacking of payment systems, blockchain vulnerabilities).* <br> - Growing attention to PropTech → More competitors entering the market. *(Risk of AI prediction programs/systems being copied).* <br> - The accuracy of AI-driven predictions remains uncertain. |
+| **Legal**      | - Compliance with GDPR and personal data protection regulations. <br> - The need to ensure transparency and accountability in AI-based prediction models. *(Depending on how it is used, it could be classified as market manipulation).* <br> - Legal risks associated with cross-border transactions and foreign investors. <br> - Potential introduction of new regulations governing AI usage. |
+| **Environmental** | - Climate change, natural disasters, and pandemics may lower demand in specific areas. |
+
+### Analysis of Key Business Risks Based on PESTLE Findings
+
+(We will select one of the risks below and provide a detailed discussion, including Mitigation & Contingency Plans.)
+
+**Talent Shortage**
+Our business relies heavily on high-value online transactions and foreign investors, requiring robust payment systems and extensive legal and tax-related operations.
+A lack of expertise in cybersecurity and legal compliance could lead to regulatory fines and reputational risks.
+Additionally, startups face challenges in attracting top talent, making it difficult to secure professionals with specialized knowledge.
+
+**Acquiring the First Customers**
+Without acquiring early adopters, the business may fail to gain traction, leading to financial constraints.
+Since trust is critical in the real estate industry, a lack of brand recognition could make potential customers hesitant to use the platform.
+
+**Technology Imitation by Competitors**
+AI-driven real estate investment tools are gaining attention, and more companies are expected to enter the market.
+AI technologies are relatively easy to replicate, making it difficult to establish sustainable competitive differentiation.
+
+**Fraud and Technical Errors Leading to Loss of Trust**
+If fraudulent activities occur, the brand’s credibility will be severely impacted, leading to customer attrition.
+There is a risk that fraudulent property listings or malicious users could exploit the system, further damaging trust and reputation.
