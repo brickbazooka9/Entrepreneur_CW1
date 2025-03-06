@@ -180,7 +180,39 @@ Choosing the appropriate legal structure for our business is critical as it dete
 For our startup inorder to seek scalability and investor confidence, a Limited Liability Company (Ltd.) is the most suitable option due to its liability protection and growth potential.
 
 
-- Which resources do you need and how will you get them?
+### Which resources do you need and how will you get them?
+#### Technological Resources
+The business requires significant technological infrastructure to develop and deploy its AI-powered application. This includes:
+
+- AI Model Development: The data science team will develop the machine learning model in-house, utilizing historical and real-time real estate data for training. The plan mentions implementing an AI training pipeline, focusing on collecting and cleaning market data, which suggests in-house capability.
+
+- Application Development: The software development team will design and implement a user-friendly application, likely using standard development tools and frameworks. This is inferred from the need for a user interface allowing property queries and cost predictions.
+
+- Data Collection and Processing Infrastructure: Given the need for real-time updates and daily data feeds from APIs and news sources, the business will require scalable computing power and storage. Cloud services like Amazon Web Services or Google Cloud are likely choices, offering flexibility and scalability, as seen in industry practices for real estate tech startups [The Financial Technology Report](https://thefinancialtechnologyreport.com/the-top-25-real-estate-technology-companies-of-2024/).
+
+Acquisition Strategy: These resources will be developed in-house where possible, with necessary hardware and software purchased or leased from providers. Cloud services will be subscribed to, ensuring cost-effective scalability.
+
+#### Real Estate Data
+
+Specifically for London, the following acquisition strategies are detailed:
+
+- Property Portals: Websites like Zoopla and Rightmove provide extensive data on properties for sale and rent in London, with APIs available for real-time data access. Subscription fees vary based on data volume and usage, typically ranging from £100 to several thousand pounds annually, depending on the plan.
+
+- Government Data: HM Land Registry offers open data on property transactions, including price paid data, which is free and useful for historical analysis. This includes datasets like the UK House Price Index, available in formats such as CSV, providing a cost-effective supplement for long-term trends.
+
+- Private Data Providers: Companies like PropertyData offer analytics specific to the London market, with subscription or one-time purchase options. Costs can range from £14/month for basic plans to higher tiers for advanced analytics, catering to investors and developers.
+
+- Real Estate Agencies and Partnerships: Collaborations with London-based real estate agencies can provide access to exclusive data or insights, potentially through revenue-sharing agreements or data access contracts. This might involve negotiation costs but can enhance data quality and competitiveness.
+
+Acquisition Strategy: Data will be purchased from property portals for real-time insights, supplemented by free historical data from HM Land Registry, with potential partnerships to access detailed or localized data, ensuring comprehensive coverage for London’s dynamic market.
+
+
+#### Marketing Resources
+To reach target customers—real estate agents, property developers, and home buyers/sellers—the business needs effective marketing channels. The plan suggests a B2C approach with subscription models, indicating a need for customer acquisition strategies.
+Acquisition Strategy: Marketing channels will be developed through digital strategies, including social media campaigns, content marketing on real estate blogs, and email marketing. Participation in industry conferences and partnerships with real estate associations will enhance visibility, as seen in successful real estate tech startups [Built In NYC](https://www.builtinnyc.com/articles/nyc-real-estate-startups-to-know).
+
+
+
 
 ### Financing Options
 - What is your approach to financing?
