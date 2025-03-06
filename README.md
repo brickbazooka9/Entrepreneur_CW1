@@ -167,7 +167,7 @@ Figure 1. Power/Interest grid
 
 
 
-## SWOT Analysis for Real Estate Investment Software
+## SWOT Analysis:
 
 ### Strengths vs Challenges
 
