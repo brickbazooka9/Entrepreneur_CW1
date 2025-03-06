@@ -301,6 +301,76 @@ Figure 2. McKinsey 7S Model
 
 ### Team
 - Who is your team and what are their roles and capabilities?
+  Our Leadership team comprises eight accomploshed professionals with expertise spanning technology, finance, business, and engineering. Collectively, we bring 69 years of combined Academic [Higher Education] and professional experience, ensuring a well rounded and strategic approach to driving the company forward. The diversity and expertise the team brings will ensure an organization that is innovative, lean, and agile.
+  
+### **Team Overview**
+#### **Sam Alshoabi** – Co-Founder  
+- **Academic Background**: Information Systems, Data Science  
+- **Industry Experience**: Retail, Technology, Customer Service  
+- **Professional Roles**: Program Manager, Business Analyst, Customer Care Manager, Store Manager, Translator  
+
+
+#### **Sujin Pongchababnapa** – Co-Founder
+- **Academic Background**: Health Science, Computer Science  
+- **Industry Experience**: F&B, Hospitality  
+- **Professional Roles**: Consultant, Data Analyst  
+
+
+#### **Vineet Naik** – Co-Founder
+- **Academic Background**: Mechanical Engineering, Data Science  
+- **Industry Experience**: Finance, Mechanics  
+- **Professional Roles**: Engineering, Private Equity Analyst  
+
+
+#### **Soroush Alimardani** – Co-Founder
+- **Academic Background**: Information Technology, Computer Science  
+- **Industry Experience**: Technology  
+
+
+#### **Avneet Singh** – Co-Founder
+- **Academic Background**: Civil Engineering, Management Business & Finance in Real Estate  
+- **Industry Experience**: Investment Banking, Sales, Construction  
+- **Professional Roles**: Advisor & Consultant  
+
+
+#### **Yuta Asai** – Co-Founder  
+- **Academic Background**: Psychology, Computer Science  
+- **Industry Experience**: Media, Healthcare, Documentaries  
+- **Professional Roles**: TV Director  
+
+
+#### **Aeden Geo Thomas** – Co-Founder
+- **Academic Background**: Computer Science Engineering  
+- **Industry Experience**: Software Engineering  
+- **Professional Roles**: Software Engineer  
+
+
+#### **Yu-Han Kao (Tina)** – Co-Founder
+- **Academic Background**: Finance & International Business  
+- **Industry Experience**: Banking, Information, Mobile & Web Development  
+- **Professional Roles**: Banking Officer, Research Assistant, Product Management  
+
+
+#### **Future Hiring Plans**  
+To further strengthen our leadership team, we plan to onboard two additional key hires in **UI/UX** and **Business Development** to address specific business growth needs.
+
+| Name                  | Academic | Professional | Academic Background                               | Industry                                      | Profession                                      | Possible Roles                                  |
+|-----------------------|----------|--------------|--------------------------------------------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Sam Alshoabi         | 5        | 10           | Information Systems, Data Science               | Retail, Technology, and Customer Service     | Program Manager, Business Analyst, Customer Care Manager, Store Manager, Translation |                                                |
+| Sujin Pongchababnapa | 5        | 1            | Health Science, Computer Science                | F&B, and Hospitality                         | Consultancy, Data Analyst                       |                                                |
+| Vineet Naik         | 5        | 2            | Mechanical Engineering, Data Science            | Finance, and Mechanics                       | Engineering, Private Equity Analyst            |                                                |
+| Soroush Alimardani  | 5        | 0            | Information Technology, Computer Science        |                                               |                                                |                                                |
+| Avneet Singh        | 6        | 8            | Civil Engineering, Management Business & Finance in Real Estate | Investment Banking, Sales, and Construction  | Advisor & Consultant                           |                                                |
+| Yuta Asai           | 5        | 3            | Psychology, Computer Science                    | Media, Healthcare, Documentaries             | TV Director                                    |                                                |
+| Aeden Geo Thomas    | 5        | 1            | Computer Science Engineering                    | Software Engineering                         | Software Engineer                              |                                                |
+| Yu-Han Kao (Tina)   | 5        | 3            | Finance & International Business               | Banking, Information, Mobile and Web Development | Banking Officer, Research Assistant, Product Management |                                                |
+
+| Metric             | Value |
+|--------------------|-------|
+| Total Academic    | 41    |
+| Total Professional| 28    |
+| Overall Total     | 69    |
+
 
 
 
