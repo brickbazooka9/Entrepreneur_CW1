@@ -144,10 +144,43 @@ Cons:
 
 ## Strategy plan 
 
-### Legal Status
-- What is your legal status and structure of your Business? 
+
+### What is your legal status and structure of your Business? 
+
+Choosing the appropriate legal structure for our business is critical as it determines liability, taxation, and operational flexibility. Below are the main options in the UK, along with their costs and considerations:
+
+#### 1. Sole Trader
+- **Description**: A sole trader operates as a self-employed individual. They retain all profits after tax but are personally liable for all debts.
+- **Cost**: No registration fee with Companies House; however, you must register with HMRC for self-assessment. 
+- **Advantages**: Simple setup, low cost, complete control.
+- **Disadvantages**: Unlimited personal liability and limited growth potential. [[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3)
+
+#### 2. Partnership
+- **Description**: A partnership involves two or more individuals sharing management, profits, and liabilities.
+- **Cost**: No Companies House registration required; partners must register with HMRC for self-assessment.
+- **Advantages**: Shared responsibility and expertise.
+- **Disadvantages**: Joint liability for debts and potential conflicts between partners. [[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3)
+
+#### 3. Limited Liability Company (Ltd.)
+- **Description**: A private company where owners' liability is limited to their investment in shares.
+- **Cost**:
+  - Online incorporation fee: £15 (from May 2025)[[4]](https://www.gov.uk/business-finance-support)
+  - Annual confirmation statement filing fee: £14[[4]](https://www.gov.uk/business-finance-support)
+- **Advantages**: Limited liability, separate legal entity, credibility with investors.
+- **Disadvantages**: More complex setup and higher administrative costs[[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3),[[4]](https://www.gov.uk/business-finance-support).
+
+#### 4. Limited Liability Partnership (LLP)
+- **Description**: Combines elements of partnerships and limited companies, offering limited liability to partners.
+- **Cost**:
+  - Incorporation fee: £15 (from May 2025)[[4]](https://www.gov.uk/business-finance-support)
+  - Annual filing fees apply[[4]](https://www.gov.uk/business-finance-support)
+- **Advantages**: Flexibility in management and limited liability.
+- **Disadvantages**: Requires formal agreements and compliance with Companies House regulations [[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3).
+
+For our startup inorder to seek scalability and investor confidence, a Limited Liability Company (Ltd.) is the most suitable option due to its liability protection and growth potential.
 
 
+- Which resources do you need and how will you get them?
 
 ### Financing Options
 - What is your approach to financing?
