@@ -304,12 +304,11 @@ Figure 2. McKinsey 7S Model
   Our Leadership team comprises eight accomploshed professionals with expertise spanning technology, finance, business, and engineering. Collectively, we bring 69 years of combined Academic [Higher Education] and professional experience, ensuring a well rounded and strategic approach to driving the company forward. The diversity and expertise the team brings will ensure an organization that is innovative, lean, and agile.
   
 ### **Team Overview**
-#### **Sam Alshoabi** – Co-Founder  
-<img src="https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png-1.webp" alt="Amazon" height="40"/>  <img src="https://banner2.cleanpng.com/20180329/wjw/avi0641l4.webp" alt="OLX" height="40"/>  <img src="https://banner2.cleanpng.com/20180526/sgr/kisspng-iphone-logo-samsung-galaxy-telephone-smartphone-5b09a5f1a53ac4.6217597815273589616768.jpg" alt="HTC" height="40"/>   <img src="https://emanhafez.org/wp-content/uploads/2016/11/logo-amideast.png" alt="AMIDEAST" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/university-of-bath.svg" alt="BATH" height="40"/>  <img src="https://www.ibm.com/content/dam/adobe-cms/case-studies/en/sites/default/files/2020-09-25/AUC-AE-Logo-2line-2color-BO-rgb-v-tightcrop2.jpg" alt="AUC" height="40"/>
-
+#### **Sam Alshoabi** – Co-Founder 
 - **Academic Background**: Information Systems, Data Science  
 - **Industry Experience**: Retail, Technology, Customer Service  
-- **Professional Roles**: Program Manager, Business Analyst, Customer Care Manager, Store Manager, Translator  
+- **Professional Roles**: Program Manager, Business Analyst, Customer Care Manager, Store Manager, Translator
+<img src="https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png-1.webp" alt="Amazon" height="40"/>  <img src="https://banner2.cleanpng.com/20180329/wjw/avi0641l4.webp" alt="OLX" height="40"/>  <img src="https://banner2.cleanpng.com/20180526/sgr/kisspng-iphone-logo-samsung-galaxy-telephone-smartphone-5b09a5f1a53ac4.6217597815273589616768.jpg" alt="HTC" height="40"/>   <img src="https://emanhafez.org/wp-content/uploads/2016/11/logo-amideast.png" alt="AMIDEAST" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/university-of-bath.svg" alt="BATH" height="40"/>  <img src="https://www.ibm.com/content/dam/adobe-cms/case-studies/en/sites/default/files/2020-09-25/AUC-AE-Logo-2line-2color-BO-rgb-v-tightcrop2.jpg" alt="AUC" height="40"/>
 
 
 #### **Sujin Pongchababnapa** – Co-Founder
