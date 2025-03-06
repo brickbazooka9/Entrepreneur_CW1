@@ -79,16 +79,23 @@ Figure 1. Power/Interest grid
 #### Comptetitor Analysis 
 1. PropertyData
 What it does: Helps investors check house prices, rental income, and market trends.
+
+
 Pros: Affordable (starts at £14/month), useful for research.
 
 Cons: 
 • Hard to set up for beginners.
-
 • Can be overwhelming because it has too much data without clear explanations.
 • Does not provide crime rates or long-term growth predictions.
+
+
 2. Nimbus Maps
 What it does: Shows property locations on a map with useful data. The "Plus" plan is priced at £150 per month when billed annually.
+
+
 Pros: Good for city planning, lets teams work together.
+
+
 Cons: 
 • Expensive, starting at £80 per month, which might be too much for new investors.
 • Steep learning curve – takes time to understand all the features.
@@ -105,6 +112,8 @@ Cons:
 • Very expensive (subscription costs can be hundreds per month).
 • Focuses mostly on land and development, not great for regular home buyers.
 • Some reports and data take time to load or update.
+
+
 4. Lendlord
 What it does: Helps landlords manage their rental properties and finances.
 The free plan includes core features like data management, bookkeeping, rent collection, due date alerts, mortgage insights, deal analysis, performance metrics, tax insights, potential savings, portfolio evaluation, stress testing, and document storage. 
@@ -121,6 +130,8 @@ Cons:
 
 5. Home.co.uk
 What it does: Shows house prices, rent trends, and market reports.
+
+
 Pros: Good for checking property values and performance. free access
 
 Cons: 
@@ -140,6 +151,26 @@ Cons:
 • Mostly focuses on Australia, so UK investors may not find it useful.
 • Expensive compared to some UK alternatives.
 • Does not provide crime data or neighbourhood insights.
+
+
+## SWOT Analysis for Real Estate Investment Software
+
+### Strengths vs Challenges
+
+| Strengths | Challenges |
+|-----------|------------|
+| **Easy to use** – Simpler than competitors like Property Data and Nimbus Maps. | **Not well-known yet** – Big competitors already have lots of users. |
+| **All-in-one insights** – Combines property growth, crime rates, and market trends in one place. | **Getting accurate data** – Might be expensive or hard to get the latest property info. |
+| **More affordable** – Cheaper than expensive options like LandInsight and Nimbus Maps. | **Takes time to build** – Might need money for development, marketing, and getting customers. |
+| **Useful for both home buyers & investors** – Many competitors only focus on landlords or developers. | **New business, less trust** – People might be unsure about trusting a new platform. |
+
+### Opportunities vs Risks
+
+| Opportunities | Risks |
+|--------------|------|
+| **Gap in the market** – Many competitors are hard to use or outdated. | **Big competition** – Well-known platforms like Property Data and Home.co.uk already exist. |
+| **Real-time crime & growth data** – Few platforms offer this in a clear and simple way. | - |
+| **Smart AI suggestions** – Could give personalized property recommendations to buyers and investors. | **Economy problems** – If the housing market crashes or interest rates rise, fewer people might invest. |
 
 
 ## Strategy plan 
