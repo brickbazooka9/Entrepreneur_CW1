@@ -466,3 +466,133 @@ AI technologies are relatively easy to replicate, making it difficult to establi
 **Fraud and Technical Errors Leading to Loss of Trust**
 If fraudulent activities occur, the brand’s credibility will be severely impacted, leading to customer attrition.
 There is a risk that fraudulent property listings or malicious users could exploit the system, further damaging trust and reputation.
+
+
+# Meeting Minutes - General Meeting
+
+**Date:** March 7, 2025  
+**Time:** 11:14:03 AM  
+**Project:** Startup Business Plan (Property Valuation/Real Estate Technology)  
+
+## Attendees
+- Jint Pongchababnapa
+- Yu Han Kao
+- Sam Alshoabi
+- Yuta Asai
+- Aeden Thomas
+- Avneet Singh
+- Soroush Alimardani
+- Vineet Nagaraj Naik
+
+## 1. Project Update and Coursework Questions
+
+
+- **Team Summary Documentation:**
+  - Sam Alshoabi shared updates on the team summary section, including a table quantifying collective experience
+  - Action Item: All team members to check and update estimated experience years on GitHub
+
+- **Role Clarification:**
+  - Aeden Thomas asked about data scientists' roles and how their expertise will apply to the project
+  - Sam Alshoabi clarified that data scientists will build their own predictive models (deep learning, linear regression, Bayesian approaches) rather than using existing predictions
+  - Discussion of primary and secondary roles to enable skills transfer and enhanced teamwork
+
+## 2. Team Structure and Operational Plan
+
+- Jint Pongchababnapa is working on the operational plan and team structure
+- Team agreed on three main departmental areas, as suggested by Avneet Singh:
+  1. **Backend/Data Science Team:** Responsible for data acquisition, model building, and prediction algorithms
+  2. **Frontend/Software Engineering Team:** Responsible for UI/UX, front-end development, and platform
+  3. **Business Operations Team:** Handles marketing, finance, sales, and legal aspects
+     - Noted that Finance/Legal will be less demanding initially but more important in later stages
+
+- Sam Alshoabi suggested assigning roles collaboratively based on individual interests and experience
+
+## 3. Documentation and Team Collaboration
+
+- Soroush Alimardani noted that instructor Neil emphasizes evidence of collaboration and conflict resolution
+- Avneet Singh suggested recording meeting minutes, videos, and whiteboard sessions to document progress
+- Sam Alshoabi mentioned starting meeting minutes and encouraged rotating this responsibility
+- Aeden Thomas raised concerns about report length and detail requirements
+  - Jint Pongchababnapa noted specifications have no page limit
+  - Avneet Singh shared that Neil indicated detail was most important regardless of length
+  - Soroush Alimardani suggested more details were better for the assignment
+
+- **Team Communication Concerns:**
+  - Sam Alshoabi raised concerns about offline discussions between team members that excluded others
+  - Avneet Singh and Soroush Alimardani clarified their intent was to improve workflow, not exclude team members
+  - Agreement to keep important discussions open to the entire team
+
+## 4. Value Proposition & Target Market
+
+- **Foreign Investors as Target Market:**
+  - Yuta Asai emphasized targeting foreign investors and providing data on crime rates, disaster risks, and development potential
+  - Avneet Singh agreed with focusing on foreign investors, especially in London
+
+- **Discussion on Including Renters:**
+  - Yu Han Kao asked about including renters as target customers
+  - Avneet Singh noted potential conflict between B2C (renters) and B2B (investors) models
+  - Vineet Nagaraj Naik suggested initially focusing on one target audience
+  - Sam Alshoabi proposed serving both with a freemium model
+
+- **Competitor Analysis:**
+  - Soroush Alimardani shared screenshots showing few competitors offering combined real-time crime and market trends
+  - Discussion on how AI would enhance their capabilities
+
+- **Marketing Strategy:**
+  - Concerns raised by Yuta Asai and Avneet Singh about marketing funds
+  - Suggestion to focus on strategic partnerships with agents and developers
+
+## 5. Data Acquisition and Management
+
+- Avneet Singh inquired about data acquisition methods (web scraping vs. paid resources)
+- Aeden Thomas noted reliability issues with web scraping and government APIs
+- Reliable sources identified:
+  - Land Registry
+  - Ordinance Survey
+  - ONS data
+  - Google Maps APIs
+- Sam Alshoabi suggested free-tier services may work if combined with user-friendly UX
+
+## 6. Business Model and Roadmap
+
+- Jint Pongchababnapa suggested targeting foreign investors as a niche market with user experience that has few current competitors
+- Sam Alshoabi proposed including legal advice regarding residency and avoiding scams
+- Avneet Singh suggested these services could be outsourced
+- Action Item: Each member to analyze personal value-add and conduct competitor analysis
+
+## 7. Financial Planning
+
+- Avneet Singh has started building a preliminary financial model including:
+  - Initial investment needs
+  - Cost assumptions (HR, data acquisition)
+  - Potential funding strategies
+- Needs input on sales pricing to complete revenue projections
+- Action Item: Avneet and Soroush to collaborate on finalizing sales pricing for the financial model
+
+## 8. Legal and Regulatory Aspects
+
+- Aeden Thomas working on legal section covering:
+  - Ownership structures
+  - Taxation
+  - Compliance for foreign investors
+- Section is concise but can be expanded if needed
+
+## 9. Action Items
+
+- All team members:
+  - Update experience years on GitHub
+  - Conduct competitive analysis and identify value propositions
+  - Consider preferred roles within the startup
+  
+- Individual assignments:
+  - Avneet Singh: Finalize financial model and share data with team
+  - Soroush Alimardani: Collaborate on sales pricing and continue GitHub updates
+  - Aeden Thomas: Research data sources for crime statistics and land pricing
+  - Jint Pongchababnapa: Potentially speak with course tutor and update operational plan
+
+## 10. Next Steps
+
+- Schedule follow-up meeting to review financial model, discuss team roles, and refine value proposition
+- Continue individual work on assigned sections
+- Share progress updates during next team meeting
+- Document all work on GitHub
