@@ -225,17 +225,26 @@ Figure 1. Power/Interest grid
 
 ### What is your legal status and structure of your Business? 
 
-Choosing the appropriate legal structure for our business is critical as it determines liability, taxation, and operational flexibility. Below are the main options in the UK, along with their costs and considerations:
+A sole trader is the simplest business structure in the UK, where a single individual owns and operates the business. There is no legal separation between the business and its owner. Registration is straightforward – you simply need to inform HMRC that you're self-employed by registering for Self Assessment if your trading income exceeds £1,000 in a tax year. This must be done by October 5 following the end of the tax year in which you began trading[[1]](https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/)
+
 
 #### 1. Sole Trader
 - **Description**: A sole trader operates as a self-employed individual. They retain all profits after tax but are personally liable for all debts.
-- **Cost**: No registration fee with Companies House; however, you must register with HMRC for self-assessment. 
+- **Cost**: No registration fee with Companies House[[2]](https://informi.co.uk/business-administration/how-do-i-register-partnership); however, you must register with HMRC for self-assessment. 
+- Taxation framework:
+   - As a sole trader, you pay income tax on all business profits through Self Assessment, following these 2024/25 & 2025/26 tax rates:
+      - Up to £12,570 – Tax-free (Personal Allowance)
+      - £12,571 to £50,270 – 20% tax rate
+      - £50,271 to £125,140 – 40% tax rate
+      - Above £125,140 – 45% tax rate [[1]](https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/)
 - **Advantages**: Simple setup, low cost, complete control.
 - **Disadvantages**: Unlimited personal liability and limited growth potential. [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3)
 
 #### 2. Partnership
 - **Description**: A partnership involves two or more individuals sharing management, profits, and liabilities.
 - **Cost**: No Companies House registration required; partners must register with HMRC for self-assessment which typically requires a solicitor and can cost anywhere from £500 to several thousand pounds depending on complexity. Without such an agreement, the Partnership Act 1890 applies by default. [[3]](https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/)
+- **Taxation framework**: The partnership itself doesn't pay tax. Instead, profits are distributed among partners according to the partnership agreement, and each partner pays income tax on their share through Self Assessment at the same personal tax rates that apply to sole traders. Partners also pay National Insurance contributions on their share of the profits.
+
 - **Advantages**: Shared responsibility and expertise.
 - **Disadvantages**: Joint liability for debts and potential conflicts between partners. [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3)
 
