@@ -35,11 +35,42 @@
 
 #### What are the important questions you need to find answers to?
 
-1. How to customize and meet customers' needs
-2. How to identify and capitalize on potential investment opportunities
-3. What are our product's advantages compared to competitors?
+1. Who are our customers? How can we customize our products/services to meet their needs?
+2. How do we resolve the data challenges related to our product?
+3. How to identify and capitalize on potential investment opportunities?
+4. Who are our competitors, and what competitive advantages do we have?
+
 
 #### What relevant secondary research did you find?
+1. Overview of the London Housing Market
+Recent data from the London Housing Market Report highlights key trends indicating increased market activity. A shifting balance between new buyer inquiries and property listings suggests greater engagement within the market. Since 2023, the number of available rooms for house shares has been steadily increasing, although demand for rented rooms has fluctuated.
+1.1 Market Demand and Supply
+The accompanying chart from RICS survey data illustrates monthly changes in buyer inquiries and newly listed homes in London. Market demand experienced growth in the last quarter, coinciding with the Bank of England’s first interest rate cut since May 2022. As a second rate cut is expected, this trend is likely to continue. Additionally, seller activity has increased, leading to the first net-positive market activity since 2022.
+1.2 Projections for 2025
+Rightmove anticipates that the number of homes for sale will remain high in the coming year, maintaining strong competition among sellers and preventing significant price increases. However, this increased supply is expected to facilitate more transactions, with Rightmove projecting approximately 1.15 million completed sales in 2025.
+1.3 Impact of Stamp Duty Changes
+An upcoming reduction in the stamp duty threshold, set to take effect on April 1, could add thousands of pounds in moving costs for buyers. Rightmove's real-time data has already detected a surge in first-time buyer activity in high-cost areas as they attempt to finalize purchases before the new rates apply. Nevertheless, many regions in England still offer homes under the £300,000 threshold, allowing first-time buyers to benefit from significant tax advantages compared to second-home buyers.
+Currently, the number of first-time buyers actively engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, strong activity in this segment is anticipated throughout 2025.
+
+2. The Role of AI in Real Estate
+Two years after the release of ChatGPT, AI has become a transformative force across industries, including finance, manufacturing, healthcare, education, and real estate. Even real estate, a traditionally slow adopter of technology, is beginning to integrate AI for enhanced decision-making, task automation, cost reduction, and improved customer service.
+According to JLL's 2023 Global Real Estate Technology Survey, AI and generative AI were ranked among the top three technologies expected to have the greatest impact on real estate over the next three years. The industry has amassed vast amounts of proprietary and third-party data, which is now being leveraged to develop AI-driven systems tailored to real estate-specific tasks.
+2.1 AI Applications in Real Estate
+2.1.1 Listing Descriptions
+Writing property listing descriptions is traditionally a manual and time-consuming process. However, generative AI is transforming this by creating descriptions that are not only unique and compelling but also optimized for SEO positioning. Tools like ListingAI generate high-quality property descriptions in seconds, saving time and costs for real estate agents.
+2.1.2 Property Evaluation
+Estimating the true market value of a property is complex, as it depends on numerous factors, including location, asset features, demographic shifts, and environmental risks. AI-driven machine learning models now analyze large datasets to produce valuations that reflect real-time market conditions rather than broad estimates.
+For example, StadimData has developed an AI-powered platform that collects real estate data and automatically predicts property values, enhancing accuracy in asset evaluation.
+2.1.3 Real Estate Investment
+AI and predictive analytics are revolutionizing investment decision-making in real estate. Advanced machine learning models process granular data, including location, property condition, market demand, economic indicators, and even social media sentiment. Major firms like BlackRock leverage these AI models to gain deeper insights into property values and identify investment opportunities at a global scale.
+3. Conclusion
+The London housing market is experiencing a positive shift in buyer activity and seller engagement, driven by interest rate cuts and changing market dynamics. The anticipated stamp duty changes and sustained supply levels are expected to shape market behavior in 2025. Meanwhile, AI is transforming real estate through automated property descriptions, improved asset valuation, and data-driven investment strategies. As AI adoption continues to grow, its influence on the real estate sector will expand, leading to greater efficiency and accuracy in market transactions.
+
+Data source:
+[London Datastore](<https://data.london.gov.uk/housing/housing-market-report/>)
+[Standord](<https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html>) 
+[Datacamp: AI in Real Estate](<https://www.datacamp.com/blog/ai-in-real-estate>)
+
 
 1. Mckinsey: [Generative AI can change real estate](<https://www.mckinsey.com/industries/real-estate/our-insights/generative-ai-can-change-real-estate-but-the-industry-must-change-to-reap-the-benefits>)
 2. Datacamp: [AI in Real Estate](<https://www.datacamp.com/blog/ai-in-real-estate>)
