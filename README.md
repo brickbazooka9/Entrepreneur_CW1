@@ -202,25 +202,43 @@ Choosing the appropriate legal structure for our business is critical as it dete
 
 #### 2. Partnership
 - **Description**: A partnership involves two or more individuals sharing management, profits, and liabilities.
-- **Cost**: No Companies House registration required; partners must register with HMRC for self-assessment.
+- **Cost**: No Companies House registration required; partners must register with HMRC for self-assessment which typically requires a solicitor and can cost anywhere from £500 to several thousand pounds depending on complexity. Without such an agreement, the Partnership Act 1890 applies by default[1](https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/)
 - **Advantages**: Shared responsibility and expertise.
 - **Disadvantages**: Joint liability for debts and potential conflicts between partners. [[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3)
 
 #### 3. Limited Liability Company (Ltd.)
 - **Description**: A private company where owners' liability is limited to their investment in shares.
-- **Cost**:
-  - Online incorporation fee: £15 (from May 2025)[[4]](https://www.gov.uk/business-finance-support)
-  - Annual confirmation statement filing fee: £14[[4]](https://www.gov.uk/business-finance-support)
-- **Advantages**: Limited liability, separate legal entity, credibility with investors.
+- **Cost (as of may 2024)**:
+  - Online registration: £50
+  - Same-day online registration: £78
+  - Paper registration: £71. [2](https://lawhive.co.uk/knowledge-hub/small-business/how-much-does-it-cost-to-register-a-business-in-the-uk/),[3](https://whittakerandco.com/companies-house-registration-fees-set-to-increase/),[5](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/),[7](https://osome.com/uk/guides/business-registration-costs/),[9](https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees),[10](https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase/)
+- **Ongoing mandatory costs include:**
+   - Annual confirmation statement: £34 online or £62 paper 
+   - Company name changes (if needed): £20 online or £30 paper
+   - Voluntary dissolution (when closing): £33 online or £44 paper. [5](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/), [9](https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees), [10](https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase/)
+- **Taxation Framework**
+   - Limited companies pay corporation tax on profits (currently 19% for small profits and 25% for profits over £250,000, with marginal relief between these thresholds). After corporation tax, profits can be distributed to shareholders as dividends, which are taxed at lower rates than regular income (8.75% for basic rate taxpayers, 33.75% for higher rate, and 39.35% for additional rate in 2024/25). Directors receiving salaries are subject to income tax and National Insurance through PAYE.
+
+- **Advantages**: Limited liability, separate legal entity, credibility with investors.[20](https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/)
 - **Disadvantages**: More complex setup and higher administrative costs[[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3),[[4]](https://www.gov.uk/business-finance-support).
 
 #### 4. Limited Liability Partnership (LLP)
 - **Description**: Combines elements of partnerships and limited companies, offering limited liability to partners.
-- **Cost**:
-  - Incorporation fee: £15 (from May 2025)[[4]](https://www.gov.uk/business-finance-support)
-  - Annual filing fees apply[[4]](https://www.gov.uk/business-finance-support)
+- **Cost (as of may 2024)**:
+  - Online registration: £50
+  - Same-day online registration: £78
+  - Paper registration: £71. [5](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/),[16](https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees)
+- **Ongoing mandatory costs include:**
+   - Annual confirmation statement: £34 online or £62 paper 
+   - Company name changes (if needed): £20 online or £30 paper
+   - Voluntary dissolution (when closing): £33 online or £44 paper. [5](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/)
+
+   While not legally required, an LLP Agreement is strongly recommended to govern the relationship between members. A basic LLP package including a draft agreement costs around £74.99 plus VAT [[11]](https://www.1stformations.co.uk/package/llp/),though more comprehensive bespoke agreements from solicitors can cost considerably more.
+- **Taxation Framework:**
+   - Unlike limited companies, LLPs are "tax transparent" – the LLP itself doesn't pay tax. Instead, profits are allocated to members who pay income tax and National Insurance on their shares through Self Assessment, similar to a traditional partnership. This avoids the double taxation that can occur with limited companies, though it also means LLP members cannot benefit from the potentially lower dividend tax rates available to company shareholders.
+   
 - **Advantages**: Flexibility in management and limited liability.
-- **Disadvantages**: Requires formal agreements and compliance with Companies House regulations [[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3).
+- **Disadvantages**: Requires formal agreements and compliance with Companies House regulations, cannot raise capital by issuing shares like companies [[2]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/),[[3]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3).
 
 For our startup inorder to seek scalability and investor confidence, a Limited Liability Company (Ltd.) is the most suitable option due to its liability protection and growth potential.
 
