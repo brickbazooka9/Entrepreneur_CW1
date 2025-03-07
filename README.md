@@ -223,8 +223,31 @@ Figure 1. Power/Interest grid
 ## Strategy plan 
 
 
-### What is your legal status and structure of your Business? 
 
+### What is your legal status and structure of your Business? 
+<!-- Added by Sam Alshoabi -->
+
+### Legal Entity: A Strategic Foundation for Global Growth
+
+At Entrepreneurs, our legal structure is designed to support our ambitious vision while ensuring flexibility, scalability, and investor confidence. We have strategically chosen to establish our **headquarters in London, United Kingdom**, positioning ourselves at the heart of one of the world’s most dynamic real estate markets. This proximity to London’s thriving property ecosystem—coupled with its status as a global financial hub—enables us to tap into cutting-edge market trends, attract top talent, and forge partnerships that drive our mission forward.
+
+#### Current Structure: Private Limited Liability Company (UK)
+We are launching as a **Private Limited Liability Company (Ltd)** under UK law, a structure that offers the perfect blend of operational agility and legal protection. This setup shields our co-founders from personal liability while allowing us to retain full control over strategic decisions during our early growth phase. By registering as an Ltd, we can efficiently raise capital from private investors, reinvest profits into innovation, and build a robust foundation for our initial operations in the UK and US markets. Our company registration will be filed with **Companies House in the UK**, ensuring compliance with local regulations and establishing our legal presence in this key market.
+
+#### Intellectual Property Protection
+To safeguard our competitive edge, we are also registering our company trademarks and patents in both the **United Kingdom** and the **United States**. These filings, managed through the UK Intellectual Property Office (UKIPO) and the United States Patent and Trademark Office (USPTO), will protect our innovative solutions and brand identity as we enter these foundational markets. This dual registration strategy not only secures our intellectual assets but also signals our commitment to long-term value creation across borders.
+
+#### Future Vision: Transition to a Public Limited Company (PLC) and IPO
+Our growth trajectory is clear and bold. Once Entrepreneurs achieves a valuation of **£50 million**, we plan to transition from a private limited company to a **Public Limited Company (PLC)** under UK law. This shift will pave the way for an **Initial Public Offering (IPO)** on the London Stock Exchange (LSE), unlocking access to public capital markets and accelerating our expansion. By going public, we aim to attract institutional investors, enhance our global visibility, and fuel our next phase of innovation. This milestone will mark our evolution from a nimble startup to a market leader, poised to redefine industry standards.
+
+#### Global Expansion Strategy
+While our initial focus is on the UK and US—two of the world’s most influential markets—our legal roadmap extends far beyond. Following our IPO, we will expand our corporate presence into **Europe**, targeting key innovation hubs like Berlin and Paris; **Dubai**, a gateway to the Middle East’s booming real estate and tech sectors; and **major cities in Asia**, such as Singapore, Tokyo, and Shanghai. In each region, we will establish subsidiaries under our PLC umbrella, tailoring our legal structure to local requirements while maintaining a unified global brand. This phased approach ensures compliance, scalability, and market adaptability as we grow.
+
+#### Why This Matters
+Our legal entity strategy is more than a formality—it’s a competitive advantage. Starting as an Ltd provides the agility to iterate and innovate, while our planned transition to a PLC positions us to scale with confidence. By anchoring our headquarters in London and securing intellectual property in our core markets, we’re building a resilient, future-ready organization capable of leading in a global landscape. At Entrepreneurs, our legal structure is the bedrock of our promise: to deliver value, drive impact, and redefine what’s possible.
+
+<!-- Added by Sam Alshoabi -->
+----------------------------------------------------------------------------------------------------- 
 A sole trader is the simplest business structure in the UK, where a single individual owns and operates the business. There is no legal separation between the business and its owner. Registration is straightforward – you simply need to inform HMRC that you're self-employed by registering for Self Assessment if your trading income exceeds £1,000 in a tax year. This must be done by October 5 following the end of the tax year in which you began trading[[1]](https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/)
 
 
@@ -400,63 +423,28 @@ Figure 2. McKinsey 7S Model
      The skills there will be require to allow a successful development of the product will involve knowledge regarding Machine Learning and AI. Software Development in order to construct a user interface application for the users. Moreover, market research will need to be implement in order to gain deeper understanding on the current real estate trends that will be essential for the product. 
 
 
+### Our Team: The Driving Force Behind Innovation
 
-### Team
-- Who is your team and what are their roles and capabilities?
-  Our Leadership team comprises eight accomploshed professionals with expertise spanning technology, finance, business, and engineering. Collectively, we bring 69 years of combined Academic [Higher Education] and professional experience, ensuring a well rounded and strategic approach to driving the company forward. The diversity and expertise the team brings will ensure an organization that is innovative, lean, and agile.
+At Entrepreneurs, our leadership team is our greatest asset—a group of eight accomplished co-founders whose diverse expertise and shared vision form the backbone of our success. Collectively, we bring **69 years of combined academic and professional experience** to the table, spanning industries such as technology, finance, retail, hospitality, engineering, media, healthcare, and more. With advanced academic backgrounds in fields like Data Science, Computer Science, Mechanical Engineering, Finance, and Psychology, paired with hands-on roles ranging from Program Management to TV Direction, our team is uniquely equipped to tackle complex challenges with a strategic, multidisciplinary approach.
+
+#### Meet the Team
+- **Sam Alshoabi, Co-Founder** – With 15 years of experience, Sam blends expertise in Information Systems and Data Science with a proven track record in retail, technology, and customer service. His roles as a Program Manager, Business Analyst, and Customer Care Manager at companies like Amazon and OLX make him a versatile leader in operational efficiency and customer-centric innovation.
   
-### **Team Overview**
-#### **Sam Alshoabi** – Co-Founder 
-- **Academic Background**: Information Systems, Data Science  
-- **Industry Experience**: Retail, Technology, Customer Service  
-- **Professional Roles**: Program Manager, Business Analyst, Customer Care Manager, Store Manager, Translator
-
 <img src="https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png-1.webp" alt="Amazon" height="40"/>  <img src="https://banner2.cleanpng.com/20180329/wjw/avi0641l4.webp" alt="OLX" height="40"/>  <img src="https://banner2.cleanpng.com/20180526/sgr/kisspng-iphone-logo-samsung-galaxy-telephone-smartphone-5b09a5f1a53ac4.6217597815273589616768.jpg" alt="HTC" height="40"/>   <img src="https://emanhafez.org/wp-content/uploads/2016/11/logo-amideast.png" alt="AMIDEAST" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/university-of-bath.svg" alt="BATH" height="40"/>  <img src="https://www.ibm.com/content/dam/adobe-cms/case-studies/en/sites/default/files/2020-09-25/AUC-AE-Logo-2line-2color-BO-rgb-v-tightcrop2.jpg" alt="AUC" height="40"/>
- ----------------------------------------------------------------------------------------------------------------------------------
+- **Avneet Singh, Co-Founder** – With 14 years of experience in Civil Engineering and Management Business & Finance in Real Estate, Avneet’s background in investment banking, sales, and construction as an Advisor and Consultant ensures robust financial and operational oversight.
+- **Yuta Asai, Co-Founder** – Yuta’s 8 years of Psychology and Computer Science expertise, paired with a career as a TV Director in media, healthcare, and documentaries, bring creative problem-solving and storytelling to our team.
+- **Yu-Han Kao (Tina), Co-Founder** – Tina’s 8 years in Finance & International Business, with roles in banking, research, and product management across banking, information, and mobile/web development, anchor our financial strategy and product vision.
+- **Vineet Naik, Co-Founder** – Vineet’s 7 years of Mechanical Engineering and Data Science experience shine in finance and mechanics. His work as an Engineer and Private Equity Analyst equips him to drive technical and financial strategy with precision.
+- **Sujin Pongchababnapa, Co-Founder** – Sujin’s 6 years of experience in Health Science and Computer Science fuel her insights into F&B and hospitality. As a Consultant and Data Analyst, she brings a sharp analytical mind to optimize processes and enhance decision-making.
+- **Aeden Geo Thomas, Co-Founder** – Aeden’s 6 years in Computer Science Engineering and Software Engineering experience deliver cutting-edge technical solutions and a passion for innovation.
+- **Soroush Alimardani, Co-Founder** – A 5-year academic veteran in Information Technology and Computer Science, Soroush lays a strong technical foundation for our technology-driven initiatives.
 
-#### **Sujin Pongchababnapa** – Co-Founder
-- **Academic Background**: Health Science, Computer Science  
-- **Industry Experience**: F&B, Hospitality  
-- **Professional Roles**: Consultant, Data Analyst  
- ----------------------------------------------------------------------------------------------------------------------------------
 
-#### **Vineet Naik** – Co-Founder
-- **Academic Background**: Mechanical Engineering, Data Science  
-- **Industry Experience**: Finance, Mechanics  
-- **Professional Roles**: Engineering, Private Equity Analyst  
- ----------------------------------------------------------------------------------------------------------------------------------
+#### A Culture of Agility, Learning, and Collaboration
+Our company thrives on an **agile, lean, and data-driven culture**, designed to maximize efficiency and adaptability in a fast-evolving market. We prioritize outsourcing non-core domains to trusted experts, allowing us to focus on our strengths while maintaining a streamlined operation. But what truly sets us apart is our commitment to **skills transfer and cross-functional growth**. Each team member serves as the **primary owner** of a function aligned with their expertise—whether it’s technology, finance, operations, or creative direction—while also acting as a **secondary owner** under another expert’s mentorship. This structure fosters a dynamic learning environment where fresh perspectives, innovative ideas, and broadened skill sets emerge organically. By learning from each other’s extensive domain knowledge, we ensure every function benefits from diverse insights and forward-thinking solutions.
 
-#### **Soroush Alimardani** – Co-Founder
-- **Academic Background**: Information Technology, Computer Science  
-- **Industry Experience**: Technology  
- ----------------------------------------------------------------------------------------------------------------------------------
-
-#### **Avneet Singh** – Co-Founder
-- **Academic Background**: Civil Engineering, Management Business & Finance in Real Estate  
-- **Industry Experience**: Investment Banking, Sales, Construction  
-- **Professional Roles**: Advisor & Consultant  
- ----------------------------------------------------------------------------------------------------------------------------------
-
-#### **Yuta Asai** – Co-Founder  
-- **Academic Background**: Psychology, Computer Science  
-- **Industry Experience**: Media, Healthcare, Documentaries  
-- **Professional Roles**: TV Director  
- ----------------------------------------------------------------------------------------------------------------------------------
-
-#### **Aeden Geo Thomas** – Co-Founder
-- **Academic Background**: Computer Science Engineering  
-- **Industry Experience**: Software Engineering  
-- **Professional Roles**: Software Engineer  
- ----------------------------------------------------------------------------------------------------------------------------------
-
-#### **Yu-Han Kao (Tina)** – Co-Founder
-- **Academic Background**: Finance & International Business  
-- **Industry Experience**: Banking, Information, Mobile & Web Development  
-- **Professional Roles**: Banking Officer, Research Assistant, Product Management  
- ----------------------------------------------------------------------------------------------------------------------------------
-
-#### **Future Hiring Plans**  
-To further strengthen our leadership team, we plan to onboard two additional key hires in **UI/UX** and **Business Development** to address specific business growth needs.
+#### Looking Ahead
+To fuel our growth, we plan to onboard additional key hires and outsource functions in **Legal**, **Taxation**, **HR**, **UI/UX Design** and **Business Development**, bolstering our capacity to deliver intuitive customer experiences and accelerate market expansion. With our current team’s depth and our strategic hiring roadmap, Entrepreneurs is poised to lead with innovation, adaptability, and impact.
 
 | Name                  | Academic | Professional | Academic Background                               | Industry                                      | Profession                                      | Possible Roles                                  |
 |-----------------------|----------|--------------|--------------------------------------------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -513,6 +501,76 @@ There is a risk that fraudulent property listings or malicious users could explo
 
 
 # Meeting Minutes - General Meeting
+
+
+## Meeting Minutes: Startup Business Plan (Property Valuation/Real Estate Technology)
+
+**Date:** February 14, 2025  
+**Time:** 11:15 am 
+**Project:** Startup Business Plan (Property Valuation/Real Estate Technology)  
+
+### Attendees
+(Recorded in ascending order based on time of attendance):  
+1. Yuta Asai  
+2. Yu-Han Kao (Tina)  
+3. Sam Alshoabi  
+4. Vineet Nagaraj Naik  
+5. Avneet Singh  
+
+---
+
+### 1. Project Update and Discussion
+
+- **Business Plan Overview:**  
+  - The team reviewed the business plan sections and available materials, focusing on workload distribution to ensure alignment and efficiency.
+
+---
+
+### 2. Action Items
+
+#### 2.1 Product Description & Summary Discussion  
+- A dedicated team meeting with all members is required to define key business aspects, including:  
+  - Mission, Vision, and Values  
+  - Product Description (Components, Functions, and Value-Added Services)  
+  - Potential Product Offerings  
+  - Conceptual Target Customers  
+- **Action Item:** Schedule an ad-hoc meeting by **February 19, 2025**, ensuring full team availability.
+
+#### 2.2 Competitive Analysis  
+- Each team member is tasked with researching at least one direct competitor, focusing on:  
+  - Product offerings and key features  
+  - Value-added services  
+  - Estimated company valuation, size, and annual sales (if available)  
+- **Action Item:** Upload findings to a designated folder in the team’s GitHub repository to support the upcoming product discussion and market alignment.
+
+#### 2.3 Business Plan Sections – Work Distribution  
+- An initial business plan outline has been drafted by Yuta Asai or Yu-Han Kao. Two proposed work distribution models were presented:  
+  - **Option A: Individual Ownership Model**  
+    - Divide the business plan into 8 sections.  
+    - Assign each member primary ownership of one section and secondary ownership of another for mentorship and support.  
+  - **Option B: Department-Based Model**  
+    - Form 4 subgroups, each responsible for two sections.  
+    - Assign secondary roles across departments for collaboration and contingency planning.  
+- **Action Item:** Finalize the distribution approach at the next team meeting. Team members should provide feedback on the options prior to the discussion.
+
+#### 2.4 Additional Action Items  
+1. **GitHub Repository:** Establish a central repository for project materials.  
+2. **Meeting Minutes Folder:** Create a folder within the repository to store all meeting minutes.  
+3. **Deadlines:** Propose soft and hard deadlines for material submission at the next meeting.  
+4. **Attendance Format:** Confirm whether to record attendees in ascending order by arrival time in future minutes.
+
+---
+
+### 3. Next Steps
+
+- Schedule the ad-hoc meeting by February 19, 2025, to define the product description and finalize work distribution.  
+- Complete competitive analysis and upload results to the GitHub repository.  
+- Provide feedback on work distribution models (Option A or B) before the next meeting.  
+- Initiate setup of the GitHub repository and organize documentation.  
+- Track progress and updates in the repository for team transparency.
+
+---------------------------------------------------------------------------
+
 
 **Date:** March 7, 2025  
 **Time:** 11:14:03 AM  
