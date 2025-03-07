@@ -320,7 +320,7 @@ Property price prediction requires multidimensional data that captures not only 
       Ordnance Survey data resources, particularly their AddressBase system with Unique Property Reference Numbers (UPRNs), provide the spatial foundation for our geographic intelligence platform. Under the Public Sector Geospatial Agreement, certain OS MasterMap data is now available under open license terms, allowing us to "publish property extents created from OS MasterMap Topography Layer under Open Government Licence (OGL) terms"[[17]](https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents). This data will power our map-based interface, enabling users to visualize property price predictions with precise geographical context.
 
 
-#### Real Estate Data
+#### Crime Data
 
 Crime data serves multiple functions within a real estate intelligence platform. It helps investors identify undervalued areas where improving safety metrics may signal future price appreciation. It provides crucial information for home buyers concerned about personal safety and property security. For real estate professionals, it delivers data-driven insights to address client concerns regarding neighborhood safety. This multidimensional utility makes crime statistics an invaluable resource for enhancing the platform's predictive algorithms and user experience.
 
@@ -353,34 +353,6 @@ Crime data serves multiple functions within a real estate intelligence platform.
    - Acquisition Strategy:
 
       The platform will implement scheduled data collection from the ONS portal, focusing on the Metropolitan Police data relevant to London. This data will primarily serve as a validation layer and for broader trend analysis, complementing the more granular data from Police.uk and the London Datastore.
-
-### Technical Infrastructure and Integration Framework
-
-Effectively integrating crime data requires robust technical infrastructure and sophisticated data processing capabilities. The implementation plan includes:
-
-#### Data Processing Pipeline
-
-A comprehensive data pipeline will be established to collect, clean, transform, and integrate crime statistics from multiple sources. This pipeline will include:
-
-1. **API Integration Layer**: Custom connectors for Police.uk and other API-based data sources, with authentication handling, rate limiting compliance, and error recovery mechanisms.
-2. **ETL Processes**: Automated Extract-Transform-Load workflows to standardize data from diverse sources into a unified schema, including geocoding and spatial indexing for location-based queries.
-3. **Data Warehouse**: A scalable data warehouse to store historical and current crime statistics, optimized for analytical queries and machine learning applications.
-4. **Incremental Update Mechanism**: A system to identify and process only new or changed data, minimizing processing overhead while maintaining data currency.
-
-The UK Crime Rate API represents a particularly valuable resource for this process, as it specifically returns crime rates for UK postcodes or locations. This API can be deployed as a Lambda function via API Gateway, enabling efficient cloud-based processing. The implementation could leverage the open-source approach described in the documentation, which provides a simple interface for retrieving crime data by postcode or location name[^2].
-
-#### Geographic Intelligence System
-
-Crime data must be precisely mapped to geographic locations to enable meaningful real estate analysis. The geographic intelligence system will include:
-
-1. **Geocoding Service**: To translate between different geographic identifiers (postcodes, coordinates, LSOAs, wards) and ensure accurate spatial alignment of crime and property data.
-2. **Spatial Database**: A database with geographic information system (GIS) capabilities to enable location-based queries and spatial analysis.
-3. **Geographic Visualization**: Interactive mapping components to display crime statistics in relation to properties and neighborhoods.
-
-The implementation may draw inspiration from existing systems like illustreets' Xploria platform, which effectively amalgamates demographic, environmental, property, and connectivity data with crime statistics to offer comprehensive location intelligence for UK real estate. This approach allows users to switch between different thematic layers, including crime rank, and access detailed data by clicking on specific locations[^11].
-
-
-- Core Dataset Requirements
 
 #### Marketing Resources
 To reach target customers—real estate agents, property developers, and home buyers/sellers—the business needs effective marketing channels. The plan suggests a B2C approach with subscription models, indicating a need for customer acquisition strategies.
@@ -668,3 +640,73 @@ There is a risk that fraudulent property listings or malicious users could explo
 - Continue individual work on assigned sections
 - Share progress updates during next team meeting
 - Document all work on GitHub
+
+
+
+
+[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/35116942/9454212e-b468-45fd-b6c8-ab76dda9cb6b/paste.txt
+
+[^2]: https://github.com/imjacobclark/api-crime-rate
+
+[^3]: https://data.ubdc.ac.uk/dataset/recorded-crime-summary-data-london-lsoa-level
+
+[^4]: https://www.statista.com/topics/4627/crime-in-london/
+
+[^5]: https://data.police.uk/docs/method/crime-street/
+
+[^6]: https://www.london.gov.uk/decisions/md2181-safestats-crime-and-community-safety-data-portal
+
+[^7]: https://api.store/united-kingdom-api/government-digital-service-api/recorded-crime-summary-data-for-london-borough-level-api
+
+[^8]: https://github.com/datasets/london-crime
+
+[^9]: https://www.police.uk/pu/your-area/metropolitan-police-service/performance/compare-your-area/?tc=E05009317
+
+[^10]: https://data.police.uk/docs/method/crimes-at-location/
+
+[^11]: https://illustreets.com/showcase/xploria/
+
+[^12]: https://crimerate.co.uk/london
+
+[^13]: https://data.london.gov.uk/dataset/recorded_crime_summary
+
+[^14]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables
+
+[^15]: https://data.police.uk
+
+[^16]: https://credas.com/real-estate/
+
+[^17]: https://www.police.uk
+
+[^18]: https://data.police.uk/docs/
+
+[^19]: https://data.london.gov.uk/dataset?q=crime
+
+[^20]: https://www.met.police.uk/sd/stats-and-data/met/crime-data-dashboard/
+
+[^21]: https://data.police.uk/data/
+
+[^22]: https://www.londonpolice.ca/en/about/crime-statistics.aspx
+
+[^23]: https://data.london.gov.uk/dataset/mps-monthly-crime-dahboard-data
+
+[^24]: https://www.cityoflondon.police.uk/sd/stats-and-data/
+
+[^25]: https://www.met.police.uk/sd/stats-and-data/
+
+[^26]: https://www.kaggle.com/datasets/jboysen/london-crime
+
+[^27]: https://www.api.gov.uk/ukp/
+
+[^28]: https://trustforlondon.org.uk/data/crime-and-income-deprivation/
+
+[^29]: https://data.police.uk/docs/method/stops-at-location/
+
+[^30]: https://capindex.com
+
+[^31]: https://www.reddit.com/r/RealEstate/comments/15lmpx8/any_realestate_app_with_crime_data/
+
+[^32]: https://novusaltair.co.uk/2025/01/01/statistical-review-of-2024-crime-in-london-vs-uk-and-the-security-industry-response/
+
+[^33]: https://www.estateagenttoday.co.uk/breaking-news/2024/03/agency-software-provider-launches-embedded-property-information-questionnaires/
+
