@@ -74,7 +74,7 @@ For example, StadimData has developed an AI-powered platform that collects real 
 2.3 Real Estate Investment
 AI and predictive analytics are revolutionizing investment decision-making in real estate. Advanced machine learning models process granular data, including location, property condition, market demand, economic indicators, and even social media sentiment. Major firms like BlackRock leverage these AI models to gain deeper insights into property values and identify investment opportunities at a global scale.
 
-3. Conclusion
+3. Conclusion:
 The London housing market is experiencing a positive shift in buyer activity and seller engagement, driven by interest rate cuts and changing market dynamics. The anticipated stamp duty changes and sustained supply levels are expected to shape market behavior in 2025. Meanwhile, AI is transforming real estate through automated property descriptions, improved asset valuation, and data-driven investment strategies. As AI adoption continues to grow, its influence on the real estate sector will expand, leading to greater efficiency and accuracy in market transactions.
 
 Data source:
