@@ -36,8 +36,11 @@
 #### What are the important questions you need to find answers to?
 
 1.Who are our customers? How can we customize our products/services to meet their needs?
+
 2.How do we resolve the data challenges related to our product?
+
 3.How to identify and capitalize on potential investment opportunities?
+
 4.Who are our competitors, and what competitive advantages do we have?
 
 
