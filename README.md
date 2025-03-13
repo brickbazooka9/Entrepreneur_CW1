@@ -1,4 +1,22 @@
-# Entrepreneur_CW1
+# Entrepreneurship CW1
+
+<img width="400" alt="Tean_logo" src="https://github.com/user-attachments/assets/985e803d-c47e-4b3c-b836-9396aa7d48a5" />
+
+| Team Members  | BUCS identifiers | 
+| ------------- | ------------- |
+| Sam Alshoabi | omqa20 |
+| Jint Pongchababnapa | sp2689 |
+| Aeden Geo Thomas | agt53 |
+| Yu-Han Kao | yhk56 |
+| Soroush Alimardani | sa3617 |
+| Avneet Singh | as6277 |
+| Yuta Asai | ya549 |
+| Vineet Nagaraj Naik| vnn28 |
+
+
+--- 
+
+<div style="page-break-after: always;"></div>
 
 
 ## Product 
@@ -466,14 +484,13 @@ Figure 2. McKinsey 7S Model
    - Subscription base business model with the inclusion of two services 1) Basic version and 2) Premium Version.
    - Apply Machine Learning to predicts the trends of the market through historical data.
 
-  2) Structure
+  2) Structure/Staff
      This section aims to identify the hierarchy of the team which include:
      - Data Science Team: Responsible for the development of the Machine Learning Model and price prediction
      - Software Development Team: Responsible for the development of the user interface of the application
-     - More ???
+     - Marketing and Sales Team: Responsible for the delivery of the product and the generation of revenue of the product
 
   3) Systems
-     
       The systems of the framework aims to identify the workflows in order to run the business efficiently. This may involve the implementation of AI training pipeline that focuses on collecting and cleaning the real estate market data. The implementation of User Query Processing where the application allow user to input a location, the type of the property and the AI model will generate the cost prediction base on the user's input. Additionally, the systems should aim to be able to update its data base on the trends of the market and economic factors which may involve the implementation of daily updates from APIs and news source.
   
   4) Shared Values
@@ -484,9 +501,8 @@ Figure 2. McKinsey 7S Model
   5) Style
    The management within the team will follow an agile methodology and weekly meetings will be conducted and quick iterations on the development of the product. Additionally the team will be encourage to allow cross-functional teamwork between each team in order to enhance productivity and allow new insights to be obtain.
 
-  6) Staff
      
-  7) Skills
+  6) Skills
      The skills there will be require to allow a successful development of the product will involve knowledge regarding Machine Learning and AI. Software Development in order to construct a user interface application for the users. Moreover, market research will need to be implement in order to gain deeper understanding on the current real estate trends that will be essential for the product. 
 
 
