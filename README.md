@@ -550,37 +550,88 @@ To fuel our growth, we plan to onboard additional key hires and outsource functi
 
 
 ### What are the main risks to the success of your business and how will you address or mitigate them?
-The team conducted a PESTLE analysis to identify external factors that may hinder the success of the business.
+We conducted a PESTLE analysis to identify external factors that may hinder the success of the business.
 
-| Category       | Description  |
-|---------------|-------------|
-| **Political**  | - The government may impose restrictions on foreign investors purchasing real estate. <br> - Government urban development policies could disrupt AI-based price predictions. <br> - Strengthened immigration restrictions may reduce housing demand in urban areas. <br> - International conflicts may lead investors to withdraw from the market. |
-| **Economic**   | - Rising interest rates may increase home-buying costs and lead to declining property prices. <br> - The expansion of remote work may increase property prices in suburban areas. <br> - Economic downturns may drive demand for real estate as a safe-haven asset. |
-| **Social**     | - Demand for rental properties may increase over home purchases. <br> - New investment methods (e.g., real estate tokenization) may attract more investors. <br> - Public perception of AI-driven decision-making in real estate. <br> - People's concerns about remote real estate transactions. <br> *(If major fraud cases occur, it could damage the brand's reputation.)* |
-| **Technological** | - Real estate tokenization (Failure to adapt may result in losing market competitiveness). <br> - Increasing cybersecurity risks *(Personal data leaks, fraud, hacking of payment systems, blockchain vulnerabilities).* <br> - Growing attention to PropTech → More competitors entering the market. *(Risk of AI prediction programs/systems being copied).* <br> - The accuracy of AI-driven predictions remains uncertain. |
-| **Legal**      | - Compliance with GDPR and personal data protection regulations. <br> - The need to ensure transparency and accountability in AI-based prediction models. *(Depending on how it is used, it could be classified as market manipulation).* <br> - Legal risks associated with cross-border transactions and foreign investors. <br> - Potential introduction of new regulations governing AI usage. |
-| **Environmental** | - Climate change, natural disasters, and pandemics may lower demand in specific areas. |
+| **Category**       | **Description**  |
+|-------------------|----------------|
+| **Political**  | - The government imposes restrictions on foreign investors buying real estate (a decrease in customers).<br> - The government's urban development policies increase the demand for housing in urban areas (Pricing miscalculation).<br> - Tighter immigration restrictions decrease the demand for housing in urban areas (Pricing miscalculation).<br> - International conflicts cause investors to withdraw from the market (a decrease in customers). |
+| **Economic**   | - Rising interest rates increase the cost of buying a home (Pricing miscalculation).<br> - Expansion of remote work leads to rising suburban real estate prices (Pricing miscalculation).<br> - Economic downturn leads to increased demand for real estate as a safe asset (increasing number of customers).<br> - Economic downturn makes it difficult to retain employees. |
+| **Social**     | - Demand for rental properties exceeds home purchases (market change).<br> - Increase in investors due to emergence of new investment methods (tokenization of real estate).<br> - Increase in resistance to AI-based services among the general public.<br> - Increase in people's concerns about remote real estate transactions (loss of brand reputation due to fraud cases). |
+| **Technological** | - Inability to adapt to tokenization of real estate (reduced market competitiveness).<br> - Increased cybersecurity risks (personal data leaks, fraud, hacking of payment systems, etc.).<br> - Competitors enter the market (risk of AI prediction programs being copied).<br> - Low accuracy of AI predictions (reduced market competitiveness). |
+| **Legal**      | - Violation of GDPR and personal data protection regulations.<br> - AI-based services are considered market manipulation.<br> - Legal risks related to cross-border transactions and foreign investors.<br> - Strengthened regulations on the use of AI. |
+| **Environmental** | - Decrease in customers due to climate change, natural disasters, pandemics.<br> - Changes in the working environment due to climate change, natural disasters, pandemics. |
 
-### Analysis of Key Business Risks Based on PESTLE Findings
 
-(We will select one of the risks below and provide a detailed discussion, including Mitigation & Contingency Plans.)
+As a result of the PESTLE analysis above, we have narrowed it down to two issues that are most likely to hinder the company's success.  
 
-**Talent Shortage**
-Our business relies heavily on high-value online transactions and foreign investors, requiring robust payment systems and extensive legal and tax-related operations.
-A lack of expertise in cybersecurity and legal compliance could lead to regulatory fines and reputational risks.
-Additionally, startups face challenges in attracting top talent, making it difficult to secure professionals with specialized knowledge.
+#### **Shortage of Talent**
 
-**Acquiring the First Customers**
-Without acquiring early adopters, the business may fail to gain traction, leading to financial constraints.
-Since trust is critical in the real estate industry, a lack of brand recognition could make potential customers hesitant to use the platform.
 
-**Technology Imitation by Competitors**
-AI-driven real estate investment tools are gaining attention, and more companies are expected to enter the market.
-AI technologies are relatively easy to replicate, making it difficult to establish sustainable competitive differentiation.
+##### Problem Description
+Our business is highly dependent on online payments and overseas investors as key revenue sources. Therefore, we need experts in data security, privacy, and legal regulations, but there is currently a shortage of the necessary talent. Several competitors in the real estate industry are already hiring AI engineers and real estate experts. These companies offer high salaries and comprehensive benefits, making it challenging to acquire skilled professionals.  
+If this issue is not addressed, future AI regulations or tax system changes may cause delays in compliance due to the lack of in-house experts. In more severe cases, failure to comply with regulations could result in penalties or legal sanctions.  
+This problem is closely linked to several risks identified in the PESTLE analysis, such as reduced hiring due to economic recessions and a sharp increase in remote work caused by the pandemic. If not properly mitigated, these factors could jeopardise the survival of the company's services.  
 
-**Fraud and Technical Errors Leading to Loss of Trust**
-If fraudulent activities occur, the brand’s credibility will be severely impacted, leading to customer attrition.
-There is a risk that fraudulent property listings or malicious users could exploit the system, further damaging trust and reputation.
+
+
+##### Mitigation Plan for Talent Shortage
+To prevent this situation from occurring, we are considering several proactive measures.  
+
+1) Working Environment and Recruitment
+We aim to attract talented individuals by offering competitive working conditions. For example, we will introduce a stock option system to address talent shortages at an early stage. Additionally, we will enable full remote work, allowing us to recruit skilled professionals from around the world. This will not only expand the talent pool but also help secure employees who are familiar with the legal frameworks in regions where overseas investors reside. Furthermore, by hiring senior personnel, we can immediately strengthen our workforce.  
+
+2) Talent Training
+We provide tuition assistance and employee training programs to foster skill development for existing employees. We also cross-train employees from other departments with the technical or legal departments. This training allows employees to become familiar with the responsibilities of various departments in advance and allows operations to continue even if key personnel are unavailable.  
+
+
+
+##### Contingency Plan for Labour Shortages
+If a labour shortage materialises, we will implement the following contingency measures.  
+
+1) Overtime and Reassignment of Existing Employees
+For short-term vacancies, existing employees will temporarily work overtime. Additionally, we will reassign employees who have undergone cross-training to fill critical vacant positions.  
+
+2) Utilisation of External Resources
+For long-term vacancies, we will hire freelancers or contract employees. Furthermore, we will outsource specialised tasks through temporary contracting where necessary.  
+
+3) Reduction of Work Scope
+If the above measures prove insufficient, we will consider temporarily reducing the scope of work. Specifically, if servicing overseas investors becomes difficult, we will prioritise the domestic market. Additionally, we will pause new feature development and focus on ensuring the stable operation of existing services.  
+
+---
+
+#### **Regulatory Changes**
+
+
+##### Problem Description
+The second biggest risk we envision is regulatory changes.  
+For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023. In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025. In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.  
+
+Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms. The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, leading to inspections and a loss of trust in the platform.  
+
+
+##### Mitigation Plan for Regulatory Changes
+We are considering multiple countermeasures to mitigate the above risks.  
+
+1) Keeping Up with the Latest Trends
+We will hire a legal advisor to provide guidance on legal changes and regulatory developments in the UK. At the same time, we will stay informed of early signs of regulatory shifts.  
+
+2) Ensuring Fairness and Transparency
+According to Morgan Lewis, ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
+At the same time, we will conduct evaluations by independent auditing agencies multiple times a year to verify the fairness of pricing.  
+
+
+
+##### Contingency Plan for Regulatory Changes
+
+1) If regulations on AI pricing are tightened
+We will revise our AI pricing process to comply with new regulations under the guidance of the auditing agency.  
+
+2) If regulations on foreign investors are tightened
+We will shift our focus to investors in the UK and EU. Additionally, we will consider expanding our services to emerging markets with lower regulatory risks.  
+
+
+
+
 
 
 # Meeting Minutes - General Meeting
