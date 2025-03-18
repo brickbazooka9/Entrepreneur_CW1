@@ -20,8 +20,8 @@
 
 
 ## Product 
-
-### Product Overview 
+<!-- Added by Vineet -->
+### Product Overview  
 XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics, predictive modeling, and immersive VR/AR technologies to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
 
 
@@ -52,9 +52,11 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 4. Visit Property Remotely with VR/AR: VR and AR techniques allow buyers to explore properties remotely, reducing the need for in-person visits.
 
 #### How the Platform Achieves Automated Property Search & Data Collection
+<!-- Added by Vineet -->
 XYZ automates property search using AI-driven crawlers and APIs, aggregating real-time data from various sources like Land Registry and Zoopla. Machine learning cleans and validates data while geocoding maps properties. Continuous updates power predictive models, delivering personalized alerts and interactive dashboards, cutting search time from hours to seconds.
 
 #### What are the product(s) or service(s) that will meet that need (value proposition)? How?
+<!-- Added by Vineet -->
 ##### Product/Service: AI-Driven Real Estate Intelligence Platform
 Value Proposition:
 The platform leverages AI analytics, geospatial mapping, and VR/AR to simplify property discovery, evaluation, and investment decisions.
@@ -78,7 +80,7 @@ How It Works: Aggregates environmental data (e.g., flood zones, pollution levels
 User Benefit: Alerts users to hidden risks, such as properties in high-tax zones, enabling smarter investment decisions.
 
 #### 	What analysis led you to identify that product or service as a promising option?
-
+<!-- Added by Vineet -->
 The development of XYZ was guided by key market research insights and stakeholder analysis, focusing on the evolving needs of real estate professionals and home buyers. The primary factors influencing XYZ’s design and functionality include the rising demand for data-driven decision-making, the AI adoption gap in real estate, and competitor weaknesses.
 
 ##### Market Insights Informing XYZ Development
@@ -97,10 +99,13 @@ Existing platforms, such as PropertyData and Nimbus Maps, reveal notable gaps. P
 
 Stakeholder interviews with real estate agents and investors emphasized the need for explainable valuations (e.g., justifying prices to clients) and enhanced risk transparency (e.g., awareness of flood zones). XYZ addresses these needs by leveraging machine learning models trained on extensive datasets (e.g. the Land Registry’s Price Paid Data spanning from 1995 to 2024).
 
-#### Adding references here for this section just for the time being
+#### Adding references here for this section just for the time being <!-- Added by Vineet -->
 [1] Financial Times. (2023). London Housing Market Trends. Retrieved from Financial Times - https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1?utm_source=chatgpt.com
 [2] JLL. (2023). Global Real Estate Technology Survey. Retrieved from JLL - https://www.jllt.com/research/global-real-estate-technology-survey-2023/?
 [3] HM Land Registry. (2024). Price Paid Data. Retrieved from HM Land Registry - https://www.gov.uk/government/organisations/land-registry
+
+### Business Model Canvas
+
 
 # Sales and Marketing Plan
 
