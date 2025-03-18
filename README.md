@@ -577,25 +577,25 @@ This problem is closely linked to several risks identified in the PESTLE analysi
 ##### Mitigation Plan for Talent Shortage
 To prevent this situation from occurring, we are considering several proactive measures.  
 
-1) Working Environment and Recruitment
-We aim to attract talented individuals by offering competitive working conditions. For example, we will introduce a stock option system to address talent shortages at an early stage. Additionally, we will enable full remote work, allowing us to recruit skilled professionals from around the world. This will not only expand the talent pool but also help secure employees who are familiar with the legal frameworks in regions where overseas investors reside. Furthermore, by hiring senior personnel, we can immediately strengthen our workforce.  
+**1) Working Environment and Recruitment:**
+   We aim to attract talented individuals by offering competitive working conditions. For example, we will introduce a stock option system to address talent shortages at an early stage. Additionally, we will enable full remote work, allowing us to recruit skilled professionals from around the world. This will not only expand the talent pool but also help secure employees who are familiar with the legal frameworks in regions where overseas investors reside. Furthermore, by hiring senior personnel, we can immediately strengthen our workforce.
 
-2) Talent Training
-We provide tuition assistance and employee training programs to foster skill development for existing employees. We also cross-train employees from other departments with the technical or legal departments. This training allows employees to become familiar with the responsibilities of various departments in advance and allows operations to continue even if key personnel are unavailable.  
+**2) Talent Training:**
+   We provide tuition assistance and employee training programs to foster skill development for existing employees. We also cross-train employees from other departments with the technical or legal departments. This training allows employees to become familiar with the responsibilities of various departments in advance and allows operations to continue even if key personnel are unavailable.  
 
 
 
 ##### Contingency Plan for Labour Shortages
 If a labour shortage materialises, we will implement the following contingency measures.  
 
-1) Overtime and Reassignment of Existing Employees
-For short-term vacancies, existing employees will temporarily work overtime. Additionally, we will reassign employees who have undergone cross-training to fill critical vacant positions.  
+**1) Overtime and Reassignment of Existing Employees:**   
+   For short-term vacancies, existing employees will temporarily work overtime. Additionally, we will reassign employees who have undergone cross-training to fill critical vacant positions.  
 
-2) Utilisation of External Resources
-For long-term vacancies, we will hire freelancers or contract employees. Furthermore, we will outsource specialised tasks through temporary contracting where necessary.  
+**2) Utilisation of External Resources:**   
+   For long-term vacancies, we will hire freelancers or contract employees. Furthermore, we will outsource specialised tasks through temporary contracting where necessary.  
 
-3) Reduction of Work Scope
-If the above measures prove insufficient, we will consider temporarily reducing the scope of work. Specifically, if servicing overseas investors becomes difficult, we will prioritise the domestic market. Additionally, we will pause new feature development and focus on ensuring the stable operation of existing services.  
+**3) Reduction of Work Scope:**   
+   If the above measures prove insufficient, we will consider temporarily reducing the scope of work. Specifically, if servicing overseas investors becomes difficult, we will prioritise the domestic market. Additionally, we will pause new feature development and focus on ensuring the stable operation of existing services.  
 
 ---
 
@@ -604,19 +604,19 @@ If the above measures prove insufficient, we will consider temporarily reducing 
 
 ##### Problem Description
 The second biggest risk we envision is regulatory changes.  
-For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023. In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025. In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.  
+For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[[18]](https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html). In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[[19]](https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/). In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.  
 
-Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms. The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, leading to inspections and a loss of trust in the platform.  
+Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms[[20]](https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit). The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, which might lead to inspections and a loss of trust in the platform.  
 
 
 ##### Mitigation Plan for Regulatory Changes
 We are considering multiple countermeasures to mitigate the above risks.  
 
 1) Keeping Up with the Latest Trends
-We will hire a legal advisor to provide guidance on legal changes and regulatory developments in the UK. At the same time, we will stay informed of early signs of regulatory shifts.  
+   We will hire a legal advisor to provide guidance on legal changes and regulatory developments in the UK. At the same time, we will stay informed of early signs of regulatory shifts.  
 
 2) Ensuring Fairness and Transparency
-According to Morgan Lewis, ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
+   According to Morgan Lewis[[21]](https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations), ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
 At the same time, we will conduct evaluations by independent auditing agencies multiple times a year to verify the fairness of pricing.  
 
 
@@ -624,7 +624,7 @@ At the same time, we will conduct evaluations by independent auditing agencies m
 ##### Contingency Plan for Regulatory Changes
 
 1) If regulations on AI pricing are tightened
-We will revise our AI pricing process to comply with new regulations under the guidance of the auditing agency.  
+We will revise our AI pricing process to comply with new regulations under the guidance of the auditing agency.
 
 2) If regulations on foreign investors are tightened
 We will shift our focus to investors in the UK and EU. Additionally, we will consider expanding our services to emerging markets with lower regulatory risks.  
