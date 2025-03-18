@@ -577,10 +577,10 @@ This problem is closely linked to several risks identified in the PESTLE analysi
 ##### Mitigation Plan for Talent Shortage
 To prevent this situation from occurring, we are considering several proactive measures.  
 
-**1) Working Environment and Recruitment:**
+1) Working Environment and Recruitment:   
    We aim to attract talented individuals by offering competitive working conditions. For example, we will introduce a stock option system to address talent shortages at an early stage. Additionally, we will enable full remote work, allowing us to recruit skilled professionals from around the world. This will not only expand the talent pool but also help secure employees who are familiar with the legal frameworks in regions where overseas investors reside. Furthermore, by hiring senior personnel, we can immediately strengthen our workforce.
 
-**2) Talent Training:**
+2) Talent Training:   
    We provide tuition assistance and employee training programs to foster skill development for existing employees. We also cross-train employees from other departments with the technical or legal departments. This training allows employees to become familiar with the responsibilities of various departments in advance and allows operations to continue even if key personnel are unavailable.  
 
 
@@ -588,13 +588,13 @@ To prevent this situation from occurring, we are considering several proactive m
 ##### Contingency Plan for Labour Shortages
 If a labour shortage materialises, we will implement the following contingency measures.  
 
-**1) Overtime and Reassignment of Existing Employees:**   
+1) Overtime and Reassignment of Existing Employees:   
    For short-term vacancies, existing employees will temporarily work overtime. Additionally, we will reassign employees who have undergone cross-training to fill critical vacant positions.  
 
-**2) Utilisation of External Resources:**   
+2) Utilisation of External Resources:   
    For long-term vacancies, we will hire freelancers or contract employees. Furthermore, we will outsource specialised tasks through temporary contracting where necessary.  
 
-**3) Reduction of Work Scope:**   
+3) Reduction of Work Scope:   
    If the above measures prove insufficient, we will consider temporarily reducing the scope of work. Specifically, if servicing overseas investors becomes difficult, we will prioritise the domestic market. Additionally, we will pause new feature development and focus on ensuring the stable operation of existing services.  
 
 ---
@@ -612,10 +612,10 @@ Additionally, AI-based pricing could be considered market manipulation in the fu
 ##### Mitigation Plan for Regulatory Changes
 We are considering multiple countermeasures to mitigate the above risks.  
 
-1) Keeping Up with the Latest Trends
+1) Keeping Up with the Latest Trends:   
    We will hire a legal advisor to provide guidance on legal changes and regulatory developments in the UK. At the same time, we will stay informed of early signs of regulatory shifts.  
 
-2) Ensuring Fairness and Transparency
+2) Ensuring Fairness and Transparency:   
    According to Morgan Lewis[[21]](https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations), ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
 At the same time, we will conduct evaluations by independent auditing agencies multiple times a year to verify the fairness of pricing.  
 
@@ -623,11 +623,11 @@ At the same time, we will conduct evaluations by independent auditing agencies m
 
 ##### Contingency Plan for Regulatory Changes
 
-1) If regulations on AI pricing are tightened
-We will revise our AI pricing process to comply with new regulations under the guidance of the auditing agency.
+1) If regulations on AI pricing are tightened:   
+   We will revise our AI pricing process to comply with new regulations under the guidance of the auditing agency.
 
-2) If regulations on foreign investors are tightened
-We will shift our focus to investors in the UK and EU. Additionally, we will consider expanding our services to emerging markets with lower regulatory risks.  
+2) If regulations on foreign investors are tightened:   
+   We will shift our focus to investors in the UK and EU. Additionally, we will consider expanding our services to emerging markets with lower regulatory risks.  
 
 
 
