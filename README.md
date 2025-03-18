@@ -21,6 +21,10 @@
 
 ## Product 
 
+### Product Overview 
+XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics, predictive modeling, and immersive VR/AR technologies to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks—by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
+
+
 #### What are the customer needs that you hope to satisfy (pains & gains)?
 
 **pains**
