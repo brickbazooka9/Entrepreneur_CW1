@@ -22,7 +22,7 @@
 ## Product 
 
 ### Product Overview 
-XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics, predictive modeling, and immersive VR/AR technologies to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks—by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
+XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics, predictive modeling, and immersive VR/AR technologies to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
 
 
 #### What are the customer needs that you hope to satisfy (pains & gains)?
@@ -51,7 +51,56 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 
 4. Visit Property Remotely with VR/AR: VR and AR techniques allow buyers to explore properties remotely, reducing the need for in-person visits.
 
+#### How the Platform Achieves Automated Property Search & Data Collection
+XYZ automates property search using AI-driven crawlers and APIs, aggregating real-time data from various sources like Land Registry and Zoopla. Machine learning cleans and validates data while geocoding maps properties. Continuous updates power predictive models, delivering personalized alerts and interactive dashboards, cutting search time from hours to seconds.
 
+#### What are the product(s) or service(s) that will meet that need (value proposition)? How?
+##### Product/Service: AI-Driven Real Estate Intelligence Platform
+Value Proposition:
+The platform leverages AI analytics, geospatial mapping, and VR/AR to simplify property discovery, evaluation, and investment decisions.
+
+##### Key Features:
+
+**AI-Powered Market Scanner**
+How It Works: Crawls various data sources (e.g., Land Registry, crime databases, news APIs) to generate real-time reports on pricing trends, rental yields, and neighborhood risks.
+User Benefit: Identifies high-growth areas and flags overvalued properties, providing users with valuable investment insights.
+
+**Predictive Valuation Engine**
+How It Works: The underlying ML model, trained on 10+ years of London housing data, incorporates macroeconomic factors (interest rates, immigration) and hyperlocal variables (school ratings, flood risks).
+User Benefit: Offers accurate, instant valuations with confidence intervals, reducing uncertainty for buyers and agents.
+
+**VR/AR Virtual Tours**
+How It Works: Integrates 3D property scans with an immersive app, allowing users to tour homes and overlay renovation simulations through AR virtually.
+User Benefit: Reduces travel costs and speeds up decision-making, especially for overseas investors.
+
+**Investment Risk Dashboard**
+How It Works: Aggregates environmental data (e.g., flood zones, pollution levels) and regulatory changes (e.g., stamp duty updates) into a risk score.
+User Benefit: Alerts users to hidden risks, such as properties in high-tax zones, enabling smarter investment decisions.
+
+#### 	What analysis led you to identify that product or service as a promising option?
+
+The development of XYZ was guided by key market research insights and stakeholder analysis, focusing on the evolving needs of real estate professionals and home buyers. The primary factors influencing XYZ’s design and functionality include the rising demand for data-driven decision-making, the AI adoption gap in real estate, and competitor weaknesses.
+
+##### Market Insights Informing XYZ Development
+
+**1. Rising Demand for Data-Driven Decisions**
+
+Anticipated changes in stamp duty regulations post-2025 are expected to shape first-time buyer activity in London. Recent trends indicate that increasing property costs have pushed first-time buyers to seek homes further from central London. In 2023, all London local authorities experienced a decline in first-time buyer mortgages per 1,000 dwellings compared to 2013, with the average London house price reaching £549,000 (Financial Times, 2023) [1]. This underscores the necessity for data-driven tools that empower buyers with insights on affordability and market trends.
+
+**2. AI Adoption Gap in Real Estate**
+
+Despite widespread recognition of artificial intelligence (AI) as a disruptive force, the real estate industry exhibits relatively low adoption rates. According to JLL's 2023 Global Real Estate Technology Survey, AI and clean tech solutions are identified as game-changers, yet many companies lack a comprehensive understanding of these technologies. Adoption remains limited, highlighting a need for XYZ to provide accessible AI-driven property insights (JLL, 2023) [2].
+
+**3. Competitor Weaknesses**
+
+Existing platforms, such as PropertyData and Nimbus Maps, reveal notable gaps. PropertyData’s user interface can be overwhelming, while Nimbus Maps is associated with high costs and suboptimal mobile functionality. Furthermore, these platforms often fail to integrate critical variables, such as crime rates and environmental risks, which are essential for comprehensive property evaluations.
+
+Stakeholder interviews with real estate agents and investors emphasized the need for explainable valuations (e.g., justifying prices to clients) and enhanced risk transparency (e.g., awareness of flood zones). XYZ addresses these needs by leveraging machine learning models trained on extensive datasets (e.g. the Land Registry’s Price Paid Data spanning from 1995 to 2024).
+
+#### Adding references here for this section just for the time being
+[1] Financial Times. (2023). London Housing Market Trends. Retrieved from Financial Times - https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1?utm_source=chatgpt.com
+[2] JLL. (2023). Global Real Estate Technology Survey. Retrieved from JLL - https://www.jllt.com/research/global-real-estate-technology-survey-2023/?
+[3] HM Land Registry. (2024). Price Paid Data. Retrieved from HM Land Registry - https://www.gov.uk/government/organisations/land-registry
 
 # Sales and Marketing Plan
 
