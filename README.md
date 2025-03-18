@@ -55,7 +55,7 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 <!-- Added by Vineet -->
 XYZ automates property search using AI-driven crawlers and APIs, aggregating real-time data from various sources like Land Registry and Zoopla. Machine learning cleans and validates data while geocoding maps properties. Continuous updates power predictive models, delivering personalized alerts and interactive dashboards, cutting search time from hours to seconds.
 
-#### What are the product(s) or service(s) that will meet that need (value proposition)? How?
+## What are the product(s) or service(s) that will meet that need (value proposition)? How?
 <!-- Added by Vineet -->
 ##### Product/Service: AI-Driven Real Estate Intelligence Platform
 Value Proposition:
@@ -79,7 +79,7 @@ User Benefit: Reduces travel costs and speeds up decision-making, especially for
 How It Works: Aggregates environmental data (e.g., flood zones, pollution levels) and regulatory changes (e.g., stamp duty updates) into a risk score.
 User Benefit: Alerts users to hidden risks, such as properties in high-tax zones, enabling smarter investment decisions.
 
-#### 	What analysis led you to identify that product or service as a promising option?
+## 	What analysis led you to identify that product or service as a promising option?
 <!-- Added by Vineet -->
 The development of XYZ was guided by key market research insights and stakeholder analysis, focusing on the evolving needs of real estate professionals and home buyers. The primary factors influencing XYZ’s design and functionality include the rising demand for data-driven decision-making, the AI adoption gap in real estate, and competitor weaknesses.
 
