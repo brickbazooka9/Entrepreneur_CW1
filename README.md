@@ -104,7 +104,10 @@ Stakeholder interviews with real estate agents and investors emphasized the need
 [2] JLL. (2023). Global Real Estate Technology Survey. Retrieved from JLL - https://www.jllt.com/research/global-real-estate-technology-survey-2023/?
 [3] HM Land Registry. (2024). Price Paid Data. Retrieved from HM Land Registry - https://www.gov.uk/government/organisations/land-registry
 
-### Business Model Canvas
+## Business Model Canvas
+
+![image_alt](https://github.com/Jintpong/Entrepreneur_CW1/blob/e5ceffbb8fee988d0b6d70e2b5df62b4c1ef8685/Business%20Model%20Canvas.png)
+
 
 
 # Sales and Marketing Plan
