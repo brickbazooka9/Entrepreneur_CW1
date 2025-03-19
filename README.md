@@ -21,13 +21,13 @@
 
 ## Product 
 <!-- Added by Vineet -->
-### Product Overview  
-XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics, predictive modeling, and immersive VR/AR technologies to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
+
+XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics and predictive modeling, and immersive VR/AR technologies to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
 
 
-#### What are the customer needs that you hope to satisfy (pains & gains)?
+### What are the customer needs that you hope to satisfy (pains & gains)?
 
-**pains**
+#### Pain Points in Real Estate
 
 1. Time-Consuming Property Search: Finding a property that meets specific needs requires extensive research, making the process slow and overwhelming.
 
@@ -41,7 +41,7 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 
 6. Difficulty in Spotting Investment Opportunities: Identifying high-potential investment properties can be challenging, and may lead to missed opportunities.
 
-**gains**
+#### Gain Opportunities in Real Estate
 
 1. Automated Data Collection: AI gathers and updates real estate data in real-time, reducing manual research and saving valuable time.
 
@@ -51,13 +51,9 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 
 4. Visit Property Remotely with VR/AR: VR and AR techniques allow buyers to explore properties remotely, reducing the need for in-person visits.
 
-#### How the Platform Achieves Automated Property Search & Data Collection
-<!-- Added by Vineet -->
-XYZ automates property search using AI-driven crawlers and APIs, aggregating real-time data from various sources like Land Registry and Zoopla. Machine learning cleans and validates data while geocoding maps properties. Continuous updates power predictive models, delivering personalized alerts and interactive dashboards, cutting search time from hours to seconds.
-
 ## What are the product(s) or service(s) that will meet that need (value proposition)? How?
 <!-- Added by Vineet -->
-##### Product/Service: AI-Driven Real Estate Intelligence Platform
+### Product/Service: AI-Driven Real Estate Intelligence Platform
 Value Proposition:
 The platform leverages AI analytics, geospatial mapping, and VR/AR to simplify property discovery, evaluation, and investment decisions.
 
