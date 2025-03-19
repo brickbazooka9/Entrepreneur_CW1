@@ -962,6 +962,24 @@ At the same time, we will conduct evaluations by independent auditing agencies m
 - Share progress updates during next team meeting
 - Document all work on GitHub
 
+# Task table
+| Section                      | Marks per Q | Question                                                                                                   | Responsible Person A | Responsible Person B | Remarks |
+|------------------------------|-------------|-----------------------------------------------------------------------------------------------------------|----------------------|----------------------|---------|
+| **Product Section (30 Marks)** | 10          | What are the customer needs that you hope to satisfy (pains & gains)?                                     | Tina                 |                      |         |
+|                              | 10          | What are the product(s) or service(s) that will meet that need (value proposition)? How?                  | Vineet               |                      |         |
+|                              | 10          | What analysis led you to identify that product or service as a promising option?                         | Vineet               |                      |         |
+| **Market Section (40 Marks)**  | 10          | What are the important questions you need to find answers to?                                             | Tina                 |                      |         |
+|                              | 10          | What relevant secondary research did you find?                                                           | Tina                 | Yuta                 |         |
+|                              | 10          | Which people (customers, industry experts, …) have you approached? How have you approached them (methods)? Why? What answers did you find? | Jint                 |                      |         |
+|                              | 10          | What are your main competitors (direct and indirect)? How are they positioned (strengths and weaknesses)? What is your unique selling proposition? | Soroush              | Vineet               |         |
+| **Strategy Section (30 Marks)**| 4.3        | What is the legal status and structure of your business?                                                  | Aeden                |                      |         |
+|                              | 4.3        | Who is your team and what are their roles and capabilities?                                               | Sam                  |                      |         |
+|                              | 4.3        | Which resources do you need and how will you get them?                                                    | Aeden                |                      |         |
+|                              | 4.3        | What is your approach to financing?                                                                       | Avneet               |                      |         |
+|                              | 4.3        | What are your plans for sales and marketing?                                                              | Soroush              |                      |         |
+|                              | 4.3        | What is your operational plan?                                                                            | Jint                 |                      |         |
+|                              | 4.3        | What are the main risks to the success of your business and how will you address or mitigate them?        | Yuta                 |                      |         |
+
 
 
 
