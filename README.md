@@ -745,7 +745,7 @@ We conducted a PESTLE analysis to identify external factors that may hinder the 
 
 As a result of the PESTLE analysis above, we have narrowed it down to two issues that are most likely to hinder the company's success.
 
-#### **Shortage of Talent**
+#### **Labour Shortages**
 
 ##### Problem Description
 
@@ -753,7 +753,7 @@ Our business is highly dependent on online payments and overseas investors as ke
 If this issue is not addressed, future AI regulations or tax system changes may cause delays in compliance due to the lack of in-house experts. In more severe cases, failure to comply with regulations could result in penalties or legal sanctions.  
 This problem is closely linked to several risks identified in the PESTLE analysis, such as reduced hiring due to economic recessions and a sharp increase in remote work caused by the pandemic. If not properly mitigated, these factors could jeopardise the survival of the company's services.
 
-##### Mitigation Plan for Talent Shortage
+##### Mitigation Plan for Labour Shortages
 
 To prevent this situation from occurring, we are considering several proactive measures.
 
@@ -1016,22 +1016,22 @@ We are considering multiple countermeasures to mitigate the above risks.
 
 # Task table
 
-| Section                         | Marks per Q | Question                                                                                                                                           | Responsible Person A | Responsible Person B | Remarks |
-| ------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------- | ------- |
-| **Product Section (30 Marks)**  | 10          | What are the customer needs that you hope to satisfy (pains & gains)?                                                                              | Tina                 |                      |         |
-|                                 | 10          | What are the product(s) or service(s) that will meet that need (value proposition)? How?                                                           | Vineet               |                      |         |
-|                                 | 10          | What analysis led you to identify that product or service as a promising option?                                                                   | Vineet               |                      |         |
-| **Market Section (40 Marks)**   | 10          | What are the important questions you need to find answers to?                                                                                      | Tina                 |                      |         |
-|                                 | 10          | What relevant secondary research did you find?                                                                                                     | Tina                 | Yuta                 |         |
-|                                 | 10          | Which people (customers, industry experts, …) have you approached? How have you approached them (methods)? Why? What answers did you find?         | Jint                 |                      |         |
-|                                 | 10          | What are your main competitors (direct and indirect)? How are they positioned (strengths and weaknesses)? What is your unique selling proposition? | Soroush              | Vineet               |         |
-| **Strategy Section (30 Marks)** | 4.3         | What is the legal status and structure of your business?                                                                                           | Aeden                |                      |         |
-|                                 | 4.3         | Who is your team and what are their roles and capabilities?                                                                                        | Sam                  |                      |         |
-|                                 | 4.3         | Which resources do you need and how will you get them?                                                                                             | Aeden                |                      |         |
-|                                 | 4.3         | What is your approach to financing?                                                                                                                | Avneet               |                      |         |
-|                                 | 4.3         | What are your plans for sales and marketing?                                                                                                       | Soroush              |                      |         |
-|                                 | 4.3         | What is your operational plan?                                                                                                                     | Jint                 |                      |         |
-|                                 | 4.3         | What are the main risks to the success of your business and how will you address or mitigate them?                                                 | Yuta                 |                      |         |
+| Section                         | Marks per Q | Question                                                                                                                                           | Responsible Person A | Responsible Person B |
+| ------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------- |
+| **Product Section (30 Marks)**  | 10          | What are the customer needs that you hope to satisfy (pains & gains)?                                                                              | Tina                 |                      |
+|                                 | 10          | What are the product(s) or service(s) that will meet that need (value proposition)? How?                                                           | Vineet               |                      |
+|                                 | 10          | What analysis led you to identify that product or service as a promising option?                                                                   | Vineet               |                      |
+| **Market Section (40 Marks)**   | 10          | What are the important questions you need to find answers to?                                                                                      | Tina                 |                      |
+|                                 | 10          | What relevant secondary research did you find?                                                                                                     | Tina                 | Yuta                 |
+|                                 | 10          | Which people (customers, industry experts, …) have you approached? How have you approached them (methods)? Why? What answers did you find?         | Jint                 |                      |
+|                                 | 10          | What are your main competitors (direct and indirect)? How are they positioned (strengths and weaknesses)? What is your unique selling proposition? | Soroush              | Vineet               |
+| **Strategy Section (30 Marks)** | 4.3         | What is the legal status and structure of your business?                                                                                           | Aeden                |                      |
+|                                 | 4.3         | Who is your team and what are their roles and capabilities?                                                                                        | Sam                  |                      |
+|                                 | 4.3         | Which resources do you need and how will you get them?                                                                                             | Aeden                |                      |
+|                                 | 4.3         | What is your approach to financing?                                                                                                                | Avneet               |                      |
+|                                 | 4.3         | What are your plans for sales and marketing?                                                                                                       | Soroush              |                      |
+|                                 | 4.3         | What is your operational plan?                                                                                                                     | Jint                 |                      |
+|                                 | 4.3         | What are the main risks to the success of your business and how will you address or mitigate them?                                                 | Yuta                 |                      |
 
 [^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/35116942/9454212e-b468-45fd-b6c8-ab76dda9cb6b/paste.txt
 [^2]: https://github.com/imjacobclark/api-crime-rate
