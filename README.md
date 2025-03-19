@@ -284,18 +284,18 @@ Figure 1. Power/Interest grid
 
 ## SWOT Analysis:
 
-### Strengths vs Challenges
+### Strengths vs Weaknesses
 
-| Strengths                                                                                             | Challenges                                                                                    |
+| Strengths                                                                                             | Weaknesses                                                                                    |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **Easy to use** – Simpler than competitors like Property Data and Nimbus Maps.                        | **Not well-known yet** – Big competitors already have lots of users.                          |
 | **All-in-one insights** – Combines property growth, crime rates, and market trends in one place.      | **Getting accurate data** – Might be expensive or hard to get the latest property info.       |
 | **More affordable** – Cheaper than expensive options like LandInsight and Nimbus Maps.                | **Takes time to build** – Might need money for development, marketing, and getting customers. |
 | **Useful for both home buyers & investors** – Many competitors only focus on landlords or developers. | **New business, less trust** – People might be unsure about trusting a new platform.          |
 
-### Opportunities vs Risks
+### Opportunities vs Threats
 
-| Opportunities                                                                                        | Risks                                                                                                   |
+| Opportunities                                                                                        | Threats                                                                                                   |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Gap in the market** – Many competitors are hard to use or outdated.                                | **Big competition** – Well-known platforms like Property Data and Home.co.uk already exist.             |
 | **Real-time crime & growth data** – Few platforms offer this in a clear and simple way.              | -                                                                                                       |
