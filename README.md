@@ -307,14 +307,16 @@ Figure 1. Power/Interest grid
 | **All-in-one insights** – Combines property growth, crime rates, and market trends in one place.      | **Getting accurate data** – Might be expensive or hard to get the latest property info.       |
 | **More affordable** – Cheaper than expensive options like LandInsight and Nimbus Maps.                | **Takes time to build** – Might need money for development, marketing, and getting customers. |
 | **Useful for both home buyers & investors** – Many competitors only focus on landlords or developers. | **New business, less trust** – People might be unsure about trusting a new platform.          |
+| - | **Shortage of human resources** – We lack enough legal and data security experts, which are essential for our business. |  
+
 
 ### Opportunities vs Threats
 
 | Opportunities                                                                                        | Threats                                                                                                   |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Gap in the market** – Many competitors are hard to use or outdated.                                | **Big competition** – Well-known platforms like Property Data and Home.co.uk already exist.             |
-| **Real-time crime & growth data** – Few platforms offer this in a clear and simple way.              | -                                                                                                       |
-| **Smart AI suggestions** – Could give personalized property recommendations to buyers and investors. | **Economy problems** – If the housing market crashes or interest rates rise, fewer people might invest. |
+| **Real-time crime & growth data** – Few platforms offer this in a clear and simple way.              | **Economy problems** – If the housing market crashes or interest rates rise, fewer people might invest.|
+| **Smart AI suggestions** – Could give personalized property recommendations to buyers and investors. | - |
 
 ## Strategy plan
 
