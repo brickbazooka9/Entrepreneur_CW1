@@ -22,7 +22,7 @@
 ## Product 
 <!-- Added by Vineet -->
 
-XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics and predictive modeling, and immersive VR/AR technologies to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
+XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics and predictive modeling to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
 
 
 ### What are the customer needs that you hope to satisfy (pains & gains)?
@@ -49,13 +49,12 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 
 3. Personalized Investment Recommendations: AI analyzes user preferences and behavior, suggesting tailored property options based on individual needs.
 
-4. Visit Property Remotely with VR/AR: VR and AR techniques allow buyers to explore properties remotely, reducing the need for in-person visits.
 
 ## What are the product(s) or service(s) that will meet that need (value proposition)? How?
 <!-- Added by Vineet -->
 ### Product/Service: AI-Driven Real Estate Intelligence Platform
 Value Proposition:
-The platform leverages AI analytics, geospatial mapping, and VR/AR to simplify property discovery, evaluation, and investment decisions.
+The platform leverages AI analytics and geospatial mapping to simplify property discovery, evaluation, and investment decisions.
 
 ##### Key Features:
 
@@ -66,10 +65,6 @@ User Benefit: Identifies high-growth areas and flags overvalued properties, prov
 **Predictive Valuation Engine**
 How It Works: The underlying ML model, trained on 10+ years of London housing data, incorporates macroeconomic factors (interest rates, immigration) and hyperlocal variables (school ratings, flood risks).
 User Benefit: Offers accurate, instant valuations with confidence intervals, reducing uncertainty for buyers and agents.
-
-**VR/AR Virtual Tours**
-How It Works: Integrates 3D property scans with an immersive app, allowing users to tour homes and overlay renovation simulations through AR virtually.
-User Benefit: Reduces travel costs and speeds up decision-making, especially for overseas investors.
 
 **Investment Risk Dashboard**
 How It Works: Aggregates environmental data (e.g., flood zones, pollution levels) and regulatory changes (e.g., stamp duty updates) into a risk score.
