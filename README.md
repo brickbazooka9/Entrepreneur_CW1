@@ -745,7 +745,7 @@ We conducted a PESTLE analysis to identify external factors that may hinder the 
 
 As a result of the PESTLE analysis above, we have narrowed it down to two issues that are most likely to hinder the company's success.
 
-#### **Labour Shortages**
+#### **Critical Risk 1: Labour Shortages**
 
 ##### Problem Description
 
@@ -778,7 +778,7 @@ If a labour shortage materialises, we will implement the following contingency m
 
 ---
 
-#### **Regulatory Changes**
+#### **Critical Risk 2: Regulatory Changes**
 
 ##### Problem Description
 
