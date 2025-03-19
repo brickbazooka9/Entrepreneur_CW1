@@ -17,15 +17,15 @@
 
 <div style="page-break-after: always;"></div>
 
-## Product
+# Product
 
 <!-- Added by Vineet -->
 
 XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics and predictive modeling to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
 
-### What are the customer needs that you hope to satisfy (pains & gains)?
+## What are the customer needs that you hope to satisfy (pains & gains)?
 
-#### Pain Points in Real Estate
+### Pain Points in Real Estate
 
 1. Time-Consuming Property Search: Finding a property that meets specific needs requires extensive research, making the process slow and overwhelming.
 
@@ -39,7 +39,7 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 
 6. Difficulty in Spotting Investment Opportunities: Identifying high-potential investment properties can be challenging, and may lead to missed opportunities.
 
-#### Gain Opportunities in Real Estate
+### Gain Opportunities in Real Estate
 
 1. Automated Data Collection: AI gathers and updates real estate data in real-time, reducing manual research and saving valuable time.
 
@@ -105,8 +105,9 @@ Stakeholder interviews with real estate agents and investors emphasized the need
 ![image_alt](https://github.com/Jintpong/Entrepreneur_CW1/blob/e5ceffbb8fee988d0b6d70e2b5df62b4c1ef8685/Business%20Model%20Canvas.png)
 
 
+# Market
 
-#### What are the important questions you need to find answers to?
+## What are the important questions you need to find answers to?
 
 1.Who are our customers? How can we customize our products/services to meet their needs?
 
@@ -116,18 +117,21 @@ Stakeholder interviews with real estate agents and investors emphasized the need
 
 4.Who are our competitors, and what competitive advantages do we have?
 
-#### What relevant secondary research did you find?
+## What relevant secondary research did you find?
 
-1. Overview of the London Housing Market
-   Recent data from the London Housing Market Report highlights key trends indicating increased market activity. A shifting balance between new buyer inquiries and property listings suggests greater engagement within the market. Since 2023, the number of available rooms for house shares has been steadily increasing, although demand for rented rooms has fluctuated.
+### Overview of the London Housing Market
+Recent data from the London Housing Market Report highlights key trends indicating increased market activity. A shifting balance between new buyer inquiries and property listings suggests greater engagement within the market. Since 2023, the number of available rooms for house shares has been steadily increasing, although demand for rented rooms has fluctuated.
 
 1.1 Market Demand and Supply
+
 The accompanying chart from RICS survey data illustrates monthly changes in buyer inquiries and newly listed homes in London. Market demand experienced growth in the last quarter, coinciding with the Bank of England’s first interest rate cut since May 2022. As a second rate cut is expected, this trend is likely to continue. Additionally, seller activity has increased, leading to the first net-positive market activity since 2022.
 
 1.2 Projections for 2025
+
 Rightmove anticipates that the number of homes for sale will remain high in the coming year, maintaining strong competition among sellers and preventing significant price increases. However, this increased supply is expected to facilitate more transactions, with Rightmove projecting approximately 1.15 million completed sales in 2025.
 
 1.3 Impact of Stamp Duty Changes
+
 An upcoming reduction in the stamp duty threshold, set to take effect on April 1, could add thousands of pounds in moving costs for buyers. Rightmove's real-time data has already detected a surge in first-time buyer activity in high-cost areas as they attempt to finalize purchases before the new rates apply. Nevertheless, many regions in England still offer homes under the £300,000 threshold, allowing first-time buyers to benefit from significant tax advantages compared to second-home buyers.
 Currently, the number of first-time buyers actively engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, strong activity in this segment is anticipated throughout 2025.
 
