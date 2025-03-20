@@ -526,25 +526,30 @@ Acquisition Strategy: Marketing channels will be developed through digital strat
 ## What is our approach to financing?
 
 ### Financing Strategy: From Incubator to £50 Million Valuation
+<!--- Financing comment: This should be our end of year 5 EBITDA multiplied by 20 [Based on valuation of 20 years EBITDA --->
 
-At Entrepreneurs, our financing strategy is designed to fuel innovation, establish product-market fit, and scale our real estate technology solution into a globally recognized platform. We aim to leverage the resources of a top-tier incubator or accelerator to kickstart our journey, secure initial capital, and position ourselves for subsequent funding rounds from angel investors and venture capitalists (VCs). Our ultimate goal is to achieve a £50 million valuation, enabling a transition to a Public Limited Company (PLC) and an Initial Public Offering (IPO) on the London Stock Exchange (LSE). Below, we outline our approach to initial funding, the funding rounds ahead, and a projected timeline to reach this milestone.
+At Entrepreneurs, our financing strategy is designed to fuel innovation, establish product-market fit, and scale our real estate technology solution into a globally recognized platform. We aim to leverage the resources of a top-tier incubator or accelerator to kickstart our journey, secure initial capital, and position ourselves for subsequent funding rounds from angel investors and venture capitalists (VCs). Our initial goal is to achieve a £50 million valuation, 
+<!--- Financing comment: This should be repalced by the agreed upon valuation --->
+enabling a transition to a Public Limited Company (PLC) and an Initial Public Offering (IPO) on the London Stock Exchange (LSE). Below, we outline our approach to initial funding, the funding rounds ahead, and a projected timeline to reach this milestone.
 
 #### Initial Step: Joining an Incubator or Accelerator
 
 To lay a strong foundation, we plan to join a prestigious incubator or accelerator program that aligns with our needs: refining product-market fit, building our property valuation platform, and securing seed funding. Our ideal program will provide:
-
-- **Seed Investment:** A modest capital injection (e.g., $20,000–$150,000 or £15,000–£120,000) in exchange for equity, typically 5–10%, to fund early development and operations.
+<!--- Financing comment: Values based on Slides --->
+- **Pre-Seed Investment:** A modest capital injection ~£500,000 **"As Safe-Note"** capped at £10M valueation with no initial equity. This investment capital will be used to fund early development and operations.[[31]](https://www.angellist.com/learn/safe-note)
 - **Mentorship and Resources:** Guidance from experienced entrepreneurs, real estate experts, and technologists to shape our product and business model.
 - **Access to Investors:** Opportunities to pitch to angel investors and VCs, either through demo days or curated introductions, accelerating our path to follow-on funding.
 - **Focus on Real Estate Tech:** A program with expertise in proptech or related fields to ensure tailored support.
 
 **Preferred Programs:**
 
-- **Y Combinator (YC):** Offers $500,000 for 7% equity, a 3-month program, and a renowned demo day connecting startups to top-tier investors. YC’s track record includes proptech successes like Airbnb, making it a strong fit.
-- **Techstars London:** Invests $120,000 for 6% equity over a 3-month program, with a focus on tech-driven solutions and a robust mentor network in London, ideal for our UK base.
-- **Plug and Play (Proptech Focus):** Provides $50,000–$250,000 with 1–5% equity, specializing in real estate technology and offering connections to industry partners and investors.
+- **Acceler8 (UoB's Startup Accelerator):** Offers £1,500 with 0% equity to help get the company up the ground, cover legal and adminstrative fees for registering the company, setting up bank accounts, purchasing domain and essential equipments.
+- **Pi Labs (Proptech Focus):** 12-week highly-tailored programme designed to generate sustainable growth for early-stage companies transforming the built world. The program offers £350,000 in pre-seed funding. [[32]](https://pilabs.vc/growth-programme)
+-  **NAR Reach (Proptech Focus):** In partnership with Second Century Ventures (SCV) & Property Mark, provides a 9-month proptech focused incubation journey. This journey offers connections with top real estate executives, industry associations and decision makers, with the opportunity to receive guidance from leading entrepreneurs, venture capitalists, and property professionals.[[33]](https://www.propertymark.co.uk/resource/reach-uk-ambitious-proptech-startups-invited-to-join-2025-cohort.html)
+- **Techstars London:** Invests $20,000 plus $4M in credit and perks for 6% common equity over a 3-month program, with a focus on tech-driven solutions and a robust mentor network. Additionally, they offer $100,000 USD in exchange for a Convertible Promissory Note[[34]](https://www.techstars.com/newsroom/investment-terms)
+-  **Y Combinator (YC):** Offers $125,000 for 7% equity & $375,000 on an uncapped safe with a Most Favored Nation, a 3-month program designed to help startups really take off.[[35]](https://www.ycombinator.com/about)
 
-By joining such a program in **Q1 2026**, we expect to exit with a validated minimum viable product (MVP), initial traction (e.g., pilot users in London’s real estate market), and a clear pitch for angel funding, all within 3–6 months.
+By joining such a program in **Q4 2025 - Q1 2026**, we expect to exit with a validated minimum viable product (MVP), initial traction (e.g., pilot users in London’s real estate market), and a clear pitch for angel funding, by **Q3  2026**.
 
 #### Funding Rounds and Capital Needs
 
@@ -552,32 +557,32 @@ Our journey to a £50 million valuation will progress through standard startup f
 
 1. **Pre-Seed Round (Incubator/Accelerator Funding)**
 
-   - **Amount:** £50,000–£150,000
-   - **Source:** Incubator/accelerator investment
-   - **Purpose:** Develop the MVP, conduct market research on foreign investors and London real estate trends, and establish initial operations.
-   - **Equity:** 5–10%
+   - **Amount:** £100,000 -£500,000
+   - **Source:** Incubator/accelerator investment/ Angel Investors
+   - **Purpose:** Develop the MVP, conduct market research on foreign investors and London real estate trends, establish initial operations and gain initial traction.
+   - **Equity:** Safe-Note with £10M Valuation Cap. 
    - **Timeline:** Q2 2026 (3–6 months post-launch).
 
 2. **Seed Round**
 
    - **Amount:** £500,000–£1.5 million
    - **Source:** Angel investors, early-stage VCs, and accelerator alumni networks
-   - **Purpose:** Refine the product (e.g., integrating crime data, disaster risks, and market trends), acquire initial customers (foreign investors), and build a small team (e.g., hire additional data scientists, engineers).
-   - **Equity:** 10–20%
+   - **Purpose:** Refine the product (e.g., integrating crime data, disaster risks, and market trends), acquire initial customers (foreign investors), and build a small team & R&D (e.g., hire additional data scientists, engineers).
+   - **Equity:** 10%
    - **Valuation:** £2.5–£7.5 million (post-money)
    - **Timeline:** Q3–Q4 2026 (6–12 months after pre-seed).
 
 3. **Series A**
 
-   - **Amount:** £3–£10 million
+   - **Amount:** £5–£10 million
    - **Source:** Venture capitalists, possibly with angel co-investors
    - **Purpose:** Scale the platform (e.g., expand to US and European markets), enhance AI-driven predictive models, and grow the team (e.g., sales, marketing).
-   - **Equity:** 15–25%
+   - **Equity:** 15–20%
    - **Valuation:** £12–£40 million (post-money)
    - **Timeline:** Q2 2028–Q4 2028 (18–24 months after seed).
 
 4. **Series B**
-   - **Amount:** £10–£20 million
+   - **Amount:** £10-£20 million
    - **Source:** VCs, private equity firms
    - **Purpose:** Accelerate global expansion (e.g., Dubai, Asia), optimize operations, and prepare for an IPO.
    - **Equity:** 10–20%
@@ -590,8 +595,8 @@ Reaching a £50 million valuation typically takes 5–7 years for high-growth te
 
 - **Year 1 (2026):** Pre-seed via incubator/accelerator. Exit with an MVP and £50k–£150k, valuing us at £500k–£1.5m.
 - **Year 2 (2027):** Seed round raises £1m, driving product refinement and early revenue. Post-money valuation: £5m–£7m.
-- **Years 3–4 (2028–2029):** Series A raises £5m–£10m, scaling to multiple markets. Valuation climbs to £20m–£40m.
-- **Years 5–6 (2030–2031):** Series B raises £15m, achieving £50m+ valuation by demonstrating £5m–£10m in annual recurring revenue (ARR) at a 5–10x revenue multiple, common in proptech.
+- **Years 3–4 (2028–2029):** Series A raises £5m, scaling to multiple markets. Valuation climbs to £20m–£40m.
+- **Years 5–6 (2030–2031):** Series B raises £10m, achieving £50m+ valuation by demonstrating £2.5m-£5m in annual recurring revenue (ARR) at a 10–20x revenue multiple.
 
 This assumes a 50–100% annual growth rate post-seed, fueled by demand from foreign investors and a unique data-driven platform. Risks (e.g., market saturation, regulatory hurdles) could extend this to 7–10 years, while exceptional traction (e.g., partnerships with major real estate firms) could shorten it to 4–5 years.
 
