@@ -952,6 +952,9 @@ To tackle this, we:
 - Continuously refined our assumptions based on feedback.
 This ensured our business model was well-researched, realistic, and ready for investors.
 
+# Contributions Split 
+<img width="472" alt="marking_split" src="https://github.com/user-attachments/assets/9af97163-0ee0-4623-9473-99007b5cb410"/>
+
 # Appendecies
 
 ## Financing Cost Structure
