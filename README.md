@@ -1,6 +1,7 @@
 # Entrepreneurship CW1
 
-<img width="400" alt="Tean_logo" src="https://github.com/user-attachments/assets/985e803d-c47e-4b3c-b836-9396aa7d48a5" />
+![aghse0vu1kx5pn0bqjwx](https://github.com/user-attachments/assets/5c8bd744-5df9-4942-93e1-a8803cd766a5)
+
 
 | Team Members        | BUCS identifiers |
 | ------------------- | ---------------- |
