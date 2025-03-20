@@ -1313,6 +1313,81 @@ This ensured our business model was well-researched, realistic, and ready for in
 - Continue individual work on assigned sections
 - Share progress updates during next team meeting
 - Document all work on GitHub
+
+---
+
+**Date:** March 19, 2025  
+**Time:** 12:03:32 PM  
+
+**Attendees:**  
+- Jint Pongchababnapa  
+- Sam Alshoabi  
+- Yuta Asai  
+- Aeden Thomas  
+- Avneet Singh  
+- Soroush Alimardani  
+- Vineet Nagaraj Naik  
+
+
+
+### 1. Task Assignments & Progress Check
+- The team confirmed that all members have completed their tasks listed in the contribution table.  
+- Each member will review their section to ensure alignment with the business model.  
+- The final deadline for report improvements was confirmed.  
+
+### 2. Financial & Business Model Discussion
+
+#### 2.1 Pricing Model
+- The team decided to adopt a tiered pricing structure:
+  1. **B2C (Retail Investor):** Free basic access with premium analytics as a paid feature.  
+  2. **B2B (Real Estate Agency):** A subscription-based model with customizable insights.  
+  3. **Enterprise Clients:** Bespoke pricing based on trading volume.  
+
+#### 2.2 Revenue Streams
+- We identified additional revenue sources:  
+  1. **Advertising** from real estate companies targeting investors.  
+  2. **API licensing** for financial and investment platforms.  
+  3. **Commission-based partnerships** with real estate firms.  
+
+### 3. Platform Development & Features
+
+#### 3.1 Scope of MVP (Minimum Viable Product)
+- We revised the MVP scope to include:  
+  1. **AI-driven real estate price prediction.**  
+  2. **Visualization of market trends** with interactive graphs.  
+  3. **Regulatory compliance insights** for international investors.  
+
+#### 3.2 Feature Prioritization
+- We agreed to defer **VR-based real estate previews** until later development stages.  
+
+#### 3.3 Data Aggregation
+- The following will be included as data sources:  
+  1. **Public real estate listings**  
+  2. **Transaction records**  
+  3. **Investor sentiment analysis**  
+
+### 4. Marketing & Positioning Strategy
+
+#### 4.1 Target Market
+- All members confirmed that the main customer base remains **foreign investors seeking UK real estate**.  
+
+#### 4.2 Competitive Differentiation
+- The team reaffirmed the key benefits of the platform:  
+  1. **AI-driven forecasts** tailored for foreign investors.  
+  2. **Real-time regulatory updates** to help with compliance.  
+  3. **Transparent pricing model** to improve reliability.  
+
+#### 4.3 Growth Strategy
+- Strategic partnerships with real estate companies will be leveraged for credibility.  
+- Content marketing and financial reporting will be used to build trust in the industry.  
+
+### 5. Next Steps  
+- **Final Edits:** All members will refine their assigned sections.  
+- **Financial Projections:** Ensure **detailed cost estimation and revenue forecasts**.  
+- **Regulatory Compliance:** Legal considerations will be cross-checked with **UK data laws**.  
+- **Follow-Up Meeting (if needed):** Another discussion will be scheduled before the submission deadline.  
+
+
 ---
 **Date:** March 20, 2025  
 **Time:** 12:08:01 PM  
