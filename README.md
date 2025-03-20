@@ -821,6 +821,10 @@ We are considering multiple countermeasures to mitigate the above risks.
 2. If regulations on foreign investors are tightened:  
    We will shift our focus to investors in the UK and EU. Additionally, we will consider expanding our services to emerging markets with lower regulatory risks.
 
+# Appendecies
+
+## Financing Cost Structure
+<img src="/Seed Round Cost Structure.jpg" alt="AUC" height="670"/>
 # Meeting Minutes - General Meeting
 
 ## Meeting Minutes: Startup Business Plan (Property Valuation/Real Estate Technology)
@@ -1032,10 +1036,10 @@ We are considering multiple countermeasures to mitigate the above risks.
 |                                 | 10          | What relevant secondary research did you find?                                                                                                     | Tina                 | Yuta                 |
 |                                 | 10          | Which people (customers, industry experts, …) have you approached? How have you approached them (methods)? Why? What answers did you find?         | Jint                 |                      |
 |                                 | 10          | What are your main competitors (direct and indirect)? How are they positioned (strengths and weaknesses)? What is your unique selling proposition? | Soroush              | Vineet               |
-| **Strategy Section (30 Marks)** | 4.3         | What is the legal status and structure of your business?                                                                                           | Aeden                |                      |
+| **Strategy Section (30 Marks)** | 4.3         | What is the legal status and structure of your business?                                                                                           | Aeden                | Sam                    |
 |                                 | 4.3         | Who is your team and what are their roles and capabilities?                                                                                        | Sam                  |                      |
 |                                 | 4.3         | Which resources do you need and how will you get them?                                                                                             | Aeden                |                      |
-|                                 | 4.3         | What is your approach to financing?                                                                                                                | Avneet               |                      |
+|                                 | 4.3         | What is your approach to financing?                                                                                                                | Sam               |  Avneet                    |
 |                                 | 4.3         | What are your plans for sales and marketing?                                                                                                       | Soroush              |                      |
 |                                 | 4.3         | What is your operational plan?                                                                                                                     | Jint                 |                      |
 |                                 | 4.3         | What are the main risks to the success of your business and how will you address or mitigate them?                                                 | Yuta                 |                      |
