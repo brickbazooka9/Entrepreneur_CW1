@@ -824,7 +824,7 @@ We are considering multiple countermeasures to mitigate the above risks.
 # Appendecies
 
 ## Financing Cost Structure
-<img src="/Seed Round Cost Structure.jpg" alt="AUC" height="670"/>
+<img src="/Resources/Seed Round Cost Structure.jpg" alt="AUC" height="760"/>
 # Meeting Minutes - General Meeting
 
 ## Meeting Minutes: Startup Business Plan (Property Valuation/Real Estate Technology)
