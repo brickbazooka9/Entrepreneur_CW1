@@ -626,6 +626,14 @@ Our journey to a £50 million valuation will progress through standard startup f
    - **Valuation:** £40–£80 million (post-money)
    - **Timeline:** Q2 2030–Q4 2030 (18–24 months after Series A).
 
+5. **Series C++**
+   - **Amount:** £20-£50 million
+   - **Source:** Late-stage VCs, institutional investors, sovereign wealth funds
+   - **Purpose:** Market dominance, M&A (acquiring complementary startups or data providers), expansion into additional markets (North America, Australia, etc.), and strengthening AI/ML capabilities.
+   - **Equity:** 5–15%
+   - **Valuation:** £100–£250 million (post-money)
+   - **Timeline:** Q2 2032–Q4 2033 (18–24 months after Series C)
+
 #### Timeline to £50 Million Valuation
 
 Reaching a £50 million valuation typically takes 5–7 years for high-growth tech startups, though proptech firms with strong traction can accelerate this. Based on our London base, real estate focus, and incubator start, here’s a projected timeline:
@@ -1076,7 +1084,8 @@ We are considering multiple countermeasures to mitigate the above risks.
 | **Strategy Section (30 Marks)** | 4.3         | What is the legal status and structure of your business?                                                                                           | Aeden                | Sam                    |
 |                                 | 4.3         | Who is your team and what are their roles and capabilities?                                                                                        | Sam                  |                      |
 |                                 | 4.3         | Which resources do you need and how will you get them?                                                                                             | Aeden                |                      |
-|                                 | 4.3         | What is your approach to financing?                                                                                                                | Sam               |  Avneet                    |
+|                                 | 4.3         | What is your approach to financing?                                                                                                                | Sam               |  Avneet 
+|              |                  |             | Financial Planning & Analysis (FP&A) Development                                                                                                   | Avneet
 |                                 | 4.3         | What are your plans for sales and marketing?                                                                                                       | Soroush              |                      |
 |                                 | 4.3         | What is your operational plan?                                                                                                                     | Jint                 |                      |
 |                                 | 4.3         | What are the main risks to the success of your business and how will you address or mitigate them?                                                 | Yuta                 |                      |
