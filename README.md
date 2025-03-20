@@ -671,7 +671,11 @@ This assumes a 50–100% annual growth rate post-seed, fueled by demand from for
 
 Starting with an incubator/accelerator de-risks our early stages by providing capital, expertise, and investor access, critical for a proptech startup needing to prove product-market fit. The staged funding rounds align with milestones—building, scaling, and globalizing—while our London base leverages a prime real estate market to attract angels and VCs. By targeting a £50 million valuation, we position ScuderiaEstate for an IPO, unlocking public capital to redefine property valuation worldwide.
 
-
+This investment will help us acquire ~700K downloads and retail ~170K Quarterly Active Users (QAU), this projection was based on the below assumptions:
+1. 1-Quarter User Retention = 10%
+2. 2-Quarters User Reterntion = 5%
+3. 3-Quarters User Retention = 3%
+4. Avg Cost per customer acquistion/download = £15
 
 ## Sales and Marketing Plan
 
