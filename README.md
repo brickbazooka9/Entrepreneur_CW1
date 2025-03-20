@@ -632,7 +632,7 @@ Figure 2. McKinsey 7S Model
 
    - B2C approach where the users are able to access the property valuations features through the application.
    - Subscription base business model with the inclusion of two services 1) Basic version and 2) Premium Version.
-   - Apply Machine Learning to predicts the trends of the market through historical data.
+   - Develop and train a machine learning model using historical property data and real-time market indicators.
 
 2. Structure/Staff
    This section aims to identify the hierarchy of the team which include:
@@ -668,7 +668,7 @@ At Entrepreneurs, our leadership team is our greatest asset—a group of eight a
 - **Yu-Han Kao (Tina), Co-Founder** – Tina’s 8 years in Finance & International Business, with roles in banking, research, and product management across banking, information, and mobile/web development, anchor our financial strategy and product vision.
 - **Vineet Naik, Co-Founder** – Vineet’s 7 years of Mechanical Engineering and Data Science experience shine in finance and mechanics. His work as an Engineer and Private Equity Analyst equips him to drive technical and financial strategy with precision.
 - **Sujin Pongchababnapa, Co-Founder** – Sujin’s 6 years of experience in Health Science and Computer Science fuel her insights into F&B and hospitality. As a Consultant and Data Analyst, she brings a sharp analytical mind to optimize processes and enhance decision-making.
-- **Aeden Geo Thomas, Co-Founder** – Aeden’s 6 years in Computer Science Engineering and Software Engineering experience deliver cutting-edge technical solutions and a passion for innovation.
+- **Aeden Geo Thomas, Co-Founder** – Aeden's 6 years in Computer Science Engineering and Software Engineering experience at Intryc (a YC company) based in London and previously at a petrochemical firm in Abu Dhabi deliver cutting-edge technical solutions and a passion for innovation.
 - **Soroush Alimardani, Co-Founder** – A 5-year academic veteran in Information Technology and Computer Science, Soroush lays a strong technical foundation for our technology-driven initiatives.
 
 ### A Culture of Agility, Learning, and Collaboration
