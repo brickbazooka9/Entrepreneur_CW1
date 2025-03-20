@@ -592,7 +592,7 @@ To effectively reach and acquire customers in the real estate sector, a multi-ch
     - **Partnerships**: Co-marketing with mortgage brokers[^47][^48]
     - **Events**: Real estate expos, investor meetups [^47],[^43]
 
-This comprehensive marketing approach aligns with successful strategies used by leading proptech companies. Social media platforms have become essential real estate marketing tools for professionals to keep up with current trends[ ^42]. Companies like Zillow and Redfin have demonstrated the effectiveness of digital transformation in customer acquisition[ ^49]
+This comprehensive marketing approach aligns with successful strategies used by leading proptech companies. Social media platforms have become essential real estate marketing tools for professionals to keep up with current trends[^42]. Companies like Zillow and Redfin have demonstrated the effectiveness of digital transformation in customer acquisition[^49]
 
 For maximum impact, these channels should be integrated with consistent branding and messaging across platforms[^46]. Content marketing through these channels should showcase your unique value proposition and address specific pain points in the real estate market [^48],[^43]).
 
@@ -1015,7 +1015,7 @@ If a labour shortage materialises, we will implement the following contingency m
 #### Problem Description
 
 The second biggest risk we envision is regulatory changes.  
-For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[ ^55]. In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[ ^56]. In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.
+For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[^55]. In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[^56]. In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.
 
 Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms[^57]. The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, which might lead to inspections and a loss of trust in the platform.
 
@@ -1027,7 +1027,7 @@ We are considering multiple countermeasures to mitigate the above risks.
    We will hire a legal advisor to provide guidance on legal changes and regulatory developments in the UK. At the same time, we will stay informed of early signs of regulatory shifts.
 
 2. Ensuring Fairness and Transparency:  
-    According to Morgan Lewis[ ^58], ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
+    According to Morgan Lewis[^58], ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
    At the same time, we will conduct evaluations by independent auditing agencies multiple times a year to verify the fairness of pricing.
 
 #### Contingency Plan for Regulatory Changes
@@ -1493,182 +1493,120 @@ This ensured our business model was well-researched, realistic, and ready for in
 ---
 
 # References
+[^1]: Financial Times, Year unknown. *Content Title Unknown* [Online]. Available from: https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1 [Accessed 8 March 2024].
 
-1.  Financial Times. *Content Title Unknown* [Online]. Available from: https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1 [Accessed 20 March 2025].
+[^2]: JLLT, 2023. *Global Real Estate Technology Survey 2023* [Online]. JLLT. Available from: https://www.jllt.com/research/global-real-estate-technology-survey-2023/ [Accessed 8 March 2024].
 
-2.  JLLT, 2023. *Global Real Estate Technology Survey 2023* [Online]. JLLT. Available from: https://www.jllt.com/research/global-real-estate-technology-survey-2023/ [Accessed 20 March 2025].
+[^3]: Greater London Authority, Year unknown. *Housing Market Report* [Online]. London: Greater London Authority. Available from: https://data.london.gov.uk/housing/housing-market-report/ [Accessed 8 March 2024].
 
-3.  Greater London Authority. *Housing Market Report* [Online]. London: Greater London Authority. Available from: https://data.london.gov.uk/housing/housing-market-report/ [Accessed 20 March 2025].
+[^4]: Standard, Year unknown. *London property market forecast: Capital set to lead price growth in 2025, says JLL* [Online]. London. Available from: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html [Accessed 8 March 2024].
 
-4.  Standard. *London property market forecast: Capital set to lead price growth in 2025, says JLL* [Online]. London. Available from: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html [Accessed 20 March 2025].
+[^5]: Greater London Authority, Year unknown. *Housing Market Report* [Online]. London: Greater London Authority. Available from: https://data.london.gov.uk/housing/housing-market-report [Accessed 8 March 2024].
 
-5.  Greater London Authority. *Housing Market Report* [Online]. London: Greater London Authority. Available from: https://data.london.gov.uk/housing/housing-market-report [Accessed 20 March 2025].
+[^6]: Standard, Year unknown.*London property market forecast: Capital set to lead price growth in 2025, says JLL* [Online]. London. Available from: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html [Accessed 8 March 2024].
 
-6.  Standard.*London property market forecast: Capital set to lead price growth in 2025, says JLL* [Online]. London. Available from: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html [Accessed 20 March 2025].
+[^7]: Estate Agent Today, 2023. *Number of UK estate agencies booms by over 10%* [Online]. Available from: https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/ [Accessed 8 March 2024].
 
-7.  Estate Agent Today, 2023. *Number of UK estate agencies booms by over 10%* [Online]. Available from: https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/ [Accessed 20 March 2025].
+[^8]: Sandra Davidson, Year unknown. *Estate Agent Fees in London* [Online]. Available from: https://www.sandradavidson.com/estate-agent-fees-london/ [Accessed 8 March 2024].
 
-8.  Sandra Davidson. *Estate Agent Fees in London* [Online]. Available from: https://www.sandradavidson.com/estate-agent-fees-london/ [Accessed 20 March 2025].
+[^9]: LandTech, Year unknown. *London House Price Growth and Driving Factors* [Online]. Available from: https://land.tech/reports/london-house-price-growth-and-driving-factors [Accessed 8 March 2024].
 
-9.  LandTech. *London House Price Growth and Driving Factors* [Online]. Available from: https://land.tech/reports/london-house-price-growth-and-driving-factors [Accessed 20 March 2025].
+[^10]: Senen Group, Year unknown. *7 Data Challenges in Real Estate Your Business Could Face* [Online]. Available from: https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face [Accessed 8 March 2024].
 
-10. Senen Group. *7 Data Challenges in Real Estate Your Business Could Face* [Online]. Available from: https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face [Accessed 20 March 2025].
+[^11]: Informi, Year unknown. *How do I register a partnership?* [Online]. Available from: https://informi.co.uk/business-administration/how-do-i-register-partnership [Accessed 8 March 2024].
 
-11. Informi. *How do I register a partnership?* [Online]. Available from: https://informi.co.uk/business-administration/how-do-i-register-partnership [Accessed 20 March 2025].
+[^12]: Makesworth, Year unknown. *A Comprehensive Guide to Becoming a Sole Trader in the UK* [Online]. Available from: https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/ [Accessed 8 March 2024].
 
-12. Makesworth. *A Comprehensive Guide to Becoming a Sole Trader in the UK* [Online]. Available from: https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/ [Accessed 20 March 2025].
+[^13]: Xact Accountants, Year unknown. *Companies House Fees Changes* [Online]. Available from: https://xactaccountants.co.uk/blog/companies-house-fees-changes/ [Accessed 8 March 2024].
 
-13. Xact Accountants. *Companies House Fees Changes* [Online]. Available from: https://xactaccountants.co.uk/blog/companies-house-fees-changes/ [Accessed 20 March 2025].
+[^14]: BBC, Year unknown. *Business structures* [Online]. Available from: https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3 [Accessed 8 March 2024].
 
-14. BBC. *Business structures* [Online]. Available from: https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3 [Accessed 20 March 2025].
+[^15]: Gard & Co, Year unknown. *Sole Trader, Partnership or Limited Company?* [Online]. Available from: https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/ [Accessed 8 March 2024].
 
-15. Gard & Co. *Sole Trader, Partnership or Limited Company?* [Online]. Available from: https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/ [Accessed 20 March 2025].
+[^16]: Lawhive, Year unknown. *How much does it cost to register a business in the UK?* [Online]. Available from: https://lawhive.co.uk/knowledge-hub/small-business/how-much-does-it-cost-to-register-a-business-in-the-uk/ [Accessed 8 March 2024].
 
-16. Lawhive. *How much does it cost to register a business in the UK?* [Online]. Available from: https://lawhive.co.uk/knowledge-hub/small-business/how-much-does-it-cost-to-register-a-business-in-the-uk/ [Accessed 20 March 2025].
+[^17]: Whittaker & Co, Year unknown. *Companies House Registration Fees Set to Increase* [Online]. Available from: https://whittakerandco.com/companies-house-registration-fees-set-to-increase [Accessed 8 March 2024].
 
-17. Whittaker & Co. *Companies House Registration Fees Set to Increase* [Online]. Available from: https://whittakerandco.com/companies-house-registration-fees-set-to-increase [Accessed 20 March 2025].
+[^18]: FCLS, Year unknown. *Companies House fees increasing from 1 May 2024* [Online]. Available from: https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/ [Accessed 8 March 2024].
 
-18. FCLS. *Companies House fees increasing from 1 May 2024* [Online]. Available from: https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/ [Accessed 20 March 2025].
+[^19]: Osome, Year unknown. *Business Registration Costs in the UK* [Online]. Available from: https://osome.com/uk/guides/business-registration-costs/ [Accessed 8 March 2024].
 
-19. Osome. *Business Registration Costs in the UK* [Online]. Available from: https://osome.com/uk/guides/business-registration-costs/ [Accessed 20 March 2025].
+[^20]: Brearley & Co, Year unknown. *Companies House Increases Registration Fees* [Online]. Available from: https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees [Accessed 8 March 2024].
 
-20. Brearley & Co. *Companies House Increases Registration Fees* [Online]. Available from: https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees [Accessed 20 March 2025].
+[^21]: 1st Formations, Year unknown. *Companies House Filing Fees Increase* [Online]. Available from: https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase [Accessed 8 March 2024].
 
-21. 1st Formations. *Companies House Filing Fees Increase* [Online]. Available from: https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase [Accessed 20 March 2025].
+[^22]: GOV.UK, Year unknown. *Business finance support* [Online]. Available from: https://www.gov.uk/business-finance-support [Accessed 8 March 2024].
 
-22. GOV.UK. *Business finance support* [Online]. Available from: https://www.gov.uk/business-finance-support [Accessed 20 March 2025].
+[^23]: GOV.UK, Year unknown. *Companies House fees* [Online]. Available from: https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees [Accessed 8 March 2024].
 
-23. GOV.UK. *Companies House fees* [Online]. Available from: https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees [Accessed 20 March 2025].
+[^24]: GoCardless, Year unknown. *What is a Public Limited Company?* [Online]. Available from: https://gocardless.com/guides/posts/what-is-a-public-limited-company/ [Accessed 8 March 2024].
 
-24. GoCardless. *What is a Public Limited Company?* [Online]. Available from: https://gocardless.com/guides/posts/what-is-a-public-limited-company/ [Accessed 20 March 2025].
+[^25]: Investopedia, Year unknown. *Public Limited Company (PLC): Definition, Requirements, and Example* [Online]. Available from: https://www.investopedia.com/terms/p/plc.asp [Accessed 8 March 2024].
 
-25. Investopedia. *Public Limited Company (PLC): Definition, Requirements, and Example* [Online]. Available from: https://www.investopedia.com/terms/p/plc.asp [Accessed 20 March 2025].
+[^26]: London Registrars, Year unknown. *PLC Incorporation* [Online]. Available from: https://www.london-registrars.co.uk/product/plc-incorporation [Accessed 8 March 2024].
 
-26. London Registrars. *PLC Incorporation* [Online]. Available from: https://www.london-registrars.co.uk/product/plc-incorporation [Accessed 20 March 2025].
+[^27]: Harper James, Year unknown. *What is a Public Limited Company (PLC)?* [Online]. Available from: https://harperjames.co.uk/article/public-limited-company [Accessed 8 March 2024].
 
-27. Harper James. *What is a Public Limited Company (PLC)?* [Online]. Available from: https://harperjames.co.uk/article/public-limited-company [Accessed 20 March 2025].
+[^28]: Imperial & Legal, Year unknown. *Public Limited Company (PLC)* [Online]. Available from: https://imperiallegal.uk/business/types-of-company-in-uk/public-limited-company-plc [Accessed 8 March 2024].
 
-28. Imperial & Legal. *Public Limited Company (PLC)* [Online]. Available from: https://imperiallegal.uk/business/types-of-company-in-uk/public-limited-company-plc [Accessed 20 March 2025].
+[^29]: StudyMind, Year unknown. *What are the advantages and disadvantages of being a Public Limited Company?* [Online]. Available from: https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/ [Accessed 8 March 2024].
 
-29. StudyMind. *What are the advantages and disadvantages of being a Public Limited Company?* [Online]. Available from: https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/ [Accessed 20 March 2025].
+[^30]: Lawhive, Year unknown. *Advantages and Disadvantages of a Public Limited Company* [Online]. Available from: https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company [Accessed 8 March 2024].
 
-30. Lawhive. *Advantages and Disadvantages of a Public Limited Company* [Online]. Available from: https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company [Accessed 20 March 2025].
+[^31]: The Financial Technology Report, Year unknown. *The Top 25 Real Estate Technology Companies of 2024* [Online]. Available from: https://thefinancialtechnologyreport.com/the-top-25-real-estate-technology-companies-of-2024/ [Accessed 8 March 2024].
 
-31. The Financial Technology Report. *The Top 25 Real Estate Technology Companies of 2024* [Online]. Available from: https://thefinancialtechnologyreport.com/the-top-25-real-estate-technology-companies-of-2024/ [Accessed 20 March 2025].
+[^32]: Department of Computing Imperial College London, Year unknown. *USING MACHINE LEARNING TECHNIQUES FOR PROPERTY VALUATION* [Online]. Available from: https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf [Accessed 8 March 2024].
 
-32. Department of Computing Imperial College London. *USING MACHINE LEARNING TECHNIQUES FOR PROPERTY VALUATION* [Online]. Available from: https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf [Accessed 20 March 2025].
+[^33]: GOV.UK, Year unknown. *HM Land Registry data* [Online]. Available from: https://www.gov.uk/government/publications/hm-land-registry-data/public-data [Accessed 8 March 2024].
 
-33. GOV.UK. *HM Land Registry data* [Online]. Available from: https://www.gov.uk/government/publications/hm-land-registry-data/public-data [Accessed 20 March 2025].
+[^34]: Historic England, Year unknown. *Data Downloads* [Online]. Available from: https://historicengland.org.uk/listing/the-list/data-downloads/ [Accessed 8 March 2024].
 
-34. Historic England. *Data Downloads* [Online]. Available from: https://historicengland.org.uk/listing/the-list/data-downloads/ [Accessed 20 March 2025].
+[^35]: Greater London Authority, Year unknown. *Housing in London* [Online]. London. Available from: https://data.london.gov.uk/dataset/housing-london [Accessed 8 March 2024].
 
-35. Greater London Authority. *Housing in London* [Online]. London. Available from: https://data.london.gov.uk/dataset/housing-london [Accessed 20 March 2025].
+[^36]: Ordnance Survey, Year unknown. *Opening up property extents* [Online]. Available from: https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents [Accessed 8 March 2024].
 
-36. Ordnance Survey. *Opening up property extents* [Online]. Available from: https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents [Accessed 20 March 2025].
+[^37]: GOV.UK, Year unknown. *UK Property Price Index data tables* [Online]. Available from: https://www.gov.uk/government/publications/uk-property-price-index-data-tables [Accessed 8 March 2024].
 
-37. GOV.UK. *UK Property Price Index data tables* [Online]. Available from: https://www.gov.uk/government/publications/uk-property-price-index-data-tables [Accessed 20 March 2025].
+[^38]: data.police.uk, Year unknown. *Street-level crime* [Online]. Available from: https://data.police.uk/docs/method/crime-street/ [Accessed 8 March 2024].
 
-38. data.police.uk. *Street-level crime* [Online]. Available from: https://data.police.uk/docs/method/crime-street/ [Accessed 20 March 2025].
+[^39]: data.police.uk, Year unknown. *Crimes at location* [Online]. Available from: https://data.police.uk/docs/method/crimes-at-location/ [Accessed 8 March 2024].
 
-39. data.police.uk. *Crimes at location* [Online]. Available from: https://data.police.uk/docs/method/crimes-at-location/ [Accessed 20 March 2025].
+[^40]: Greater London Authority, Year unknown. *Recorded Crime Summary* [Online]. London. Available from: https://data.london.gov.uk/dataset/recorded_crime_summary [Accessed 8 March 2024].
 
-40. Greater London Authority. *Recorded Crime Summary* [Online]. London. Available from: https://data.london.gov.uk/dataset/recorded_crime_summary [Accessed 20 March 2025].
+[^41]: ONS, Year unknown. *Police force area data tables* [Online]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables [Accessed 8 March 2024].
 
-41.  ONS. *Police force area data tables* [Online]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables [Accessed 20 March 2025].
+[^42]: Proven Partners, Year unknown. *Traditional & Digital Marketing For Your Property Business* [Online]. Available from: https://www.proven.partners/blog/traditional-digital-marketing-property [Accessed 8 March 2024].
 
-42. Proven Partners. *Traditional & Digital Marketing For Your Property Business* [Online]. Available from: https://www.proven.partners/blog/traditional-digital-marketing-property [Accessed 20 March 2025].
+[^43]: Proven Partners, Year unknown. *24 Effective Real Estate Marketing Ideas for 2024* [Online]. Available from: https://www.proven.partners/blog/real-estate-marketing-ideas [Accessed 8 March 2024].
 
-43. Proven Partners. *24 Effective Real Estate Marketing Ideas for 2024* [Online]. Available from: https://www.proven.partners/blog/real-estate-marketing-ideas [Accessed 20 March 2025].
+[^44]: Exploding Topics, Year unknown. *11 Soaring Real Estate Startups [2024]* [Online]. Available from: https://explodingtopics.com/blog/real-estate-startups [Accessed 8 March 2024].
 
-44. Exploding Topics. *11 Soaring Real Estate Startups [2024]* [Online]. Available from: https://explodingtopics.com/blog/real-estate-startups [Accessed 20 March 2025].
+[^45]: Sell.Do, Year unknown. *Top 10 Innovative Real Estate Tech Startups in 2024* [Online]. Available from: https://www.sell.do/blog/top-innovative-real-estate-tech-startups [Accessed 8 March 2024].
 
-45. Sell.Do. *Top 10 Innovative Real Estate Tech Startups in 2024* [Online]. Available from: https://www.sell.do/blog/top-innovative-real-estate-tech-startups [Accessed 20 March 2025].
+[^46]: Dignuz Design, Year unknown. *12 Proven Marketing Strategies for Real Estate Developers* [Online]. Available from: https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/ [Accessed 8 March 2024].
 
-46. Dignuz Design. *12 Proven Marketing Strategies for Real Estate Developers* [Online]. Available from: https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/ [Accessed 20 March 2025].
+[^47]: CRETI, Year unknown. *Navigating Marketing Best Practices in PropTech: A Residential Startup’s Success Story* [Online]. Available from: https://creti.org/proptech-marketing-hub/navigating-marketing-best-practices-in-proptech-a-residential-startups-success-story [Accessed 8 March 2024].
 
-47. CRETI. *Navigating Marketing Best Practices in PropTech: A Residential Startup’s Success Story* [Online]. Available from: https://creti.org/proptech-marketing-hub/navigating-marketing-best-practices-in-proptech-a-residential-startups-success-story [Accessed 20 March 2025].
+[^48]: One Mallorca, Year unknown. *The importance of customer acquisition for your real estate business and how you can be successful.* [Online]. Available from: https://one-mallorca.com/en/real-estate-agent/the-importance-of-customer-acquisition-for-your-real-estate-business-and-how-you-can-be-successful [Accessed 8 March 2024].
 
-48. One Mallorca. *The importance of customer acquisition for your real estate business and how you can be successful.* [Online]. Available from: https://one-mallorca.com/en/real-estate-agent/the-importance-of-customer-acquisition-for-your-real-estate-business-and-how-you-can-be-successful [Accessed 20 March 2025].
+[^49]: Digital Defynd, Year unknown. *Digital Transformation in Real Estate: Case Studies* [Online]. Available from: https://digitaldefynd.com/IQ/digital-transformation-in-real-estate-case-studies [Accessed 8 March 2024].
 
-49. Digital Defynd. *Digital Transformation in Real Estate: Case Studies* [Online]. Available from: https://digitaldefynd.com/IQ/digital-transformation-in-real-estate-case-studies [Accessed 20 March 2025].
+[^50]: AngelList, Year unknown. *What is a SAFE note?* [Online]. Available from: https://www.angellist.com/learn/safe-note [Accessed 8 March 2024].
 
-50. AngelList. *What is a SAFE note?* [Online]. Available from: https://www.angellist.com/learn/safe-note [Accessed 20 March 2025].
+[^51]: Pi Labs, Year unknown. *Growth Programme* [Online]. Available from: https://pilabs.vc/growth-programme [Accessed 8 March 2024].
 
-51. Pi Labs. *Growth Programme* [Online]. Available from: https://pilabs.vc/growth-programme [Accessed 20 March 2025].
+[^52]: Propertymark, Year unknown. *REACH UK: Ambitious proptech startups invited to join 2025 cohort* [Online]. Available from: https://www.propertymark.co.uk/resource/reach-uk-ambitious-proptech-startups-invited-to-join-2025-cohort.html [Accessed 8 March 2024].
 
-52. Propertymark. *REACH UK: Ambitious proptech startups invited to join 2025 cohort* [Online]. Available from: https://www.propertymark.co.uk/resource/reach-uk-ambitious-proptech-startups-invited-to-join-2025-cohort.html [Accessed 20 March 2025].
+[^53]: Techstars, Year unknown. *Investment Terms* [Online]. Available from: https://www.techstars.com/newsroom/investment-terms [Accessed 8 March 2024].
 
-53. Techstars. *Investment Terms* [Online]. Available from: https://www.techstars.com/newsroom/investment-terms [Accessed 20 March 2025].
+[^54]: Y Combinator, Year unknown. *About* [Online]. Available from: https://www.ycombinator.com/about [Accessed 8 March 2024].
 
-54. Y Combinator. *About* [Online]. Available from: https://www.ycombinator.com/about [Accessed 20 March 2025].
+[^55]: Government of Canada, 2024. *Government announces two-year extension to ban on foreign ownership of Canadian housing* [Online]. Available from: https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html [Accessed 8 March 2024].
 
-55. Government of Canada, 2024. *Government announces two-year extension to ban on foreign ownership of Canadian housing* [Online]. Available from: https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html [Accessed 20 March 2025].
+[^56]: Reuters, 2025. *Australia to put two-year ban on foreigners buying existing homes amid housing crunch* [Online]. Available from: https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/ [Accessed 8 March 2024].
 
-56. Reuters, 2025. *Australia to put two-year ban on foreigners buying existing homes amid housing crunch* [Online]. Available from: https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/ [Accessed 20 March 2025].
+[^57]: The Guardian, 2024. *US justice department to investigate real estate firm RealPage over rent price fixing claims* [Online] . Available from: https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit [Accessed 8 March 2024].
 
-57. The Guardian, 2024. *US justice department to investigate real estate firm RealPage over rent price fixing claims* [Online] . Available from: https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit [Accessed 20 March 2025].
-
-58. Morgan Lewis, 2025. *AI and Algorithmic Pricing: 2025 Antitrust Outlook and Compliance Considerations* [Online]. Available from: https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations [Accessed 20 March 2025].
-
-
-
-[^1]: https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1
-[^2]: https://www.jllt.com/research/global-real-estate-technology-survey-2023/
-[^3]: https://data.london.gov.uk/housing/housing-market-report/
-[^4]: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html
-[^5]: https://data.london.gov.uk/housing/housing-market-report
-[^6]: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html
-[^7]: https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/
-[^8]: https://www.sandradavidson.com/estate-agent-fees-london/
-[^9]: https://land.tech/reports/london-house-price-growth-and-driving-factors
-[^10]: https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face
-[^11]: https://informi.co.uk/business-administration/how-do-i-register-partnership
-[^12]: https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/
-[^13]: https://xactaccountants.co.uk/blog/companies-house-fees-changes/
-[^14]: https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3
-[^15]: https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/
-[^16]: https://lawhive.co.uk/knowledge-hub/small-business/how-much-does-it-cost-to-register-a-business-in-the-uk/
-[^17]: https://whittakerandco.com/companies-house-registration-fees-set-to-increase
-[^18]: https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/
-[^19]: https://osome.com/uk/guides/business-registration-costs/
-[^20]: https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees
-[^21]: https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase
-[^22]: https://www.gov.uk/business-finance-support
-[^23]: https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees
-[^24]: https://gocardless.com/guides/posts/what-is-a-public-limited-company/
-[^25]: https://www.investopedia.com/terms/p/plc.asp
-[^26]: https://www.london-registrars.co.uk/product/plc-incorporation
-[^27]: https://harperjames.co.uk/article/public-limited-company
-[^28]: https://imperiallegal.uk/business/types-of-company-in-uk/public-limited-company-plc
-[^29]: https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/
-[^30]: https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company
-[^31]: https://thefinancialtechnologyreport.com/the-top-25-real-estate-technology-companies-of-2024/
-[^32]: https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf
-[^33]: https://www.gov.uk/government/publications/hm-land-registry-data/public-data
-[^34]: https://historicengland.org.uk/listing/the-list/data-downloads/
-[^35]: https://data.london.gov.uk/dataset/housing-london
-[^36]: https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents
-[^37]: https://www.gov.uk/government/publications/uk-property-price-index-data-tables
-[^38]: https://data.police.uk/docs/method/crime-street/
-[^39]: https://data.police.uk/docs/method/crimes-at-location/
-[^40]: https://data.london.gov.uk/dataset/recorded_crime_summary
-[^41]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables
-[^42]: https://www.proven.partners/blog/traditional-digital-marketing-property
-[^43]: https://www.proven.partners/blog/real-estate-marketing-ideas
-[^44]: https://explodingtopics.com/blog/real-estate-startups
-[^45]: https://www.sell.do/blog/top-innovative-real-estate-tech-startups
-[^46]: https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/
-[^47]: https://creti.org/proptech-marketing-hub/navigating-marketing-best-practices-in-proptech-a-residential-startups-success-story
-[^48]: https://one-mallorca.com/en/real-estate-agent/the-importance-of-customer-acquisition-for-your-real-estate-business-and-how-you-can-be-successful
-[^49]: https://digitaldefynd.com/IQ/digital-transformation-in-real-estate-case-studies
-[^50]: https://www.angellist.com/learn/safe-note
-[^51]: https://pilabs.vc/growth-programme
-[^52]: https://www.propertymark.co.uk/resource/reach-uk-ambitious-proptech-startups-invited-to-join-2025-cohort.html
-[^53]: https://www.techstars.com/newsroom/investment-terms
-[^54]: https://www.ycombinator.com/about
-[^55]: https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html
-[^56]: https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/
-[^57]: https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit
-[^58]: https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations
+[^58]: Morgan Lewis, 2025. *AI and Algorithmic Pricing: 2025 Antitrust Outlook and Compliance Considerations* [Online]. Available from: https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations [Accessed 8 March 2024].
 
 
