@@ -823,8 +823,8 @@ To fuel our growth, we plan to onboard additional key hires and outsource functi
 | Metric             | Value |
 | ------------------ | ----- |
 | Total Academic     | 41    |
-| Total Professional | 28    |
-| Overall Total      | 69    |
+| Total Professional | 30    |
+| Overall Total      | 71    |
 
 ## What are the main risks to the success of your business and how will you address or mitigate them?
 
