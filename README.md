@@ -105,6 +105,7 @@ Stakeholder interviews with real estate agents and investors emphasized the need
 
 Our interactive prototype demonstrates the core functionality of our platform, showcasing how users can access property insights, valuations, and risk assessments through an intuitive interface.
 
+
 ![Prototype Screenshot](https://github.com/Jintpong/Entrepreneur_CW1/blob/main/assets/proto1.png)
 ![Prototype Screenshot](https://github.com/Jintpong/Entrepreneur_CW1/blob/main/assets/proto2.png)
 ### Key Features Demonstrated:
@@ -120,13 +121,12 @@ Our interactive prototype demonstrates the core functionality of our platform, s
    - Comparative analysis between similar properties
 
 3. **Risk Assessment Interface**
-   - Color-coded risk indicators for environmental factors
-   - Regulatory impact warnings
    - Investment confidence scoring
+
 
 The prototype has been tested with potential users including foreign investors, first-time buyers, and real estate professionals, with feedback incorporated into the current design. User testing revealed strong interest in the risk assessment features and predictive valuation tools, confirming our value proposition's alignment with market needs.
 
-[View Interactive Demo](https://www.figma.com/proto/eNVoWNlAUAcffvFmds0IgO/Scuderia?node-id=14-3&p=f&t=BkLRsMNvLszw4bA5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A3) (Coming Soon)
+[View Interactive Demo](https://www.figma.com/proto/eNVoWNlAUAcffvFmds0IgO/Scuderia?node-id=14-3&p=f&t=BkLRsMNvLszw4bA5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A3) 
 
 
 
