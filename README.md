@@ -682,8 +682,9 @@ This investment will help us acquire ~700K downloads and retail ~170K Quarterly 
 2. 2-Quarters User Reterntion = 5%
 3. 3-Quarters User Retention = 3%
 4. Avg Cost per customer acquistion/download = £15
+<img width="1303" alt="Screenshot 2025-03-20 at 2 56 05 PM" src="https://github.com/user-attachments/assets/7fd2b877-2983-4f1a-9956-eb1b8bf10f4d" />
 
-![image](https://github.com/user-attachments/assets/b3005094-db06-4a36-913f-ec82942fcbff)
+
 
 
 
