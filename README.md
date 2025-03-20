@@ -13,8 +13,6 @@
 | Yuta Asai           | ya549            |
 | Vineet Nagaraj Naik | vnn28            |
 
----
-
 <div style="page-break-after: always;"></div>
 
 # Product
@@ -98,12 +96,12 @@ Existing platforms, such as PropertyData and Nimbus Maps, reveal notable gaps. P
 Stakeholder interviews with real estate agents and investors emphasized the need for explainable valuations (e.g., justifying prices to clients) and enhanced risk transparency (e.g., awareness of flood zones). XYZ addresses these needs by leveraging machine learning models trained on extensive datasets (e.g. the Land Registry’s Price Paid Data spanning from 1995 to 2024).
 
 <!-- TODO: We will reposition this later -->
+
 ## Business Model Canvas
 
 <!-- Added by Vineet -->
 
 ![image_alt](https://github.com/Jintpong/Entrepreneur_CW1/blob/e5ceffbb8fee988d0b6d70e2b5df62b4c1ef8685/Business%20Model%20Canvas.png)
-
 
 # Market
 
@@ -125,9 +123,7 @@ Recent data from the London Housing Market Report highlights key trends indicati
 
 The accompanying chart from RICS survey data illustrates monthly changes in buyer inquiries and newly listed homes in London. Market demand experienced growth in the last quarter, coinciding with the Bank of England’s first interest rate cut since May 2022. As a second rate cut is expected, this trend is likely to continue. Additionally, seller activity has increased, leading to the first net-positive market activity since 2022.
 
-
 Rightmove anticipates that the number of homes for sale will remain high in the coming year, maintaining strong competition among sellers and preventing significant price increases. However, this increased supply is expected to facilitate more transactions, with Rightmove projecting approximately 1.15 million completed sales in 2025.
-
 
 An upcoming reduction in the stamp duty threshold, set to take effect on April 1, could add thousands of pounds in moving costs for buyers. Rightmove's real-time data has already detected a surge in first-time buyer activity in high-cost areas as they attempt to finalize purchases before the new rates apply. Nevertheless, many regions in England still offer homes under the £300,000 threshold, allowing first-time buyers to benefit from significant tax advantages compared to second-home buyers.
 Currently, the number of first-time buyers actively engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, strong activity in this segment is anticipated throughout 2025.
@@ -137,7 +133,6 @@ Currently, the number of first-time buyers actively engaging with agents is 13% 
 Two years after the release of ChatGPT, AI has become a transformative force across industries, including finance, manufacturing, healthcare, education, and real estate. Even real estate, a traditionally slow adopter of technology, is beginning to integrate AI for enhanced decision-making, task automation, cost reduction, and improved customer service.
 
 According to JLL's 2023 Global Real Estate Technology Survey, AI and generative AI were ranked among the top three technologies expected to have the greatest impact on real estate over the next three years. The industry has amassed vast amounts of proprietary and third-party data, which is now being leveraged to develop AI-driven systems tailored to real estate-specific tasks.
-
 
 Writing property listing descriptions is traditionally a manual and time-consuming process. However, generative AI is transforming this by creating descriptions that are not only unique and compelling but also optimized for SEO positioning. Tools like ListingAI generate high-quality property descriptions in seconds, saving time and costs for real estate agents.
 
@@ -149,13 +144,15 @@ AI and predictive analytics are revolutionizing investment decision-making in re
 The London housing market is experiencing a positive shift in buyer activity and seller engagement, driven by interest rate cuts and changing market dynamics. The anticipated stamp duty changes and sustained supply levels are expected to shape market behavior in 2025. Meanwhile, AI is transforming real estate through automated property descriptions, improved asset valuation, and data-driven investment strategies. As AI adoption continues to grow, its influence on the real estate sector will expand, leading to greater efficiency and accuracy in market transactions.
 
 <!-- TODO: Reference to the above with markdown numbering -->
-<!-- 
+<!--
 [London Datastore](https://data.london.gov.uk/housing/housing-market-report/)
 [Standord](https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html)
 [Datacamp: AI in Real Estate](https://www.datacamp.com/blog/ai-in-real-estate) -->
 
 ## Stakeholders and Customers Research
+
 <!-- TODO: Quanitfy -->
+
 Stakeholders and customers are essential in identifying and shaping the application opportunities, whether in terms of the scalability aspects, market adoption or the overall feasibility, their insight will refine the features of the application ensuring it will align with the current industry needs. Therefore an analysis of potential customers and a well-constructed methodology to approach them is required to gain a deeper understanding of their needs and preferences.
 
 Table 1 illustrates the potential customers and stakeholders for the application which are mainly within the real estate industries such as real estate agents, property developers and home buyers and sellers. The justification on why these groups in particular is due to their direct involvement and potential for them to subscribe to the product for instance the purpose for real estate agents to use the product may be to identify market trends, whereas property developers may be to compare the price between different areas. Nonetheless, these groups share commonalities the need for accurate real estate valuation and data driven decision making, both of which the product is able to provide.
@@ -169,19 +166,19 @@ Table 1. Stakeholder Analysis and Potential Approach Methodologies
 | Property Developers | Identify and compare the price in specific areas and forecasts the price in multiple locations| Online Survey |
 | Home Buyer and Seller | Improve their decision making through the use of the application | Online survey |
 
+### Stakeholders Behaviours and Interests
 
-### Stakeholders Behaviours and Interests 
-The real estate marker is highly dynamic with different categories of stakeholders driving the transaction of the property. Therefore, understanding these stakeholders behaviours and interests is crucial in order to construct a real estate tool that will meets the industry needs. 
+The real estate marker is highly dynamic with different categories of stakeholders driving the transaction of the property. Therefore, understanding these stakeholders behaviours and interests is crucial in order to construct a real estate tool that will meets the industry needs.
 
-1) Real Estate Agents in London areas - Real Estate Agents are one of the important stakeholders in which there are over 50,000 licensed real estate agents currently operating in London ranging from luxury properties, commercial real estate and affordable housing markets [(Martin, 2023)](https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/). Additionally, recent insights suggested that the commission levels typically range from 1% to 3% in which this indicate that an appropriate and accurate pricing strategies are crucial to be able to maximise earnings as well as many agencies nowadays heavily rely on data analytics and data-driven decisions to identify buyer preferences [(Azeem., 2024)](https://www.sandradavidson.com/estate-agent-fees-london/). Therefore this indicates that the team's product which is an AI-driven application could benefit from this need by offering real estate agents an automated valuation model to assess and identify property prices and track market trends.
+1. Real Estate Agents in London areas - Real Estate Agents are one of the important stakeholders in which there are over 50,000 licensed real estate agents currently operating in London ranging from luxury properties, commercial real estate and affordable housing markets [(Martin, 2023)](https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/). Additionally, recent insights suggested that the commission levels typically range from 1% to 3% in which this indicate that an appropriate and accurate pricing strategies are crucial to be able to maximise earnings as well as many agencies nowadays heavily rely on data analytics and data-driven decisions to identify buyer preferences [(Azeem., 2024)](https://www.sandradavidson.com/estate-agent-fees-london/). Therefore this indicates that the team's product which is an AI-driven application could benefit from this need by offering real estate agents an automated valuation model to assess and identify property prices and track market trends.
 
-2) Home Buyers and Sellers / Property Developers - [(LandTech)](https://land.tech/reports/london-house-price-growth-and-driving-factors) recently published few insights which are that by 2025, 50% of London properties are sold to mortgage buyers and that by 2025, international buyers will purchase 20% of London properties. This insights can be further explore for instance taking into consideration that nearly 50% of London property sales will involvw mortgage buyers indicate that tools that offer accurate valuation are crucial due to that buyers will require accurate predictions of future property values to be able to ensure that their investments remain viable as well align with the market trends. Moreover, taking into consideration certain demographics such as first-time home buyers can even benefits from this as AI-driven information can offer insights towards area that are undervalued, hence eliminating affordability challenges.
+2. Home Buyers and Sellers / Property Developers - [(LandTech)](https://land.tech/reports/london-house-price-growth-and-driving-factors) recently published few insights which are that by 2025, 50% of London properties are sold to mortgage buyers and that by 2025, international buyers will purchase 20% of London properties. This insights can be further explore for instance taking into consideration that nearly 50% of London property sales will involvw mortgage buyers indicate that tools that offer accurate valuation are crucial due to that buyers will require accurate predictions of future property values to be able to ensure that their investments remain viable as well align with the market trends. Moreover, taking into consideration certain demographics such as first-time home buyers can even benefits from this as AI-driven information can offer insights towards area that are undervalued, hence eliminating affordability challenges.
 
-In additionally, taking into consideration that 20% of London properties will be from international buyers emphasised the demand for data-driven insights for global investors. Hence the product that the team will offer will need to ensure that it offers market transparency since global investors often lack the knowledge and information regarding the local market and enable cross-area comparisons since foreign investors may seek to compare different areas within London. 
+In additionally, taking into consideration that 20% of London properties will be from international buyers emphasised the demand for data-driven insights for global investors. Hence the product that the team will offer will need to ensure that it offers market transparency since global investors often lack the knowledge and information regarding the local market and enable cross-area comparisons since foreign investors may seek to compare different areas within London.
 
-[(LandTech)](https://land.tech/reports/london-house-price-growth-and-driving-factors) further stated that international buyers were relatively attracted to the stability and potential returns of the London market with the combination of favourable mortgages and a competitive market this creates a perfect setting for buyers to invest in property. Hence, these statements further solidify the importance of data-driven insights and predictive analytics in helping investors make informed decisions and further support that there are currently needs for tools which allow forecasts and predictions in order to identify growth trends and optimise investment returns. 
+[(LandTech)](https://land.tech/reports/london-house-price-growth-and-driving-factors) further stated that international buyers were relatively attracted to the stability and potential returns of the London market with the combination of favourable mortgages and a competitive market this creates a perfect setting for buyers to invest in property. Hence, these statements further solidify the importance of data-driven insights and predictive analytics in helping investors make informed decisions and further support that there are currently needs for tools which allow forecasts and predictions in order to identify growth trends and optimise investment returns.
 
-Moreover, it was previously suggested that the real estate industry especially those within the property development sectors often been slow to embrace technology which leads to an increased gap in skills, knowledge and necessary training in data analysis, limiting their ability to harness data for decision making [(Senen Group) (https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face/)]. The product the team's is offering aims to eliminate these concerns and allow property developers, investors and real estate professionals to make data-driven decisions through predictive analysis and property valuation models.
+Moreover, it was previously suggested that the real estate industry especially those within the property development sectors often been slow to embrace technology which leads to an increased gap in skills, knowledge and necessary training in data analysis, limiting their ability to harness data for decision making [(Senen Group)](https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face/). The product the team's is offering aims to eliminate these concerns and allow property developers, investors and real estate professionals to make data-driven decisions through predictive analysis and property valuation models.
 
 Taking into consideration the understanding of the stakeholder behaviours and interests it is important to identify and categorise these stakeholders based on their level of influence and interest in order to meet the expectations and ensure high adoption rates of the product.
 
@@ -207,7 +204,6 @@ Figure 1. Power/Interest grid
 - Can be overwhelming because it has too much data without clear explanations.
 - Does not provide crime rates or long-term growth predictions.
 
-
 ### Nimbus Maps
 
 **What it does:** Shows property locations on a map with useful data. The "Plus" plan is priced at £150 per month when billed annually.
@@ -221,8 +217,6 @@ Figure 1. Power/Interest grid
 - Expensive, starting at £80 per month, which might be too much for new investors.
 - Steep learning curve – takes time to understand all the features.
 - Mobile version is not very user-friendly.
-
-
 
 ### LandInsight
 
@@ -241,8 +235,6 @@ Figure 1. Power/Interest grid
 - Focuses mostly on land and development, not great for regular home buyers.
 - Some reports and data take time to load or update.
 
-
-
 ### Lendlord
 
 **What it does:** Helps landlords manage their rental properties and finances.
@@ -260,8 +252,6 @@ Figure 1. Power/Interest grid
 - Doesn’t offer much property market research or insights.
 - Customer support can be slow.
 
-
-
 ### Home.co.uk
 
 **What it does:** Shows house prices, rent trends, and market reports.
@@ -276,8 +266,6 @@ Figure 1. Power/Interest grid
 - Website looks very outdated and is difficult to navigate.
 - Lacks advanced tools for serious investors.
 - Does not provide real-time data, so some info may be out of date.
-
-
 
 ### PropertyDirector
 
@@ -324,8 +312,6 @@ Figure 1. Power/Interest grid
 
 <!-- Added by Sam Alshoabi -->
 
-### Legal Entity: A Strategic Foundation for Global Growth
-
 At Entrepreneurs, our legal structure is designed to support our ambitious vision while ensuring flexibility, scalability, and investor confidence. We have strategically chosen to establish our **headquarters in London, United Kingdom**, positioning ourselves at the heart of one of the world’s most dynamic real estate markets. This proximity to London’s thriving property ecosystem—coupled with its status as a global financial hub—enables us to tap into cutting-edge market trends, attract top talent, and forge partnerships that drive our mission forward.
 
 #### Current Structure: Private Limited Liability Company (UK)
@@ -350,9 +336,7 @@ Our legal entity strategy is more than a formality—it’s a competitive advant
 
 <!-- Added by Sam Alshoabi -->
 
----
-
-A sole trader is the simplest business structure in the UK, where a single individual owns and operates the business. There is no legal separation between the business and its owner. Registration is straightforward – you simply need to inform HMRC that you're self-employed by registering for Self Assessment if your trading income exceeds £1,000 in a tax year. This must be done by October 5 following the end of the tax year in which you began trading[[1]](https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/)
+There are multiple legal entities that can be used to start a business in the UK. A detailed analysis of the pros and cons of each is shown below:
 
 #### 1. Sole Trader
 
@@ -414,11 +398,11 @@ A sole trader is the simplest business structure in the UK, where a single indiv
 - **Advantages**: Flexibility in management and limited liability.
 - **Disadvantages**: Requires formal agreements and compliance with Companies House regulations, cannot raise capital by issuing shares like companies [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3).
 
-For our startup inorder to seek scalability and investor confidence, a Limited Liability Company (Ltd.) is the most suitable option due to its liability protection and growth potential
+For our startup inorder to seek scalability and investor confidence, a **Limited Liability Company (Ltd.)** is the most suitable option due to its liability protection and growth potential
 
-### Which resources do you need and how will you get them?
+## Which resources do you need and how will you get them?
 
-#### Technological Resources
+### Technological Resources
 
 The business requires significant technological infrastructure to develop and deploy its AI-powered application. This includes:
 
@@ -430,7 +414,7 @@ The business requires significant technological infrastructure to develop and de
 
 Acquisition Strategy: These resources will be developed in-house where possible, with necessary hardware and software purchased or leased from providers. Cloud services will be subscribed to, ensuring cost-effective scalability.
 
-#### Real Estate Data
+### Real Estate Data
 
 The foundation of any Geographic Intelligence platform focused on property price prediction lies in its data infrastructure. For our London-centric platform that combines exceptional UX with ML-powered predictive analytics, addressing the dataset challenge is paramount to delivering accurate insights. Property data forms the cornerstone of our service, and without comprehensive, high-quality datasets, our predictive capabilities would be severely limited. The datasets we require must span historical transactions, geographic boundaries, property characteristics, and contextual information that influences pricing trends across London's diverse neighborhoods.
 
@@ -454,7 +438,7 @@ Property price prediction requires multidimensional data that captures not only 
 
     Ordnance Survey data resources, particularly their AddressBase system with Unique Property Reference Numbers (UPRNs), provide the spatial foundation for our geographic intelligence platform. Under the Public Sector Geospatial Agreement, certain OS MasterMap data is now available under open license terms, allowing us to "publish property extents created from OS MasterMap Topography Layer under Open Government Licence (OGL) terms"[[17]](https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents). This data will power our map-based interface, enabling users to visualize property price predictions with precise geographical context.
 
-#### Crime Data
+### Crime Data
 
 Crime data serves multiple functions within a real estate intelligence platform. It helps investors identify undervalued areas where improving safety metrics may signal future price appreciation. It provides crucial information for home buyers concerned about personal safety and property security. For real estate professionals, it delivers data-driven insights to address client concerns regarding neighborhood safety. This multidimensional utility makes crime statistics an invaluable resource for enhancing the platform's predictive algorithms and user experience.
 
@@ -488,14 +472,12 @@ Crime data serves multiple functions within a real estate intelligence platform.
 
     The platform will implement scheduled data collection from the ONS portal, focusing on the Metropolitan Police data relevant to London. This data will primarily serve as a validation layer and for broader trend analysis, complementing the more granular data from Police.uk and the London Datastore.
 
-#### Marketing Resources
+### Marketing Resources
 
 To reach target customers—real estate agents, property developers, and home buyers/sellers—the business needs effective marketing channels. The plan suggests a B2C approach with subscription models, indicating a need for customer acquisition strategies.
 Acquisition Strategy: Marketing channels will be developed through digital strategies, including social media campaigns, content marketing on real estate blogs, and email marketing. Participation in industry conferences and partnerships with real estate associations will enhance visibility, as seen in successful real estate tech startups [Built In NYC](https://www.builtinnyc.com/articles/nyc-real-estate-startups-to-know).
 
-### Financing Options
-
-- What is your approach to financing?
+## What is our approach to financing?
 
 ### Financing Strategy: From Incubator to £50 Million Valuation
 
@@ -571,10 +553,9 @@ This assumes a 50–100% annual growth rate post-seed, fueled by demand from for
 
 Starting with an incubator/accelerator de-risks our early stages by providing capital, expertise, and investor access, critical for a proptech startup needing to prove product-market fit. The staged funding rounds align with milestones—building, scaling, and globalizing—while our London base leverages a prime real estate market to attract angels and VCs. By targeting a £50 million valuation, we position Entrepreneurs for an IPO, unlocking public capital to redefine property valuation worldwide.
 
----
-# Sales and Marketing Plan
+## Sales and Marketing Plan
 
-## 1. Target Audience
+### 1. Sales Strategy
 
 Our software is designed for:
 
@@ -583,65 +564,55 @@ Our software is designed for:
 - **Landlords** wanting to assess potential rental properties.
 - **Property developers** looking for growth areas and market trends.
 
----
-
-## 2. Sales Strategy
-
 We will use a mix of **direct sales** and **self-service models** to attract customers.
 
-### A. Free Trial & Subscription Plans
+#### A. Free Trial & Subscription Plans
 
 - Offer a **7-day free trial** to encourage users to try the platform.
 - Use a **tiered pricing model** (Basic, Pro, and Enterprise plans) to cater to different needs.
 
-### B. Partnerships & Collaborations
+#### B. Partnerships & Collaborations
 
 - Partner with **estate agents, mortgage brokers, and property management firms** to promote the software.
 - Collaborate with **real estate influencers and YouTube property investors** to gain credibility.
 
-### C. Direct Outreach to Real Estate Investors
+#### C. Direct Outreach to Real Estate Investors
 
 - Attend **property investment events and expos** to showcase the platform.
 - Use **LinkedIn outreach and email campaigns** targeting property professionals.
 
----
-
-## 3. Marketing Strategy
+### 2. Marketing Strategy
 
 We will focus on **digital marketing, content marketing, and word-of-mouth referrals** to acquire users.
 
-### A. Content Marketing & SEO (Search Engine Optimization)
+#### A. Content Marketing & SEO (Search Engine Optimization)
 
 - Publish **blog articles** on property investment tips, market trends, and software tutorials.
 - Optimize the website for **Google search rankings** to attract organic traffic.
 
-### B. Social Media & Paid Advertising
+#### B. Social Media & Paid Advertising
 
 - Run **Facebook, Instagram, and LinkedIn ads** targeting property investors and home buyers.
 - Create **engaging video content** for **YouTube and TikTok** showcasing software features.
 - Use **Google Ads** to appear in search results for "UK property investment tools" and similar terms.
 
-### C. Referral & Affiliate Marketing
+#### C. Referral & Affiliate Marketing
 
 - Offer **discounts and bonuses** for users who refer new customers.
 - Partner with **real estate influencers** who can promote the software through affiliate marketing.
 
-### D. Email Marketing & Retargeting
+#### D. Email Marketing & Retargeting
 
 - Send **weekly newsletters** with property investment tips and updates.
 - Use **email campaigns** to re-engage free trial users and convert them to paying customers.
 
----
-
-## 4. Customer Retention & Growth
+### 3. Customer Retention & Growth
 
 - Provide **excellent customer support** via chat, email, and phone.
 - Continuously **update features** based on user feedback.
 - Build a **community forum** where investors can discuss market trends and strategies.
 
----
-
-## 5. Key Metrics for Success
+### 4. Key Metrics for Success
 
 We will track:
 
@@ -649,12 +620,7 @@ We will track:
 - **Conversion rates** from free trial to paid users.
 - **Social media engagement** (likes, shares, and follower growth).
 
----
-
-## Summary
-
-Our sales and marketing strategy focuses on **targeted advertising, strategic partnerships, content marketing, and referral incentives**. By positioning our software as **affordable, easy-to-use, and data-driven**, we aim to attract **real estate investors and home buyers** who want **clear property insights** to make better decisions.
-### Operational Plan
+## Operational Plan
 
 The operational plan of the business aims to provide insight regarding activities the business will engage on a daily basis in order to increase the value of the enterprise. To be able to outline the team's needs one of the suitable model that can be apply in this section is the McKinsey 7S Models which is a framework for organisational effectiveness that focuses on the the seven factors that must be aligned as demonstrated in Figure 2.
 
@@ -691,7 +657,7 @@ Figure 2. McKinsey 7S Model
 
 At Entrepreneurs, our leadership team is our greatest asset—a group of eight accomplished co-founders whose diverse expertise and shared vision form the backbone of our success. Collectively, we bring **69 years of combined academic and professional experience** to the table, spanning industries such as technology, finance, retail, hospitality, engineering, media, healthcare, and more. With advanced academic backgrounds in fields like Data Science, Computer Science, Mechanical Engineering, Finance, and Psychology, paired with hands-on roles ranging from Program Management to TV Direction, our team is uniquely equipped to tackle complex challenges with a strategic, multidisciplinary approach.
 
-#### Meet the Team
+### Meet the Team
 
 - **Sam Alshoabi, Co-Founder** – With 15 years of experience, Sam blends expertise in Information Systems and Data Science with a proven track record in retail, technology, and customer service. His roles as a Program Manager, Business Analyst, and Customer Care Manager at companies like Amazon and OLX make him a versatile leader in operational efficiency and customer-centric innovation.
 
@@ -705,7 +671,7 @@ At Entrepreneurs, our leadership team is our greatest asset—a group of eight a
 - **Aeden Geo Thomas, Co-Founder** – Aeden’s 6 years in Computer Science Engineering and Software Engineering experience deliver cutting-edge technical solutions and a passion for innovation.
 - **Soroush Alimardani, Co-Founder** – A 5-year academic veteran in Information Technology and Computer Science, Soroush lays a strong technical foundation for our technology-driven initiatives.
 
-#### A Culture of Agility, Learning, and Collaboration
+### A Culture of Agility, Learning, and Collaboration
 
 Our company thrives on an **agile, lean, and data-driven culture**, designed to maximize efficiency and adaptability in a fast-evolving market. We prioritize outsourcing non-core domains to trusted experts, allowing us to focus on our strengths while maintaining a streamlined operation. But what truly sets us apart is our commitment to **skills transfer and cross-functional growth**. Each team member serves as the **primary owner** of a function aligned with their expertise—whether it’s technology, finance, operations, or creative direction—while also acting as a **secondary owner** under another expert’s mentorship. This structure fosters a dynamic learning environment where fresh perspectives, innovative ideas, and broadened skill sets emerge organically. By learning from each other’s extensive domain knowledge, we ensure every function benefits from diverse insights and forward-thinking solutions.
 
@@ -730,7 +696,7 @@ To fuel our growth, we plan to onboard additional key hires and outsource functi
 | Total Professional | 28    |
 | Overall Total      | 69    |
 
-### What are the main risks to the success of your business and how will you address or mitigate them?
+## What are the main risks to the success of your business and how will you address or mitigate them?
 
 We conducted a PESTLE analysis to identify external factors that may hinder the success of the business.
 
@@ -745,15 +711,15 @@ We conducted a PESTLE analysis to identify external factors that may hinder the 
 
 As a result of the PESTLE analysis above, we have narrowed it down to two issues that are most likely to hinder the company's success.
 
-#### **Critical Risk 1: Labour Shortages**
+### **Critical Risk 1: Labour Shortages**
 
-##### Problem Description
+#### Problem Description
 
 Our business is highly dependent on online payments and overseas investors as key revenue sources. Therefore, we need experts in data security, privacy, and legal regulations, but there is currently a shortage of the necessary talent. Several competitors in the real estate industry are already hiring AI engineers and real estate experts. These companies offer high salaries and comprehensive benefits, making it challenging to acquire skilled professionals.  
 If this issue is not addressed, future AI regulations or tax system changes may cause delays in compliance due to the lack of in-house experts. In more severe cases, failure to comply with regulations could result in penalties or legal sanctions.  
 This problem is closely linked to several risks identified in the PESTLE analysis, such as reduced hiring due to economic recessions and a sharp increase in remote work caused by the pandemic. If not properly mitigated, these factors could jeopardise the survival of the company's services.
 
-##### Mitigation Plan for Labour Shortages
+#### Mitigation Plan for Labour Shortages
 
 To prevent this situation from occurring, we are considering several proactive measures.
 
@@ -763,7 +729,7 @@ To prevent this situation from occurring, we are considering several proactive m
 2. Talent Training:  
    We provide tuition assistance and employee training programs to foster skill development for existing employees. We also cross-train employees from other departments with the technical or legal departments. This training allows employees to become familiar with the responsibilities of various departments in advance and allows operations to continue even if key personnel are unavailable.
 
-##### Contingency Plan for Labour Shortages
+#### Contingency Plan for Labour Shortages
 
 If a labour shortage materialises, we will implement the following contingency measures.
 
@@ -776,18 +742,16 @@ If a labour shortage materialises, we will implement the following contingency m
 3. Reduction of Work Scope:  
    If the above measures prove insufficient, we will consider temporarily reducing the scope of work. Specifically, if servicing overseas investors becomes difficult, we will prioritise the domestic market. Additionally, we will pause new feature development and focus on ensuring the stable operation of existing services.
 
----
-
 #### **Critical Risk 2: Regulatory Changes**
 
-##### Problem Description
+#### Problem Description
 
 The second biggest risk we envision is regulatory changes.  
 For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[[18]](https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html). In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[[19]](https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/). In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.
 
 Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms[[20]](https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit). The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, which might lead to inspections and a loss of trust in the platform.
 
-##### Mitigation Plan for Regulatory Changes
+#### Mitigation Plan for Regulatory Changes
 
 We are considering multiple countermeasures to mitigate the above risks.
 
@@ -798,7 +762,7 @@ We are considering multiple countermeasures to mitigate the above risks.
     According to Morgan Lewis[[21]](https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations), ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
    At the same time, we will conduct evaluations by independent auditing agencies multiple times a year to verify the fairness of pricing.
 
-##### Contingency Plan for Regulatory Changes
+#### Contingency Plan for Regulatory Changes
 
 1. If regulations on AI pricing are tightened:  
    We will revise our AI pricing process to comply with new regulations under the guidance of the auditing agency.
@@ -824,14 +788,10 @@ We are considering multiple countermeasures to mitigate the above risks.
 4. Vineet Nagaraj Naik
 5. Avneet Singh
 
----
-
 ### 1. Project Update and Discussion
 
 - **Business Plan Overview:**
   - The team reviewed the business plan sections and available materials, focusing on workload distribution to ensure alignment and efficiency.
-
----
 
 ### 2. Action Items
 
@@ -870,8 +830,6 @@ We are considering multiple countermeasures to mitigate the above risks.
 3. **Deadlines:** Propose soft and hard deadlines for material submission at the next meeting.
 4. **Attendance Format:** Confirm whether to record attendees in ascending order by arrival time in future minutes.
 
----
-
 ### 3. Next Steps
 
 - Schedule the ad-hoc meeting by February 19, 2025, to define the product description and finalize work distribution.
@@ -879,8 +837,6 @@ We are considering multiple countermeasures to mitigate the above risks.
 - Provide feedback on work distribution models (Option A or B) before the next meeting.
 - Initiate setup of the GitHub repository and organize documentation.
 - Track progress and updates in the repository for team transparency.
-
----
 
 **Date:** March 7, 2025  
 **Time:** 11:14:03 AM  
