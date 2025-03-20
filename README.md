@@ -86,11 +86,11 @@ The development of ScuderiaEstate was guided by key market research insights and
 
 **1. Rising Demand for Data-Driven Decisions**
 
-Anticipated changes in stamp duty regulations post-2025 are expected to shape first-time buyer activity in London. Recent trends indicate that increasing property costs have pushed first-time buyers to seek homes further from central London. In 2023, all London local authorities experienced a decline in first-time buyer mortgages per 1,000 dwellings compared to 2013, with the average London house price reaching £549,000 [(Financial Times, 2023)](https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1). This underscores the necessity for data-driven tools that empower buyers with insights on affordability and market trends.
+Anticipated changes in stamp duty regulations post-2025 are expected to shape first-time buyer activity in London. Recent trends indicate that increasing property costs have pushed first-time buyers to seek homes further from central London. In 2023, all London local authorities experienced a decline in first-time buyer mortgages per 1,000 dwellings compared to 2013, with the average London house price reaching £549,000 [^1]. This underscores the necessity for data-driven tools that empower buyers with insights on affordability and market trends.
 
 **2. AI Adoption Gap in Real Estate**
 
-Despite widespread recognition of artificial intelligence (AI) as a disruptive force, the real estate industry exhibits relatively low adoption rates. According to JLL's 2023 Global Real Estate Technology Survey, AI and clean tech solutions are identified as game-changers, yet many companies lack a comprehensive understanding of these technologies. Adoption remains limited, highlighting a need for ScuderiaEstate to provide accessible AI-driven property insights [(JLL, 2023)](https://www.jllt.com/research/global-real-estate-technology-survey-2023/).
+Despite widespread recognition of artificial intelligence (AI) as a disruptive force, the real estate industry exhibits relatively low adoption rates. According to JLL's 2023 Global Real Estate Technology Survey, AI and clean tech solutions are identified as game-changers, yet many companies lack a comprehensive understanding of these technologies. Adoption remains limited, highlighting a need for ScuderiaEstate to provide accessible AI-driven property insights [^2].
 
 **3. Competitor Weaknesses**
 
@@ -177,7 +177,7 @@ Looking ahead, Rightmove predicts that the number of homes for sale will remai
 
 A stamp duty threshold reduction set for April 1 could significantly raise moving costs for buyers. Rightmove’s real-time data already reflects a surge in first-time buyer activity in high-cost areas as they rush to finalize purchases before the new tax rates take effect. Despite this, many regions in England still offer homes under £300,000, allowing first-time buyers to benefit from tax advantages compared to second-home buyers.
 
-Currently, the number of first-time buyers engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, vigorous first-time buyer activity is anticipated to persist throughout 2025[[1]](https://data.london.gov.uk/housing/housing-market-report/)[[2]](https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html).
+Currently, the number of first-time buyers engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, vigorous first-time buyer activity is anticipated to persist throughout 2025 [^3],[^4].
 
 ![image](sell.png)
 
@@ -185,7 +185,7 @@ Currently, the number of first-time buyers engaging with agents is 13% higher
 
 Two years after the launch of ChatGPT, artificial intelligence (AI) has become a transformative force across multiple industries, including finance, manufacturing, healthcare, education, and real estate. While the real estate sector has traditionally been slow to adopt new technologies, it now embraces AI to enhance decision-making, automate tasks, reduce costs, and improve customer service.
 
-According to JLL's 2023 Global Real Estate Technology Survey[[3]](https://www.jllt.com/research/global-real-estate-technology-survey-2023/)., AI and generative AI rank among the top three technologies expected to significantly impact real estate over the next three years. The industry has accumulated vast amounts of proprietary and third-party data, which is now being leveraged to develop AI-driven solutions tailored to real estate-specific tasks.
+According to JLL's 2023 Global Real Estate Technology Survey[^2], AI and generative AI rank among the top three technologies expected to significantly impact real estate over the next three years. The industry has accumulated vast amounts of proprietary and third-party data, which is now being leveraged to develop AI-driven solutions tailored to real estate-specific tasks.
 
 One area where AI is making a significant impact is in property listing descriptions, which have traditionally required considerable manual effort. Generative AI is now automating this process, generating unique, compelling, and SEO-optimized descriptions in seconds. Tools like ListingAI enable real estate agents to create high-quality property listings quickly, significantly reducing time and costs.
 
@@ -193,13 +193,8 @@ Accurately estimating a property's market value is complex, influenced by multip
 
 AI and predictive analytics are also revolutionizing real estate investment. Advanced machine learning algorithms process detailed property data, including location, condition, market demand, economic indicators, and social media sentiment, to provide deeper insights. Leading investment firms like BlackRock utilize AI models to assess property values and identify lucrative investment opportunities on a global scale.
 
-The London housing market is currently experiencing a shift, with increasing buyer activity and seller engagement driven by interest rate cuts and changing market conditions. The upcoming stamp duty changes and sustained housing supply will further influence market trends 2025. Meanwhile, AI is reshaping the real estate industry through automated property listings, improved asset valuation, and data-driven investment strategies. As AI adoption accelerates, its impact on the real estate sector will expand, leading to greater efficiency, accuracy, and more intelligent decision-making in market transactions[[4]](https://www.datacamp.com/blog/ai-in-real-estate).
+The London housing market is currently experiencing a shift, with increasing buyer activity and seller engagement driven by interest rate cuts and changing market conditions. The upcoming stamp duty changes and sustained housing supply will further influence market trends 2025 [^5]. Meanwhile, AI is reshaping the real estate industry through automated property listings, improved asset valuation, and data-driven investment strategies. As AI adoption accelerates, its impact on the real estate sector will expand, leading to greater efficiency, accuracy, and more intelligent decision-making in market transactions [^6]
 
-<!-- TODO: Reference to the above with markdown numbering -->
-<!--
-[London Datastore](https://data.london.gov.uk/housing/housing-market-report/)
-[Standord](https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html)
-[Datacamp: AI in Real Estate](https://www.datacamp.com/blog/ai-in-real-estate) -->
 
 ## Stakeholders and Customers Research
 
@@ -222,15 +217,15 @@ Table 1. Stakeholder Analysis and Potential Approach Methodologies
 
 The real estate marker is highly dynamic with different categories of stakeholders driving the transaction of the property. Therefore, understanding these stakeholders behaviours and interests is crucial in order to construct a real estate tool that will meets the industry needs.
 
-1. Real Estate Agents in London areas - Real Estate Agents are one of the important stakeholders in which there are over 50,000 licensed real estate agents currently operating in London ranging from luxury properties, commercial real estate and affordable housing markets [(Martin, 2023)](https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/). Additionally, recent insights suggested that the commission levels typically range from 1% to 3% in which this indicate that an appropriate and accurate pricing strategies are crucial to be able to maximise earnings as well as many agencies nowadays heavily rely on data analytics and data-driven decisions to identify buyer preferences [(Azeem., 2024)](https://www.sandradavidson.com/estate-agent-fees-london/). Therefore this indicates that the team's product which is an AI-driven application could benefit from this need by offering real estate agents an automated valuation model to assess and identify property prices and track market trends.
+1. Real Estate Agents in London areas - Real Estate Agents are one of the important stakeholders in which there are over 50,000 licensed real estate agents currently operating in London ranging from luxury properties, commercial real estate and affordable housing markets [^7]. Additionally, recent insights suggested that the commission levels typically range from 1% to 3% in which this indicate that an appropriate and accurate pricing strategies are crucial to be able to maximise earnings as well as many agencies nowadays heavily rely on data analytics and data-driven decisions to identify buyer preferences [^8]. Therefore this indicates that the team's product which is an AI-driven application could benefit from this need by offering real estate agents an automated valuation model to assess and identify property prices and track market trends.
 
-2. Home Buyers and Sellers / Property Developers - [(LandTech， 2024)](https://land.tech/reports/london-house-price-growth-and-driving-factors) recently published a few insights which are that by 2025, 50% of London properties are sold to mortgage buyers and that by 2025, international buyers will purchase 20% of London properties. These insights can be further explored for instance taking into consideration that nearly 50% of London property sales will involve mortgage buyers indicating that tools that offer accurate valuation are crucial due to that buyers will require accurate predictions of future property values to be able to ensure that their investments remain viable as well align with the market trends. Moreover, taking into consideration certain demographics such as first-time home buyers can benefit from this as AI-driven information can offer insights towards undervalued areas, hence eliminating affordability challenges.
+2. Home Buyers and Sellers / Property Developers - Land Tech recently published a few insights which are that by 2025, 50% of London properties are sold to mortgage buyers and that by 2025, international buyers will purchase 20% of London properties [^9]. These insights can be further explored for instance taking into consideration that nearly 50% of London property sales will involve mortgage buyers indicating that tools that offer accurate valuation are crucial due to that buyers will require accurate predictions of future property values to be able to ensure that their investments remain viable as well align with the market trends. Moreover, taking into consideration certain demographics such as first-time home buyers can benefit from this as AI-driven information can offer insights towards undervalued areas, hence eliminating affordability challenges.
 
 In addition, taking into consideration that 20% of London properties will be from international buyers emphasised the demand for data-driven insights for global investors. Hence the product that the team will offer will need to ensure that it offers market transparency since global investors often lack the knowledge and information regarding the local market and enable cross-area comparisons since foreign investors may seek to compare different areas within London.
 
-[(LandTech， 2024)](https://land.tech/reports/london-house-price-growth-and-driving-factors) further stated that international buyers were relatively attracted to the stability and potential returns of the London market with the combination of favourable mortgages and a competitive market this creates a perfect setting for buyers to invest in property. Hence, these statements further solidify the importance of data-driven insights and predictive analytics in helping investors make informed decisions and further support the need for tools that allow forecasts and predictions in order to identify growth trends and optimise investment returns.
+LandTech further stated that international buyers were relatively attracted to the stability and potential returns of the London market with the combination of favourable mortgages and a competitive market this creates a perfect setting for buyers to invest in property [^9]. Hence, these statements further solidify the importance of data-driven insights and predictive analytics in helping investors make informed decisions and further support the need for tools that allow forecasts and predictions in order to identify growth trends and optimise investment returns.
 
-Moreover, it was previously suggested that the real estate industry especially those within the property development sectors often been slow to embrace technology which leads to an increased gap in skills, knowledge and necessary training in data analysis, limiting their ability to harness data for decision making [(Senen Group， 2024)](https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face/). The product the team's is offering aims to eliminate these concerns and allow property developers, investors and real estate professionals to make data-driven decisions through predictive analysis and property valuation models.
+Moreover, it was previously suggested that the real estate industry especially those within the property development sectors often been slow to embrace technology which leads to an increased gap in skills, knowledge and necessary training in data analysis, limiting their ability to harness data for decision making [^10]. The product the team's is offering aims to eliminate these concerns and allow property developers, investors and real estate professionals to make data-driven decisions through predictive analysis and property valuation models.
 
 Taking into consideration the understanding of the stakeholder behaviours and interests it is important to identify and categorise these stakeholders based on their level of influence and interest in order to meet the expectations and ensure high adoption rates of the product.
 
@@ -404,24 +399,24 @@ While we have chosen to establish ScuderiaEstate as a Private Limited Company fo
 #### 1. Sole Trader
 
 - **Description**: A sole trader operates as a self-employed individual. They retain all profits after tax but are personally liable for all debts.
-- **Cost**: No registration fee with Companies House[[2]](https://informi.co.uk/business-administration/how-do-i-register-partnership); however, you must register with HMRC for self-assessment.
+- **Cost**: No registration fee with Companies House [^11]; however, you must register with HMRC for self-assessment.
 - Taxation framework:
   - As a sole trader, you pay income tax on all business profits through Self Assessment, following these 2024/25 & 2025/26 tax rates:
     - Up to £12,570 – Tax-free (Personal Allowance)
     - £12,571 to £50,270 – 20% tax rate
     - £50,271 to £125,140 – 40% tax rate
-    - Above £125,140 – 45% tax rate [[1]](https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/)
+    - Above £125,140 – 45% tax rate [^12]
 - **Advantages**: Simple setup, low cost, complete control.
-- **Disadvantages**: Unlimited personal liability and limited growth potential. [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3)
+- **Disadvantages**: Unlimited personal liability and limited growth potential. [^13], [^14]
 
 #### 2. Partnership
 
 - **Description**: A partnership involves two or more individuals sharing management, profits, and liabilities.
-- **Cost**: No Companies House registration required; partners must register with HMRC for self-assessment which typically requires a solicitor and can cost anywhere from £500 to several thousand pounds depending on complexity. Without such an agreement, the Partnership Act 1890 applies by default. [[3]](https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/)
+- **Cost**: No Companies House registration required; partners must register with HMRC for self-assessment which typically requires a solicitor and can cost anywhere from £500 to several thousand pounds depending on complexity. Without such an agreement, the Partnership Act 1890 applies by default. [^15]
 - **Taxation framework**: The partnership itself doesn't pay tax. Instead, profits are distributed among partners according to the partnership agreement, and each partner pays income tax on their share through Self Assessment at the same personal tax rates that apply to sole traders. Partners also pay National Insurance contributions on their share of the profits.
 
 - **Advantages**: Shared responsibility and expertise.
-- **Disadvantages**: Joint liability for debts and potential conflicts between partners. [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3)
+- **Disadvantages**: Joint liability for debts and potential conflicts between partners. [^13], [^14]
 
 #### 3. Limited Liability Company (Ltd.)
 
@@ -429,17 +424,17 @@ While we have chosen to establish ScuderiaEstate as a Private Limited Company fo
 - **Cost (as of may 2024)**:
   - Online registration: £50
   - Same-day online registration: £78
-  - Paper registration: £71. [[4]](https://lawhive.co.uk/knowledge-hub/small-business/how-much-does-it-cost-to-register-a-business-in-the-uk/), [[5]](https://whittakerandco.com/companies-house-registration-fees-set-to-increase/), [[6]](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/), [[7]](https://osome.com/uk/guides/business-registration-costs/), [[8]](https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees), [[9]](https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase/)
+  - Paper registration: £71. [^16], [^17], [^18], [^19], [^20], [^21]
 - **Ongoing mandatory costs include:**
   - Annual confirmation statement: £34 online or £62 paper
   - Company name changes (if needed): £20 online or £30 paper
-  - Voluntary dissolution (when closing): £33 online or £44 paper. [[6]](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/), [[8]](https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees), [[9]](https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase/)
+  - Voluntary dissolution (when closing): £33 online or £44 paper. [^18], [^19], [^20]
 - **Taxation Framework**
 
   - Limited companies pay corporation tax on profits (currently 19% for small profits and 25% for profits over £250,000, with marginal relief between these thresholds). After corporation tax, profits can be distributed to shareholders as dividends, which are taxed at lower rates than regular income (8.75% for basic rate taxpayers, 33.75% for higher rate, and 39.35% for additional rate in 2024/25). Directors receiving salaries are subject to income tax and National Insurance through PAYE.
 
-- **Advantages**: Limited liability, separate legal entity, credibility with investors. [[3]](https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/)
-- **Disadvantages**: More complex setup and higher administrative costs. [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3), [[10]](https://www.gov.uk/business-finance-support)
+- **Advantages**: Limited liability, separate legal entity, credibility with investors. [^15]
+- **Disadvantages**: More complex setup and higher administrative costs. [^13], [^14], [^22]
 
 #### 4. Limited Liability Partnership (LLP)
 
@@ -447,61 +442,61 @@ While we have chosen to establish ScuderiaEstate as a Private Limited Company fo
 - **Cost (as of may 2024)**:
   - Online registration: £50
   - Same-day online registration: £78
-  - Paper registration: £71. [[6]](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/), [[11]](https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees)
+  - Paper registration: £71. [^18], [^23]
 - **Ongoing mandatory costs include:**
 
   - Annual confirmation statement: £34 online or £62 paper
   - Company name changes (if needed): £20 online or £30 paper
-  - Voluntary dissolution (when closing): £33 online or £44 paper. [[6]](https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/)
+  - Voluntary dissolution (when closing): £33 online or £44 paper. [^18]
 
-  While not legally required, an LLP Agreement is strongly recommended to govern the relationship between members. A basic LLP package including a draft agreement costs around £74.99 plus VAT [[12]](https://www.1stformations.co.uk/package/llp/), though more comprehensive bespoke agreements from solicitors can cost considerably more.
+  While not legally required, an LLP Agreement is strongly recommended to govern the relationship between members. A basic LLP package including a draft agreement costs around £74.99 plus VAT [^21], though more comprehensive bespoke agreements from solicitors can cost considerably more.
 
 - **Taxation Framework:**
   - Unlike limited companies, LLPs are "tax transparent" – the LLP itself doesn't pay tax. Instead, profits are allocated to members who pay income tax and National Insurance on their shares through Self Assessment, similar to a traditional partnership. This avoids the double taxation that can occur with limited companies, though it also means LLP members cannot benefit from the potentially lower dividend tax rates available to company shareholders.
 - **Advantages**: Flexibility in management and limited liability.
-- **Disadvantages**: Requires formal agreements and compliance with Companies House regulations, cannot raise capital by issuing shares like companies [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3).
+- **Disadvantages**: Requires formal agreements and compliance with Companies House regulations, cannot raise capital by issuing shares like companies [^13], [^14]
 
 #### 5. Public Limited Company (PLC)
 
-- **Description**: A business structure managed by directors and owned by shareholders, with the ability to offer shares to the public and trade on a stock exchange. A PLC exists as a separate legal entity from its owners.[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[6]](https://www.investopedia.com/terms/p/plc.asp)
+- **Description**: A business structure managed by directors and owned by shareholders, with the ability to offer shares to the public and trade on a stock exchange. A PLC exists as a separate legal entity from its owners.[^23], [^25]
 
 - **Cost (as of May 2024)**:
 
-  - PLC incorporation: £199 to £299 plus VAT (for incorporations with up to two directors)[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
-  - PLC formation package: £149.99 plus VAT (includes trading certificate)[[7]](https://www.1stformations.co.uk/package/plc/)
-  - Trading certificate service: £99 plus VAT[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
-  - Additional fee per director/corporate shareholder: £55 plus VAT[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
+  - PLC incorporation: £199 to £299 plus VAT (for incorporations with up to two directors) [^26]
+  - PLC formation package: £149.99 plus VAT (includes trading certificate)[^25]
+  - Trading certificate service: £99 plus VAT [^26]
+  - Additional fee per director/corporate shareholder: £55 plus VAT [^26]
 
 - **Requirements**:
 
-  - Must have at least two directors[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[4]](https://harperjames.co.uk/article/public-limited-company)
-  - Must have a qualified company secretary[[4]](https://harperjames.co.uk/article/public-limited-company)
-  - Minimum issued share capital of £50,000[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
-  - At least 25% of nominal share value must be paid up (minimum £12,500)[[4]](https://harperjames.co.uk/article/public-limited-company)
-  - Trading certificate required before commencing business[[4]](https://harperjames.co.uk/article/public-limited-company)
-  - Must hold an annual general meeting (AGM)[[4]](https://harperjames.co.uk/article/public-limited-company)
-  - Must file accounts within 6 months of financial year end[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Must have at least two directors[^24],[^27]
+  - Must have a qualified company secretary[^27]
+  - Minimum issued share capital of £50,000[^27]
+  - At least 25% of nominal share value must be paid up (minimum £12,500)[^27]
+  - Trading certificate required before commencing business[^27]
+  - Must hold an annual general meeting (AGM)[^27]
+  - Must file accounts within 6 months of financial year end[^27]
 
 - **Taxation Framework**:
 
-  - PLCs pay corporation tax on profits[[4]](https://harperjames.co.uk/article/public-limited-company)
-  - Profits can be distributed to shareholders as dividends, on which shareholders pay tax separately[[4]](https://harperjames.co.uk/article/public-limited-company)
-  - Directors are usually employees paying tax through PAYE[[8]](https://imperiallegal.uk/business/types-of-company-in-uk/public-limited-company-plc/)
+  - PLCs pay corporation tax on profits[^27]
+  - Profits can be distributed to shareholders as dividends, on which shareholders pay tax separately[^27]
+  - Directors are usually employees paying tax through PAYE[^28]
 
 - **Advantages**:
 
-  - Access to substantial capital through public share sales[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
-  - Limited liability for shareholders[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
-  - Better access to credit facilities[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
-  - Liquidity for shareholders[[9]](https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company/)
+  - Access to substantial capital through public share sales[^24],[^29]
+  - Limited liability for shareholders[^29]
+  - Better access to credit facilities[^29]
+  - Liquidity for shareholders[^30]
 
 - **Disadvantages**:
-  - More complex and costly regulatory compliance[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/),[[9]](https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company/)
-  - Risk of hostile takeovers[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
-  - Loss of control for original owners as shareholding dilutes[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
-  - Strict disclosure requirements expose information to competitors[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
-  - Shorter HMRC tax deadlines than private companies[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/)
-  - Pressure for short-term results from shareholders[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+  - More complex and costly regulatory compliance[^24],[^29],[^30]
+  - Risk of hostile takeovers[^30]
+  - Loss of control for original owners as shareholding dilutes[^30]
+  - Strict disclosure requirements expose information to competitors[^30]
+  - Shorter HMRC tax deadlines than private companies[^24]
+  - Pressure for short-term results from shareholders[^30]
 
 For our startup inorder to seek scalability and investor confidence, a **Limited Liability Company (Ltd.)** is the most suitable option due to its liability protection and growth potential.
 
@@ -518,7 +513,7 @@ The business requires significant technological infrastructure to develop and de
 
 - Application Development: The software development team will design and implement a user-friendly application, likely using standard development tools and frameworks. This is inferred from the need for a user interface allowing property queries and cost predictions.
 
-- Data Collection and Processing Infrastructure: Given the need for real-time updates and daily data feeds from APIs and news sources, the business will require scalable computing power and storage. Cloud services like Amazon Web Services or Google Cloud are likely choices, offering flexibility and scalability, as seen in industry practices for real estate tech startups [The Financial Technology Report](https://thefinancialtechnologyreport.com/the-top-25-real-estate-technology-companies-of-2024/).
+- Data Collection and Processing Infrastructure: Given the need for real-time updates and daily data feeds from APIs and news sources, the business will require scalable computing power and storage. Cloud services like Amazon Web Services or Google Cloud are likely choices, offering flexibility and scalability, as seen in industry practices for real estate tech startups [^31].
 
 Acquisition Strategy: These resources will be developed in-house where possible, with necessary hardware and software purchased or leased from providers. Cloud services will be subscribed to, ensuring cost-effective scalability.
 
@@ -526,25 +521,25 @@ Acquisition Strategy: These resources will be developed in-house where possible,
 
 The foundation of any Geographic Intelligence platform focused on property price prediction lies in its data infrastructure. For our London-centric platform that combines exceptional UX with ML-powered predictive analytics, addressing the dataset challenge is paramount to delivering accurate insights. Property data forms the cornerstone of our service, and without comprehensive, high-quality datasets, our predictive capabilities would be severely limited. The datasets we require must span historical transactions, geographic boundaries, property characteristics, and contextual information that influences pricing trends across London's diverse neighborhoods.
 
-Property price prediction requires multidimensional data that captures not only basic transaction information but also the nuanced factors that influence real estate valuation. As noted in academic research on London housing price prediction, "various information are provided and can be categorised as follows: ID (Transaction ID), Date, Transaction Price, Property classification (Type, Build, Tenure), and Address information"[[13]](https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf). This diverse data spectrum necessitates a strategic approach to data acquisition and management to ensure our platform delivers accurate predictions and intelligent insights for decision-making.
+Property price prediction requires multidimensional data that captures not only basic transaction information but also the nuanced factors that influence real estate valuation. As noted in academic research on London housing price prediction, "various information are provided and can be categorised as follows: ID (Transaction ID), Date, Transaction Price, Property classification (Type, Build, Tenure), and Address information"[^32]. This diverse data spectrum necessitates a strategic approach to data acquisition and management to ensure our platform delivers accurate predictions and intelligent insights for decision-making.
 
 - Core Dataset Requirements
 
   - Our platform requires several categories of data resources to power its predictive capabilities. The primary datasets we need include historical property transaction records, comprehensive property attribute information, geographic and spatial data, and contextual market indicators. Each of these components plays a vital role in training our machine learning models to generate accurate property price predictions across London's real estate landscape.
 
-    Historical property transaction data provides the foundation for understanding price movements over time. This includes records of every property sale in London, ideally spanning at least 10-15 years to capture multiple market cycles. Land Registry's Price Paid Data (PPD) offers "information on single residential property sales in England and Wales, sold for value, that are lodged with us for registration"[[14]](https://www.gov.uk/government/publications/hm-land-registry-data/public-data). This dataset is crucial as it provides the ground truth for actual market transactions that our models will learn from and attempt to predict.
+    Historical property transaction data provides the foundation for understanding price movements over time. This includes records of every property sale in London, ideally spanning at least 10-15 years to capture multiple market cycles. Land Registry's Price Paid Data (PPD) offers "information on single residential property sales in England and Wales, sold for value, that are lodged with us for registration"[^33]. This dataset is crucial as it provides the ground truth for actual market transactions that our models will learn from and attempt to predict.
 
-    Property attribute information helps our algorithms understand the physical and legal characteristics that influence property values. This includes details such as property type (detached, semi-detached, terrace, flat), build status (new or existing construction), tenure (leasehold or freehold), number of bedrooms, and other features that significantly impact property valuation [[13]](https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf). Without these attributes, our prediction models would lack the granularity needed for accurate price estimation.
+    Property attribute information helps our algorithms understand the physical and legal characteristics that influence property values. This includes details such as property type (detached, semi-detached, terrace, flat), build status (new or existing construction), tenure (leasehold or freehold), number of bedrooms, and other features that significantly impact property valuation [^32]. Without these attributes, our prediction models would lack the granularity needed for accurate price estimation.
 
-    Geographic and spatial data provides the critical locational context that is fundamental to real estate valuation. This includes boundary files, postcode data, and polygon information that defines neighborhoods, boroughs, and administrative areas within London. The Ordnance Survey's MasterMap and address data with Unique Property Reference Numbers (UPRNs) are essential resources as they provide "the only official, up-to-date register of all nationally protected historic buildings and sites in England" [[15]](https://historicengland.org.uk/listing/the-list/data-downloads/). This geographic precision enables our platform to offer location-specific insights through our map-based interface.
+    Geographic and spatial data provides the critical locational context that is fundamental to real estate valuation. This includes boundary files, postcode data, and polygon information that defines neighborhoods, boroughs, and administrative areas within London. The Ordnance Survey's MasterMap and address data with Unique Property Reference Numbers (UPRNs) are essential resources as they provide "the only official, up-to-date register of all nationally protected historic buildings and sites in England" [^34]. This geographic precision enables our platform to offer location-specific insights through our map-based interface.
 
 - Strategic Data Acquisition Approach
 
-  - The Land Registry provides essential transaction data through their Price Paid Data service, which is "available for use and reuse under the Open Government Licence (OGL)" [[14]](https://www.gov.uk/government/publications/hm-land-registry-data/public-data). This comprehensive dataset contains historical property sales information that forms the backbone of our price prediction models. We will implement automated data pipelines to regularly download and process updates to this dataset, ensuring our models always incorporate the latest transaction information. The historical depth of this dataset, which extends back to 1995, provides sufficient temporal coverage for identifying meaningful patterns and trends in London's property market [[13]](https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf)
+  - The Land Registry provides essential transaction data through their Price Paid Data service, which is "available for use and reuse under the Open Government Licence (OGL)" [^33]. This comprehensive dataset contains historical property sales information that forms the backbone of our price prediction models. We will implement automated data pipelines to regularly download and process updates to this dataset, ensuring our models always incorporate the latest transaction information. The historical depth of this dataset, which extends back to 1995, provides sufficient temporal coverage for identifying meaningful patterns and trends in London's property market [^32].
 
-    The Greater London Authority's London Datastore offers additional property transaction details specifically for Greater London, complementing the Land Registry data with more localized information. Their "Housing in London" reports provide "the evidence base for the Mayor's housing policies, summarising key patterns and trends across a wide range of topics relevant to housing in the capital" [[16]](https://data.london.gov.uk/dataset/housing-london). By incorporating this dataset, we can enrich our models with London-specific housing contexts and policy impacts that influence property values across different boroughs.
+    The Greater London Authority's London Datastore offers additional property transaction details specifically for Greater London, complementing the Land Registry data with more localized information. Their "Housing in London" reports provide "the evidence base for the Mayor's housing policies, summarising key patterns and trends across a wide range of topics relevant to housing in the capital" [^35]. By incorporating this dataset, we can enrich our models with London-specific housing contexts and policy impacts that influence property values across different boroughs.
 
-    Ordnance Survey data resources, particularly their AddressBase system with Unique Property Reference Numbers (UPRNs), provide the spatial foundation for our geographic intelligence platform. Under the Public Sector Geospatial Agreement, certain OS MasterMap data is now available under open license terms, allowing us to "publish property extents created from OS MasterMap Topography Layer under Open Government Licence (OGL) terms"[[17]](https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents). This data will power our map-based interface, enabling users to visualize property price predictions with precise geographical context.
+    Ordnance Survey data resources, particularly their AddressBase system with Unique Property Reference Numbers (UPRNs), provide the spatial foundation for our geographic intelligence platform. Under the Public Sector Geospatial Agreement, certain OS MasterMap data is now available under open license terms, allowing us to "publish property extents created from OS MasterMap Topography Layer under Open Government Licence (OGL) terms" [^36]. This data will power our map-based interface, enabling users to visualize property price predictions with precise geographical context.
 
 ### Crime Data
 
@@ -552,21 +547,21 @@ Crime data serves multiple functions within a real estate intelligence platform.
 
 - Police.uk Open Data Portal:
 
-  The Police.uk platform represents the official repository for crime and policing data across England, Wales, and Northern Ireland. This comprehensive resource provides street-level crime data, outcome information, and stop-and-search statistics in standardized CSV formats. The platform also offers a robust API that enables programmatic access to detailed crime data and information about individual police forces and neighborhood teams[^15].
+  The Police.uk platform represents the official repository for crime and policing data across England, Wales, and Northern Ireland. This comprehensive resource provides street-level crime data, outcome information, and stop-and-search statistics in standardized CSV formats. The platform also offers a robust API that enables programmatic access to detailed crime data and information about individual police forces and neighborhood teams[^37].
 
-  For integration purposes, Police.uk provides two particularly valuable API endpoints: "Street-level crimes" and "Crimes at a location." The street-level crimes endpoint allows retrieval of crime data within a 1-mile radius of a specified point or within a custom-defined area. This granular approach enables precise neighborhood-level crime analysis. The API returns categorized crime data including anti-social behavior, bicycle theft, burglary, and various violent crime categories, enabling multidimensional safety analysis[^5].
+  For integration purposes, Police.uk provides two particularly valuable API endpoints: "Street-level crimes" and "Crimes at a location." The street-level crimes endpoint allows retrieval of crime data within a 1-mile radius of a specified point or within a custom-defined area. This granular approach enables precise neighborhood-level crime analysis. The API returns categorized crime data including anti-social behavior, bicycle theft, burglary, and various violent crime categories, enabling multidimensional safety analysis[^38].
 
-  The "Crimes at a location" endpoint returns crimes that occurred at specific locations rather than within a radius. When provided with latitude and longitude coordinates, it identifies the nearest pre-defined location and returns associated crime reports. This functionality allows for highly localized crime assessment when evaluating specific properties[^10].
+  The "Crimes at a location" endpoint returns crimes that occurred at specific locations rather than within a radius. When provided with latitude and longitude coordinates, it identifies the nearest pre-defined location and returns associated crime reports. This functionality allows for highly localized crime assessment when evaluating specific properties[^39].
 
   - Acquisition Strategy:
 
-    The platform will implement a direct API integration with Police.uk, leveraging both endpoints to retrieve crime data at different geographic scales. A scheduled data pipeline will ensure regular updates, with more frequent updates for high-interest areas. Given that some API requests may exceed character limits for GET requests, the implementation will include POST request capabilities for submitting complex geographic queries[^5].
+    The platform will implement a direct API integration with Police.uk, leveraging both endpoints to retrieve crime data at different geographic scales. A scheduled data pipeline will ensure regular updates, with more frequent updates for high-interest areas. Given that some API requests may exceed character limits for GET requests, the implementation will include POST request capabilities for submitting complex geographic queries[^38].
 
 - London Datastore: Metropolitan Police Service Recorded Crime
 
-  The London Datastore provides official recorded crime data at three geographic levels: Borough, Ward, and Lower Super Output Area (LSOA). This dataset counts crimes monthly according to specific crime types, offering exceptional geographic precision for London-specific analysis. The data is available in two formats for each geographic level: the most up-to-date information covering the last 24 months and historical data covering full calendar years back to 2008[^13].
+  The London Datastore provides official recorded crime data at three geographic levels: Borough, Ward, and Lower Super Output Area (LSOA). This dataset counts crimes monthly according to specific crime types, offering exceptional geographic precision for London-specific analysis. The data is available in two formats for each geographic level: the most up-to-date information covering the last 24 months and historical data covering full calendar years back to 2008[^40].
 
-  The dataset provides comprehensive crime categorization according to Home Office classifications, including detailed breakdowns for major categories such as Arson and Criminal Damage, Burglary, Drug Offenses, Miscellaneous Crimes Against Society, Possession of Weapons, and Public Order Offenses. This granular categorization enables sophisticated crime pattern analysis and trend identification across London's diverse neighborhoods[^13].
+  The dataset provides comprehensive crime categorization according to Home Office classifications, including detailed breakdowns for major categories such as Arson and Criminal Damage, Burglary, Drug Offenses, Miscellaneous Crimes Against Society, Possession of Weapons, and Public Order Offenses. This granular categorization enables sophisticated crime pattern analysis and trend identification across London's diverse neighborhoods[^40].
 
   - Acquisition Strategy:
 
@@ -574,7 +569,7 @@ Crime data serves multiple functions within a real estate intelligence platform.
 
 - Office for National Statistics (ONS) Crime Data
 
-  The ONS provides authoritative crime statistics for England and Wales, including detailed Police Force Area data tables. These datasets offer comprehensive crime figures by Police Force Area and Community Safety Partnership areas, which typically align with local authorities. The data is updated quarterly, providing regular refreshes of crime statistics that can inform trend analysis and predictive modeling[^14].
+  The ONS provides authoritative crime statistics for England and Wales, including detailed Police Force Area data tables. These datasets offer comprehensive crime figures by Police Force Area and Community Safety Partnership areas, which typically align with local authorities. The data is updated quarterly, providing regular refreshes of crime statistics that can inform trend analysis and predictive modeling[^41].
 
   - Acquisition Strategy:
 
@@ -588,20 +583,20 @@ To effectively reach and acquire customers in the real estate sector, a multi-ch
 
   - Digital Platforms
 
-    - **Website/App**: Direct sign-ups for subscriptions[1](https://www.proven.partners/blog/traditional-digital-marketing-property),[8](https://www.proven.partners/blog/real-estate-marketing-ideas)
-    - **App Stores**: iOS/Android apps[5](https://explodingtopics.com/blog/real-estate-startups),[9](https://www.sell.do/blog/top-innovative-real-estate-tech-startups)
-    - **Social Media**: LinkedIn/Instagram ads targeting investors[1](https://www.proven.partners/blog/traditional-digital-marketing-property),[7](https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/),[8](https://www.proven.partners/blog/real-estate-marketing-ideas)
+    - **Website/App**: Direct sign-ups for subscriptions[^42], [^43]
+    - **App Stores**: iOS/Android apps[^44][^45]
+    - **Social Media**: LinkedIn/Instagram ads targeting investors[^42],[^46],[^43]
 
   - Strategic Alliances
 
-    - **Partnerships**: Co-marketing with mortgage brokers[4](https://creti.org/proptech-marketing-hub/navigating-marketing-best-practices-in-proptech-a-residential-startups-success-story)[2](https://one-mallorca.com/en/real-estate-agent/)
-    - **Events**: Real estate expos, investor meetups[4](https://creti.org/proptech-marketing-hub/),[8](https://www.proven.partners/blog/real-estate-marketing-ideas)
+    - **Partnerships**: Co-marketing with mortgage brokers[^47][^48]
+    - **Events**: Real estate expos, investor meetups [^47],[^43]
 
-This comprehensive marketing approach aligns with successful strategies used by leading proptech companies. Social media platforms have become essential real estate marketing tools for professionals to keep up with current trends[ 1](https://www.proven.partners/blog/traditional-digital-marketing-property). Companies like Zillow and Redfin have demonstrated the effectiveness of digital transformation in customer acquisition[ 10](https://digitaldefynd.com/IQ/digital-transformation-in-real-estate-case-studies).
+This comprehensive marketing approach aligns with successful strategies used by leading proptech companies. Social media platforms have become essential real estate marketing tools for professionals to keep up with current trends[ ^42]. Companies like Zillow and Redfin have demonstrated the effectiveness of digital transformation in customer acquisition[ ^49]
 
-For maximum impact, these channels should be integrated with consistent branding and messaging across platforms[7](https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/). Content marketing through these channels should showcase your unique value proposition and address specific pain points in the real estate market[2](https://one-mallorca.com/en/real-estate-agent/the-importance-of-customer-acquisition-for-your-real-estate-business-and-how-you-can-be-successful),[8](https://www.proven.partners/blog/real-estate-marketing-ideas).
+For maximum impact, these channels should be integrated with consistent branding and messaging across platforms[^46]. Content marketing through these channels should showcase your unique value proposition and address specific pain points in the real estate market [^48],[^43]).
 
-Successful real estate tech startups like RentSpree and Azibo have leveraged these marketing channels to achieve significant growth and market penetration[5](https://explodingtopics.com/blog/real-estate-startups). By implementing platform-specific enhancement strategies and cross-channel optimization, you can maximize the effectiveness of your marketing efforts[7](https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers).
+Successful real estate tech startups like RentSpree and Azibo have leveraged these marketing channels to achieve significant growth and market penetration[^44]. By implementing platform-specific enhancement strategies and cross-channel optimization, you can maximize the effectiveness of your marketing efforts [^46].
 
 
 
@@ -622,7 +617,7 @@ enabling a transition to a Public Limited Company (PLC) and an Initial Public Of
 
 To lay a strong foundation, we plan to join a prestigious incubator or accelerator program that aligns with our needs: refining product-market fit, building our property valuation platform, and securing seed funding. Our ideal program will provide:
 <!--- Financing comment: Values based on Slides --->
-- **Pre-Seed Investment:** A modest capital injection ~£500,000 **"As Safe-Note"** capped at £10M valueation with no initial equity. This investment capital will be used to fund early development and operations.[[31]](https://www.angellist.com/learn/safe-note)
+- **Pre-Seed Investment:** A modest capital injection ~£500,000 **"As Safe-Note"** capped at £10M valueation with no initial equity. This investment capital will be used to fund early development and operations.[^50]
 - **Mentorship and Resources:** Guidance from experienced entrepreneurs, real estate experts, and technologists to shape our product and business model.
 - **Access to Investors:** Opportunities to pitch to angel investors and VCs, either through demo days or curated introductions, accelerating our path to follow-on funding.
 - **Focus on Real Estate Tech:** A program with expertise in proptech or related fields to ensure tailored support.
@@ -630,10 +625,10 @@ To lay a strong foundation, we plan to join a prestigious incubator or accelerat
 **Preferred Programs:**
 
 - **Acceler8 (UoB's Startup Accelerator):** Offers £1,500 with 0% equity to help get the company up the ground, cover legal and adminstrative fees for registering the company, setting up bank accounts, purchasing domain and essential equipments.
-- **Pi Labs (Proptech Focus):** 12-week highly-tailored programme designed to generate sustainable growth for early-stage companies transforming the built world. The program offers £350,000 in pre-seed funding. [[32]](https://pilabs.vc/growth-programme)
--  **NAR Reach (Proptech Focus):** In partnership with Second Century Ventures (SCV) & Property Mark, provides a 9-month proptech focused incubation journey. This journey offers connections with top real estate executives, industry associations and decision makers, with the opportunity to receive guidance from leading entrepreneurs, venture capitalists, and property professionals.[[33]](https://www.propertymark.co.uk/resource/reach-uk-ambitious-proptech-startups-invited-to-join-2025-cohort.html)
-- **Techstars London:** Invests $20,000 plus $4M in credit and perks for 6% common equity over a 3-month program, with a focus on tech-driven solutions and a robust mentor network. Additionally, they offer $100,000 USD in exchange for a Convertible Promissory Note[[34]](https://www.techstars.com/newsroom/investment-terms)
--  **Y Combinator (YC):** Offers $125,000 for 7% equity & $375,000 on an uncapped safe with a Most Favored Nation, a 3-month program designed to help startups really take off.[[35]](https://www.ycombinator.com/about)
+- **Pi Labs (Proptech Focus):** 12-week highly-tailored programme designed to generate sustainable growth for early-stage companies transforming the built world. The program offers £350,000 in pre-seed funding. [^51]
+-  **NAR Reach (Proptech Focus):** In partnership with Second Century Ventures (SCV) & Property Mark, provides a 9-month proptech focused incubation journey. This journey offers connections with top real estate executives, industry associations and decision makers, with the opportunity to receive guidance from leading entrepreneurs, venture capitalists, and property professionals.[^52]
+- **Techstars London:** Invests $20,000 plus $4M in credit and perks for 6% common equity over a 3-month program, with a focus on tech-driven solutions and a robust mentor network. Additionally, they offer $100,000 USD in exchange for a Convertible Promissory Note[^53]
+-  **Y Combinator (YC):** Offers $125,000 for 7% equity & $375,000 on an uncapped safe with a Most Favored Nation, a 3-month program designed to help startups really take off.[^54]
 
 By joining such a program in **Q4 2025 - Q1 2026**, we expect to exit with a validated minimum viable product (MVP), initial traction (e.g., pilot users in London’s real estate market), and a clear pitch for angel funding, by **Q3  2026**.
 
@@ -1020,9 +1015,9 @@ If a labour shortage materialises, we will implement the following contingency m
 #### Problem Description
 
 The second biggest risk we envision is regulatory changes.  
-For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[[1]](https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html). In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[[2]](https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/). In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.
+For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[ ^55]. In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[ ^56]. In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.
 
-Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms[[3]](https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit). The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, which might lead to inspections and a loss of trust in the platform.
+Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms[^57]. The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, which might lead to inspections and a loss of trust in the platform.
 
 #### Mitigation Plan for Regulatory Changes
 
@@ -1032,7 +1027,7 @@ We are considering multiple countermeasures to mitigate the above risks.
    We will hire a legal advisor to provide guidance on legal changes and regulatory developments in the UK. At the same time, we will stay informed of early signs of regulatory shifts.
 
 2. Ensuring Fairness and Transparency:  
-    According to Morgan Lewis[[4]](https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations), ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
+    According to Morgan Lewis[ ^58], ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
    At the same time, we will conduct evaluations by independent auditing agencies multiple times a year to verify the fairness of pricing.
 
 #### Contingency Plan for Regulatory Changes
@@ -1494,36 +1489,186 @@ This ensured our business model was well-researched, realistic, and ready for in
 |                                 | 4.3         | What is your operational plan?                                                                                                                     | Jint                 |                      |
 |                                 | 4.3         | What are the main risks to the success of your business and how will you address or mitigate them?                                                 | Yuta                 |                      |
 
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/35116942/9454212e-b468-45fd-b6c8-ab76dda9cb6b/paste.txt
-[^2]: https://github.com/imjacobclark/api-crime-rate
-[^3]: https://data.ubdc.ac.uk/dataset/recorded-crime-summary-data-london-lsoa-level
-[^4]: https://www.statista.com/topics/4627/crime-in-london/
-[^5]: https://data.police.uk/docs/method/crime-street/
-[^6]: https://www.london.gov.uk/decisions/md2181-safestats-crime-and-community-safety-data-portal
-[^7]: https://api.store/united-kingdom-api/government-digital-service-api/recorded-crime-summary-data-for-london-borough-level-api
-[^8]: https://github.com/datasets/london-crime
-[^9]: https://www.police.uk/pu/your-area/metropolitan-police-service/performance/compare-your-area/?tc=E05009317
-[^10]: https://data.police.uk/docs/method/crimes-at-location/
-[^11]: https://illustreets.com/showcase/xploria/
-[^12]: https://crimerate.co.uk/london
-[^13]: https://data.london.gov.uk/dataset/recorded_crime_summary
-[^14]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables
-[^15]: https://data.police.uk
-[^16]: https://credas.com/real-estate/
-[^17]: https://www.police.uk
-[^18]: https://data.police.uk/docs/
-[^19]: https://data.london.gov.uk/dataset?q=crime
-[^20]: https://www.met.police.uk/sd/stats-and-data/met/crime-data-dashboard/
-[^21]: https://data.police.uk/data/
-[^22]: https://www.londonpolice.ca/en/about/crime-statistics.aspx
-[^23]: https://data.london.gov.uk/dataset/mps-monthly-crime-dahboard-data
-[^24]: https://www.cityoflondon.police.uk/sd/stats-and-data/
-[^25]: https://www.met.police.uk/sd/stats-and-data/
-[^26]: https://www.kaggle.com/datasets/jboysen/london-crime
-[^27]: https://www.api.gov.uk/ukp/
-[^28]: https://trustforlondon.org.uk/data/crime-and-income-deprivation/
-[^29]: https://data.police.uk/docs/method/stops-at-location/
-[^30]: https://capindex.com
-[^31]: https://www.reddit.com/r/RealEstate/comments/15lmpx8/any_realestate_app_with_crime_data/
-[^32]: https://novusaltair.co.uk/2025/01/01/statistical-review-of-2024-crime-in-london-vs-uk-and-the-security-industry-response/
-[^33]: https://www.estateagenttoday.co.uk/breaking-news/2024/03/agency-software-provider-launches-embedded-property-information-questionnaires/
+
+---
+
+# References
+
+1.  Financial Times. *Content Title Unknown* [Online]. Available from: https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1 [Accessed 20 March 2025].
+
+2.  JLLT, 2023. *Global Real Estate Technology Survey 2023* [Online]. JLLT. Available from: https://www.jllt.com/research/global-real-estate-technology-survey-2023/ [Accessed 20 March 2025].
+
+3.  Greater London Authority. *Housing Market Report* [Online]. London: Greater London Authority. Available from: https://data.london.gov.uk/housing/housing-market-report/ [Accessed 20 March 2025].
+
+4.  Standard. *London property market forecast: Capital set to lead price growth in 2025, says JLL* [Online]. London. Available from: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html [Accessed 20 March 2025].
+
+5.  Greater London Authority. *Housing Market Report* [Online]. London: Greater London Authority. Available from: https://data.london.gov.uk/housing/housing-market-report [Accessed 20 March 2025].
+
+6.  Standard.*London property market forecast: Capital set to lead price growth in 2025, says JLL* [Online]. London. Available from: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html [Accessed 20 March 2025].
+
+7.  Estate Agent Today, 2023. *Number of UK estate agencies booms by over 10%* [Online]. Available from: https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/ [Accessed 20 March 2025].
+
+8.  Sandra Davidson. *Estate Agent Fees in London* [Online]. Available from: https://www.sandradavidson.com/estate-agent-fees-london/ [Accessed 20 March 2025].
+
+9.  LandTech. *London House Price Growth and Driving Factors* [Online]. Available from: https://land.tech/reports/london-house-price-growth-and-driving-factors [Accessed 20 March 2025].
+
+10. Senen Group. *7 Data Challenges in Real Estate Your Business Could Face* [Online]. Available from: https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face [Accessed 20 March 2025].
+
+11. Informi. *How do I register a partnership?* [Online]. Available from: https://informi.co.uk/business-administration/how-do-i-register-partnership [Accessed 20 March 2025].
+
+12. Makesworth. *A Comprehensive Guide to Becoming a Sole Trader in the UK* [Online]. Available from: https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/ [Accessed 20 March 2025].
+
+13. Xact Accountants. *Companies House Fees Changes* [Online]. Available from: https://xactaccountants.co.uk/blog/companies-house-fees-changes/ [Accessed 20 March 2025].
+
+14. BBC. *Business structures* [Online]. Available from: https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3 [Accessed 20 March 2025].
+
+15. Gard & Co. *Sole Trader, Partnership or Limited Company?* [Online]. Available from: https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/ [Accessed 20 March 2025].
+
+16. Lawhive. *How much does it cost to register a business in the UK?* [Online]. Available from: https://lawhive.co.uk/knowledge-hub/small-business/how-much-does-it-cost-to-register-a-business-in-the-uk/ [Accessed 20 March 2025].
+
+17. Whittaker & Co. *Companies House Registration Fees Set to Increase* [Online]. Available from: https://whittakerandco.com/companies-house-registration-fees-set-to-increase [Accessed 20 March 2025].
+
+18. FCLS. *Companies House fees increasing from 1 May 2024* [Online]. Available from: https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/ [Accessed 20 March 2025].
+
+19. Osome. *Business Registration Costs in the UK* [Online]. Available from: https://osome.com/uk/guides/business-registration-costs/ [Accessed 20 March 2025].
+
+20. Brearley & Co. *Companies House Increases Registration Fees* [Online]. Available from: https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees [Accessed 20 March 2025].
+
+21. 1st Formations. *Companies House Filing Fees Increase* [Online]. Available from: https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase [Accessed 20 March 2025].
+
+22. GOV.UK. *Business finance support* [Online]. Available from: https://www.gov.uk/business-finance-support [Accessed 20 March 2025].
+
+23. GOV.UK. *Companies House fees* [Online]. Available from: https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees [Accessed 20 March 2025].
+
+24. GoCardless. *What is a Public Limited Company?* [Online]. Available from: https://gocardless.com/guides/posts/what-is-a-public-limited-company/ [Accessed 20 March 2025].
+
+25. Investopedia. *Public Limited Company (PLC): Definition, Requirements, and Example* [Online]. Available from: https://www.investopedia.com/terms/p/plc.asp [Accessed 20 March 2025].
+
+26. London Registrars. *PLC Incorporation* [Online]. Available from: https://www.london-registrars.co.uk/product/plc-incorporation [Accessed 20 March 2025].
+
+27. Harper James. *What is a Public Limited Company (PLC)?* [Online]. Available from: https://harperjames.co.uk/article/public-limited-company [Accessed 20 March 2025].
+
+28. Imperial & Legal. *Public Limited Company (PLC)* [Online]. Available from: https://imperiallegal.uk/business/types-of-company-in-uk/public-limited-company-plc [Accessed 20 March 2025].
+
+29. StudyMind. *What are the advantages and disadvantages of being a Public Limited Company?* [Online]. Available from: https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/ [Accessed 20 March 2025].
+
+30. Lawhive. *Advantages and Disadvantages of a Public Limited Company* [Online]. Available from: https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company [Accessed 20 March 2025].
+
+31. The Financial Technology Report. *The Top 25 Real Estate Technology Companies of 2024* [Online]. Available from: https://thefinancialtechnologyreport.com/the-top-25-real-estate-technology-companies-of-2024/ [Accessed 20 March 2025].
+
+32. Department of Computing Imperial College London. *USING MACHINE LEARNING TECHNIQUES FOR PROPERTY VALUATION* [Online]. Available from: https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf [Accessed 20 March 2025].
+
+33. GOV.UK. *HM Land Registry data* [Online]. Available from: https://www.gov.uk/government/publications/hm-land-registry-data/public-data [Accessed 20 March 2025].
+
+34. Historic England. *Data Downloads* [Online]. Available from: https://historicengland.org.uk/listing/the-list/data-downloads/ [Accessed 20 March 2025].
+
+35. Greater London Authority. *Housing in London* [Online]. London. Available from: https://data.london.gov.uk/dataset/housing-london [Accessed 20 March 2025].
+
+36. Ordnance Survey. *Opening up property extents* [Online]. Available from: https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents [Accessed 20 March 2025].
+
+37. GOV.UK. *UK Property Price Index data tables* [Online]. Available from: https://www.gov.uk/government/publications/uk-property-price-index-data-tables [Accessed 20 March 2025].
+
+38. data.police.uk. *Street-level crime* [Online]. Available from: https://data.police.uk/docs/method/crime-street/ [Accessed 20 March 2025].
+
+39. data.police.uk. *Crimes at location* [Online]. Available from: https://data.police.uk/docs/method/crimes-at-location/ [Accessed 20 March 2025].
+
+40. Greater London Authority. *Recorded Crime Summary* [Online]. London. Available from: https://data.london.gov.uk/dataset/recorded_crime_summary [Accessed 20 March 2025].
+
+41.  ONS. *Police force area data tables* [Online]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables [Accessed 20 March 2025].
+
+42. Proven Partners. *Traditional & Digital Marketing For Your Property Business* [Online]. Available from: https://www.proven.partners/blog/traditional-digital-marketing-property [Accessed 20 March 2025].
+
+43. Proven Partners. *24 Effective Real Estate Marketing Ideas for 2024* [Online]. Available from: https://www.proven.partners/blog/real-estate-marketing-ideas [Accessed 20 March 2025].
+
+44. Exploding Topics. *11 Soaring Real Estate Startups [2024]* [Online]. Available from: https://explodingtopics.com/blog/real-estate-startups [Accessed 20 March 2025].
+
+45. Sell.Do. *Top 10 Innovative Real Estate Tech Startups in 2024* [Online]. Available from: https://www.sell.do/blog/top-innovative-real-estate-tech-startups [Accessed 20 March 2025].
+
+46. Dignuz Design. *12 Proven Marketing Strategies for Real Estate Developers* [Online]. Available from: https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/ [Accessed 20 March 2025].
+
+47. CRETI. *Navigating Marketing Best Practices in PropTech: A Residential Startup’s Success Story* [Online]. Available from: https://creti.org/proptech-marketing-hub/navigating-marketing-best-practices-in-proptech-a-residential-startups-success-story [Accessed 20 March 2025].
+
+48. One Mallorca. *The importance of customer acquisition for your real estate business and how you can be successful.* [Online]. Available from: https://one-mallorca.com/en/real-estate-agent/the-importance-of-customer-acquisition-for-your-real-estate-business-and-how-you-can-be-successful [Accessed 20 March 2025].
+
+49. Digital Defynd. *Digital Transformation in Real Estate: Case Studies* [Online]. Available from: https://digitaldefynd.com/IQ/digital-transformation-in-real-estate-case-studies [Accessed 20 March 2025].
+
+50. AngelList. *What is a SAFE note?* [Online]. Available from: https://www.angellist.com/learn/safe-note [Accessed 20 March 2025].
+
+51. Pi Labs. *Growth Programme* [Online]. Available from: https://pilabs.vc/growth-programme [Accessed 20 March 2025].
+
+52. Propertymark. *REACH UK: Ambitious proptech startups invited to join 2025 cohort* [Online]. Available from: https://www.propertymark.co.uk/resource/reach-uk-ambitious-proptech-startups-invited-to-join-2025-cohort.html [Accessed 20 March 2025].
+
+53. Techstars. *Investment Terms* [Online]. Available from: https://www.techstars.com/newsroom/investment-terms [Accessed 20 March 2025].
+
+54. Y Combinator. *About* [Online]. Available from: https://www.ycombinator.com/about [Accessed 20 March 2025].
+
+55. Government of Canada, 2024. *Government announces two-year extension to ban on foreign ownership of Canadian housing* [Online]. Available from: https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html [Accessed 20 March 2025].
+
+56. Reuters, 2025. *Australia to put two-year ban on foreigners buying existing homes amid housing crunch* [Online]. Available from: https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/ [Accessed 20 March 2025].
+
+57. The Guardian, 2024. *US justice department to investigate real estate firm RealPage over rent price fixing claims* [Online] . Available from: https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit [Accessed 20 March 2025].
+
+58. Morgan Lewis, 2025. *AI and Algorithmic Pricing: 2025 Antitrust Outlook and Compliance Considerations* [Online]. Available from: https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations [Accessed 20 March 2025].
+
+
+
+[^1]: https://www.ft.com/content/88aa09f5-085e-4537-9d47-cf6bd8c895a1
+[^2]: https://www.jllt.com/research/global-real-estate-technology-survey-2023/
+[^3]: https://data.london.gov.uk/housing/housing-market-report/
+[^4]: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html
+[^5]: https://data.london.gov.uk/housing/housing-market-report
+[^6]: https://www.standard.co.uk/homesandproperty/property-news/property-market-2025-price-growth-london-uk-b1199373.html
+[^7]: https://www.estateagenttoday.co.uk/breaking-news/2023/04/number-of-uk-estate-agencies-booms-by-over-10/
+[^8]: https://www.sandradavidson.com/estate-agent-fees-london/
+[^9]: https://land.tech/reports/london-house-price-growth-and-driving-factors
+[^10]: https://senengroup.com/real-estate/7-data-challenges-in-real-estate-your-business-could-face
+[^11]: https://informi.co.uk/business-administration/how-do-i-register-partnership
+[^12]: https://makesworth.co.uk/a-comprehensive-guide-to-becoming-a-sole-trader-in-the-uk/
+[^13]: https://xactaccountants.co.uk/blog/companies-house-fees-changes/
+[^14]: https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3
+[^15]: https://www.gardandco.com/what-we-do/business-law/business-articles/sole-trader-partnership-or-limited-company-2/
+[^16]: https://lawhive.co.uk/knowledge-hub/small-business/how-much-does-it-cost-to-register-a-business-in-the-uk/
+[^17]: https://whittakerandco.com/companies-house-registration-fees-set-to-increase
+[^18]: https://fcls.co.uk/companies-house-fees-increasing-from-1-may-2024/
+[^19]: https://osome.com/uk/guides/business-registration-costs/
+[^20]: https://www.brearleyandco.co.uk/news/business-news/companies-house-increases-registration-fees
+[^21]: https://www.1stformations.co.uk/blog/companies-house-filing-fees-increase
+[^22]: https://www.gov.uk/business-finance-support
+[^23]: https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees
+[^24]: https://gocardless.com/guides/posts/what-is-a-public-limited-company/
+[^25]: https://www.investopedia.com/terms/p/plc.asp
+[^26]: https://www.london-registrars.co.uk/product/plc-incorporation
+[^27]: https://harperjames.co.uk/article/public-limited-company
+[^28]: https://imperiallegal.uk/business/types-of-company-in-uk/public-limited-company-plc
+[^29]: https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/
+[^30]: https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company
+[^31]: https://thefinancialtechnologyreport.com/the-top-25-real-estate-technology-companies-of-2024/
+[^32]: https://www.doc.ic.ac.uk/~mpd37/theses/2015_beng_aaron-ng.pdf
+[^33]: https://www.gov.uk/government/publications/hm-land-registry-data/public-data
+[^34]: https://historicengland.org.uk/listing/the-list/data-downloads/
+[^35]: https://data.london.gov.uk/dataset/housing-london
+[^36]: https://www.ordnancesurvey.co.uk/products/open-mastermap-programme/opening-up-property-extents
+[^37]: https://www.gov.uk/government/publications/uk-property-price-index-data-tables
+[^38]: https://data.police.uk/docs/method/crime-street/
+[^39]: https://data.police.uk/docs/method/crimes-at-location/
+[^40]: https://data.london.gov.uk/dataset/recorded_crime_summary
+[^41]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables
+[^42]: https://www.proven.partners/blog/traditional-digital-marketing-property
+[^43]: https://www.proven.partners/blog/real-estate-marketing-ideas
+[^44]: https://explodingtopics.com/blog/real-estate-startups
+[^45]: https://www.sell.do/blog/top-innovative-real-estate-tech-startups
+[^46]: https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/
+[^47]: https://creti.org/proptech-marketing-hub/navigating-marketing-best-practices-in-proptech-a-residential-startups-success-story
+[^48]: https://one-mallorca.com/en/real-estate-agent/the-importance-of-customer-acquisition-for-your-real-estate-business-and-how-you-can-be-successful
+[^49]: https://digitaldefynd.com/IQ/digital-transformation-in-real-estate-case-studies
+[^50]: https://www.angellist.com/learn/safe-note
+[^51]: https://pilabs.vc/growth-programme
+[^52]: https://www.propertymark.co.uk/resource/reach-uk-ambitious-proptech-startups-invited-to-join-2025-cohort.html
+[^53]: https://www.techstars.com/newsroom/investment-terms
+[^54]: https://www.ycombinator.com/about
+[^55]: https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html
+[^56]: https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/
+[^57]: https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit
+[^58]: https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations
+
+
