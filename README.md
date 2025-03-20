@@ -655,6 +655,12 @@ Our journey to a £50 million valuation will progress through standard startup f
    - **Timeline:** Q2 2030–Q4 2030 (18–24 months after Series A).
   
 5. **Series C++**
+   - **Amount:** £20-£50 million
+   - **Source:** Late-stage VCs, institutional investors, sovereign wealth funds
+   - **Purpose:** Market dominance, M&A (acquiring complementary startups or data providers), expansion into additional markets (North America, Australia, etc.), and strengthening AI/ML capabilities.
+   - **Equity:** 5–15%
+   - **Valuation:** £100–£250 million (post-money)
+   - **Timeline:** Q2 2032–Q4 2033 (18–24 months after Series C)
 
 #### Timeline to £50 Million Valuation
 
