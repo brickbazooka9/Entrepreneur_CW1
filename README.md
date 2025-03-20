@@ -653,6 +653,8 @@ Our journey to a £50 million valuation will progress through standard startup f
    - **Equity:** 10–20%
    - **Valuation:** £40–£80 million (post-money)
    - **Timeline:** Q2 2030–Q4 2030 (18–24 months after Series A).
+  
+5. **Series C++**
 
 #### Timeline to £50 Million Valuation
 
