@@ -398,7 +398,53 @@ There are multiple legal entities that can be used to start a business in the UK
 - **Advantages**: Flexibility in management and limited liability.
 - **Disadvantages**: Requires formal agreements and compliance with Companies House regulations, cannot raise capital by issuing shares like companies [[1]](https://xactaccountants.co.uk/blog/companies-house-fees-changes/), [[2]](https://www.bbc.co.uk/bitesize/guides/z74mmfr/revision/3).
 
-For our startup inorder to seek scalability and investor confidence, a **Limited Liability Company (Ltd.)** is the most suitable option due to its liability protection and growth potential
+#### 5. Public Limited Company (PLC)
+
+- **Description**: A business structure managed by directors and owned by shareholders, with the ability to offer shares to the public and trade on a stock exchange. A PLC exists as a separate legal entity from its owners.[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[6]](https://www.investopedia.com/terms/p/plc.asp)
+
+- **Cost (as of May 2024)**:
+
+  - PLC incorporation: £199 to £299 plus VAT (for incorporations with up to two directors)[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
+  - PLC formation package: £149.99 plus VAT (includes trading certificate)[[7]](https://www.1stformations.co.uk/package/plc/)
+  - Trading certificate service: £99 plus VAT[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
+  - Additional fee per director/corporate shareholder: £55 plus VAT[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
+
+- **Requirements**:
+
+  - Must have at least two directors[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Must have a qualified company secretary[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Minimum issued share capital of £50,000[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[3]](https://www.london-registrars.co.uk/product/plc-incorporation/)
+  - At least 25% of nominal share value must be paid up (minimum £12,500)[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Trading certificate required before commencing business[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Must hold an annual general meeting (AGM)[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Must file accounts within 6 months of financial year end[[4]](https://harperjames.co.uk/article/public-limited-company)
+
+- **Taxation Framework**:
+
+  - PLCs pay corporation tax on profits[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Profits can be distributed to shareholders as dividends, on which shareholders pay tax separately[[4]](https://harperjames.co.uk/article/public-limited-company)
+  - Directors are usually employees paying tax through PAYE[[8]](https://imperiallegal.uk/business/types-of-company-in-uk/public-limited-company-plc/)
+
+- **Advantages**:
+
+  - Access to substantial capital through public share sales[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+  - Limited liability for shareholders[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+  - Better access to credit facilities[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+  - Liquidity for shareholders[[9]](https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company/)
+
+- **Disadvantages**:
+  - More complex and costly regulatory compliance[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/),[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/),[[9]](https://lawhive.co.uk/knowledge-hub/small-business/advantages-and-disadvantages-of-a-public-limited-company/)
+  - Risk of hostile takeovers[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+  - Loss of control for original owners as shareholding dilutes[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+  - Strict disclosure requirements expose information to competitors[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+  - Shorter HMRC tax deadlines than private companies[[2]](https://gocardless.com/guides/posts/what-is-a-public-limited-company/)
+  - Pressure for short-term results from shareholders[[5]](https://studymind.co.uk/questions/what-are-the-advantages-and-disadvantages-of-being-a-public-limited-company/)
+
+For our startup inorder to seek scalability and investor confidence, a **Limited Liability Company (Ltd.)** is the most suitable option due to its liability protection and growth potential.
+
+<!-- TODO: Remove above repeated text -->
+
+Once Entrepreneurs achieves a valuation of **£50 million**, we plan to transition from a private limited company to a **Public Limited Company (PLC)** under UK law. This shift will pave the way for an **Initial Public Offering (IPO)** on the London Stock Exchange (LSE), unlocking access to public capital markets and accelerating our expansion. By going public, we aim to attract institutional investors, enhance our global visibility, and fuel our next phase of innovation. This milestone will mark our evolution from a nimble startup to a market leader, poised to redefine industry standards.
 
 ## Which resources do you need and how will you get them?
 
