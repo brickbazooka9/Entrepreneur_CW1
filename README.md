@@ -19,7 +19,7 @@
 
 <!-- Added by Vineet -->
 
-XYZ is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics and predictive modeling to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
+ScuderiaEstate is an **AI-driven real estate analytics and investment platform** that uses real-time data analytics and predictive modeling to transform property discovery, valuation, and investment. It is designed for real estate investors, agents, and homebuyers and addresses core industry challenges like time-consuming research, outdated information, and hidden risks by offering fast hyperlocal insights (such as crime statistics, flood risks, and zoning changes) and personalized suggestions.
 
 ## What are the customer needs that you hope to satisfy (pains & gains)?
 
@@ -77,9 +77,9 @@ XYZ is an **AI-driven real estate analytics and investment platform** that uses 
 
 <!-- Added by Vineet -->
 
-The development of XYZ was guided by key market research insights and stakeholder analysis, focusing on the evolving needs of real estate professionals and home buyers. The primary factors influencing XYZ’s design and functionality include the rising demand for data-driven decision-making, the AI adoption gap in real estate, and competitor weaknesses.
+The development of ScuderiaEstate was guided by key market research insights and stakeholder analysis, focusing on the evolving needs of real estate professionals and home buyers. The primary factors influencing ScuderiaEstate’s design and functionality include the rising demand for data-driven decision-making, the AI adoption gap in real estate, and competitor weaknesses.
 
-### Market Insights Informing XYZ Development
+### Market Insights Informing ScuderiaEstate Development
 
 **1. Rising Demand for Data-Driven Decisions**
 
@@ -87,13 +87,13 @@ Anticipated changes in stamp duty regulations post-2025 are expected to shape fi
 
 **2. AI Adoption Gap in Real Estate**
 
-Despite widespread recognition of artificial intelligence (AI) as a disruptive force, the real estate industry exhibits relatively low adoption rates. According to JLL's 2023 Global Real Estate Technology Survey, AI and clean tech solutions are identified as game-changers, yet many companies lack a comprehensive understanding of these technologies. Adoption remains limited, highlighting a need for XYZ to provide accessible AI-driven property insights [(JLL, 2023)](https://www.jllt.com/research/global-real-estate-technology-survey-2023/).
+Despite widespread recognition of artificial intelligence (AI) as a disruptive force, the real estate industry exhibits relatively low adoption rates. According to JLL's 2023 Global Real Estate Technology Survey, AI and clean tech solutions are identified as game-changers, yet many companies lack a comprehensive understanding of these technologies. Adoption remains limited, highlighting a need for ScuderiaEstate to provide accessible AI-driven property insights [(JLL, 2023)](https://www.jllt.com/research/global-real-estate-technology-survey-2023/).
 
 **3. Competitor Weaknesses**
 
 Existing platforms, such as PropertyData and Nimbus Maps, reveal notable gaps. PropertyData’s user interface can be overwhelming, while Nimbus Maps is associated with high costs and suboptimal mobile functionality. Furthermore, these platforms often fail to integrate critical variables, such as crime rates and environmental risks, which are essential for comprehensive property evaluations.
 
-Stakeholder interviews with real estate agents and investors emphasized the need for explainable valuations (e.g., justifying prices to clients) and enhanced risk transparency (e.g., awareness of flood zones). XYZ addresses these needs by leveraging machine learning models trained on extensive datasets (e.g. the Land Registry’s Price Paid Data spanning from 1995 to 2024).
+Stakeholder interviews with real estate agents and investors emphasized the need for explainable valuations (e.g., justifying prices to clients) and enhanced risk transparency (e.g., awareness of flood zones). ScuderiaEstate addresses these needs by leveraging machine learning models trained on extensive datasets (e.g. the Land Registry’s Price Paid Data spanning from 1995 to 2024).
 
 <!-- TODO: We will reposition this later -->
 
