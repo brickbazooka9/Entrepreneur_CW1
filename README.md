@@ -1047,7 +1047,6 @@ Additionally, offline discussions sometimes led to misunderstandings.
 **Solution:**
 To improve communication, we:
 - Set up a central chat group using WhatsApp for quick updates.
-
 - Used GitHub for version control so everyone had access to the latest work.
 - Made a rule that no big decision would be made without the whole team.
 - Rotated the task of taking meeting notes to ensure important discussions were recorded and
@@ -1073,9 +1072,7 @@ To handle this, we:
 - Used a democratic decision-making process where everyone had a say.
 - Relied on data and market research to guide choices.
 - Encouraged open debates to consider all viewpoints.
-By encouraging mutual respect and teamwork, we were able to use our different viewpoints as
-
-advantages.
+By encouraging mutual respect and teamwork, we were able to use our different viewpoints as advantages.
 ## 5. Overcoming Technical & Research Challenges
 **Challenge:**
 We faced difficulties in gathering data, creating financial models, gathering real-time crime data, and
