@@ -109,11 +109,30 @@ Stakeholder interviews with real estate agents and investors emphasized the need
 
 1.Who are our customers? How can we customize our products/services to meet their needs?
 
+Our potential customers include both individuals and professionals looking to buy or invest in London's real estate market, such as real estate agents, property developers, and home buyers and sellers. Since the real estate industry is constantly changing, our solution uses data-driven technology to integrate various data sources, including environmental factors and market sentiment analysis. By providing precise property valuations and comprehensive information, our platform supports users in making more informed investment decisions.
+
+
 2.How do we resolve the data challenges related to our product?
 
-3.How to identify and capitalize on potential investment opportunities?
+To build a comprehensive and reliable real estate data platform, we will integrate multiple data sources covering property prices, transaction records, crime statistics, and market sentiment. Our data acquisition strategy combines web scraping, public open datasets, paid resources, and API integrations. Key sources include Land Registry, Ordnance Survey, ONS data, Google Maps APIs, and Police.uk API, ensuring accurate and up-to-date information for informed decision-making.
+
+3.How to grow and generate revenue from the product?
+
+To drive the growth and profitability of our product, we will implement a tiered pricing model, offering free access for individual investors while introducing a subscription-based plan for real estate agencies to unlock advanced features. This approach ensures accessibility for individual users while generating recurring revenue from professional clients.
+
+Our financial strategy is focused on scaling the real estate technology platform from an early-stage startup to a £50 million valuation, ultimately transitioning into a Public Limited Company (PLC) and launching an IPO on the London Stock Exchange (LSE).
+
+We will begin by developing a Minimum Viable Product (MVP) with the support of incubators and accelerators, securing initial funding from angel investors, and progressively raising capital through venture capital (VC) funding. By following this structured financing plan, we aim to achieve key milestones, expand market presence, and build a scalable and sustainable revenue model.
+
 
 4.Who are our competitors, and what competitive advantages do we have?
+
+The current market offers several data-driven property platforms, such as PropertyData and Nimbus Maps, which provide valuable insights for real estate investors. However, these platforms also present notable drawbacks that hinder their usability and overall effectiveness. One major issue is their complex user interfaces, which create a steep learning curve and limit accessibility for less tech-savvy users. Additionally, the high subscription costs further restrict adoption, making these platforms less accessible to individual investors or smaller firms. Moreover, the mobile experience is often subpar, preventing users from easily accessing critical property insights on the go.
+
+Another significant limitation of existing platforms is their lack of integration of key variables, such as crime rates and environmental risks. These factors play a crucial role in property evaluations, directly influencing investment decisions and long-term property values. Without these insights, users are left with incomplete assessments, increasing the risk of misinformed purchasing decisions.
+
+Our product directly addresses these shortcomings by offering a user-friendly interface that enhances accessibility and usability. It provides seamless integration between web and mobile platforms, ensuring a smooth and consistent experience across devices. Additionally, it incorporates a comprehensive set of evaluation factors, including market sentiment analysis, crime rates, and environmental risks, to deliver more accurate and well-rounded property assessments. By improving usability, affordability, and data integration, our platform offers a superior and more reliable solution for real estate investors and buyers, enabling smarter and more informed decision-making.
+
 
 ## What relevant secondary research did you find?
 
