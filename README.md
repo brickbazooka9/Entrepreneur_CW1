@@ -683,6 +683,16 @@ This investment will help us acquire ~700K downloads and retail ~170K Quarterly 
 3. 3-Quarters User Retention = 3%
 4. Avg Cost per customer acquistion/download = £15
 
+![image](https://github.com/user-attachments/assets/b3005094-db06-4a36-913f-ec82942fcbff)
+
+
+
+
+
+
+
+
+
 ## Sales and Marketing Plan
 
 ### 1. Sales Strategy
