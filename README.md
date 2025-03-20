@@ -1158,12 +1158,12 @@ This ensured our business model was well-researched, realistic, and ready for in
 - Provide feedback on work distribution models (Option A or B) before the next meeting.
 - Initiate setup of the GitHub repository and organize documentation.
 - Track progress and updates in the repository for team transparency.
-
+---
 **Date:** March 7, 2025  
 **Time:** 11:14:03 AM  
 **Project:** Startup Business Plan (Property Valuation/Real Estate Technology)
 
-## Attendees
+### Attendees
 
 - Jint Pongchababnapa
 - Yu Han Kao
@@ -1174,7 +1174,7 @@ This ensured our business model was well-researched, realistic, and ready for in
 - Soroush Alimardani
 - Vineet Nagaraj Naik
 
-## 1. Project Update and Coursework Questions
+### 1. Project Update and Coursework Questions
 
 - **Team Summary Documentation:**
 
@@ -1186,7 +1186,7 @@ This ensured our business model was well-researched, realistic, and ready for in
   - Sam Alshoabi clarified that data scientists will build their own predictive models (deep learning, linear regression, Bayesian approaches) rather than using existing predictions
   - Discussion of primary and secondary roles to enable skills transfer and enhanced teamwork
 
-## 2. Team Structure and Operational Plan
+### 2. Team Structure and Operational Plan
 
 - Jint Pongchababnapa is working on the operational plan and team structure
 - Team agreed on three main departmental areas, as suggested by Avneet Singh:
@@ -1198,7 +1198,7 @@ This ensured our business model was well-researched, realistic, and ready for in
 
 - Sam Alshoabi suggested assigning roles collaboratively based on individual interests and experience
 
-## 3. Documentation and Team Collaboration
+### 3. Documentation and Team Collaboration
 
 - Soroush Alimardani noted that instructor Neil emphasizes evidence of collaboration and conflict resolution
 - Avneet Singh suggested recording meeting minutes, videos, and whiteboard sessions to document progress
@@ -1214,7 +1214,7 @@ This ensured our business model was well-researched, realistic, and ready for in
   - Avneet Singh and Soroush Alimardani clarified their intent was to improve workflow, not exclude team members
   - Agreement to keep important discussions open to the entire team
 
-## 4. Value Proposition & Target Market
+### 4. Value Proposition & Target Market
 
 - **Foreign Investors as Target Market:**
 
@@ -1237,7 +1237,7 @@ This ensured our business model was well-researched, realistic, and ready for in
   - Concerns raised by Yuta Asai and Avneet Singh about marketing funds
   - Suggestion to focus on strategic partnerships with agents and developers
 
-## 5. Data Acquisition and Management
+### 5. Data Acquisition and Management
 
 - Avneet Singh inquired about data acquisition methods (web scraping vs. paid resources)
 - Aeden Thomas noted reliability issues with web scraping and government APIs
@@ -1248,14 +1248,14 @@ This ensured our business model was well-researched, realistic, and ready for in
   - Google Maps APIs
 - Sam Alshoabi suggested free-tier services may work if combined with user-friendly UX
 
-## 6. Business Model and Roadmap
+### 6. Business Model and Roadmap
 
 - Jint Pongchababnapa suggested targeting foreign investors as a niche market with user experience that has few current competitors
 - Sam Alshoabi proposed including legal advice regarding residency and avoiding scams
 - Avneet Singh suggested these services could be outsourced
 - Action Item: Each member to analyze personal value-add and conduct competitor analysis
 
-## 7. Financial Planning
+### 7. Financial Planning
 
 - Avneet Singh has started building a preliminary financial model including:
   - Initial investment needs
@@ -1264,7 +1264,7 @@ This ensured our business model was well-researched, realistic, and ready for in
 - Needs input on sales pricing to complete revenue projections
 - Action Item: Avneet and Soroush to collaborate on finalizing sales pricing for the financial model
 
-## 8. Legal and Regulatory Aspects
+### 8. Legal and Regulatory Aspects
 
 - Aeden Thomas working on legal section covering:
   - Ownership structures
@@ -1272,7 +1272,7 @@ This ensured our business model was well-researched, realistic, and ready for in
   - Compliance for foreign investors
 - Section is concise but can be expanded if needed
 
-## 9. Action Items
+### 9. Action Items
 
 - All team members:
   - Update experience years on GitHub
@@ -1284,12 +1284,98 @@ This ensured our business model was well-researched, realistic, and ready for in
   - Aeden Thomas: Research data sources for crime statistics and land pricing
   - Jint Pongchababnapa: Potentially speak with course tutor and update operational plan
 
-## 10. Next Steps
+### 10. Next Steps
 
 - Schedule follow-up meeting to review financial model, discuss team roles, and refine value proposition
 - Continue individual work on assigned sections
 - Share progress updates during next team meeting
 - Document all work on GitHub
+---
+**Date:** March 20, 2025  
+**Time:** 12:08:01 PM  
+
+
+
+
+### Attendees
+
+
+
+1.  Yuta Asai
+2.  Aeden Thomas
+3.  Avneet Singh
+4.  Sam Alshoabi
+5.  Vineet Nagaraj Naik
+6.  Soroush Alimardani
+7.  Jint Pongchababnapa
+8.  Yu-Han Kao
+
+
+### 1. Project Update and Discussion
+
+-   **Business Plan Review:** The team reviewed the current state of the business plan document, focusing on outstanding tasks, content gaps, formatting issues, and overall progress towards the submission deadline. Key areas of discussion included the product illustration, market statistics, revenue and financing models, task allocation, product name, and referencing.
+
+### 2. Action Items
+
+#### 2.1 Document Review and Feedback
+
+-   All team members are requested to thoroughly review the entire business plan document.
+-   **Action Item:** Identify any inconsistencies, errors, or areas requiring clarification. Post feedback and suggestions in the group chat by **End of Day, March 20, 2025**.
+
+#### 2.2 Product Illustration
+
+-   Aeden Thomas has created a product illustration in Figma.
+-   **Action Item:** Aeden Thomas to include the Figma illustration in the markdown file. Team members to provide feedback on the illustration in the group chat by **End of Day, March 20, 2025**.
+
+#### 2.3 Market Statistics and Justification
+
+-   Discussion highlighted the need for consistent and well-justified market statistics (UK vs. Europe).
+-   **Action Item:** Yuta Asai and relevant contributors to review and refine the market statistics section, ensuring clarity and accuracy. Update the document by **End of Day, March 20, 2025**.
+
+#### 2.4 Revenue and Financing Model Integration
+
+-   Avneet Singh and Sam Alshoabi have developed separate Excel sheets for revenue projections and financing breakdowns.
+-   **Action Item:** Avneet Singh to integrate Sam Alshoabi's cost breakdown Excel sheet with the revenue projections. Share the integrated sheet with the group within 1-2 hours of the meeting (**By 2:08 PM - 3:08 PM, March 20, 2025**). All team members to review and provide feedback.
+
+#### 2.5 Task Allocation and Contributions
+
+-   The task table needs further detailing to reflect all contributions accurately.
+-   **Action Item:** All team members to review the task table and add any missing contributions, including secondary tasks and support roles (e.g., challenges, meeting minutes). Aeden thomas to add the additional infromation. Complete by **End of Day, March 20, 2025**.
+
+#### 2.6 Product Name Finalization
+
+-   The team agreed on the product name "Scuderia Estates" after addressing trademark concerns.
+-   **Action Item:** Aeden Thomas to update all instances of "XYZ" in the document to "Scuderia Estates." Complete by **End of Day, March 20, 2025**.
+
+#### 2.7 Referencing and Citation
+
+-   Aeden Thomas emphasized the importance of referencing all claims and sources.
+-   **Action Item:** All contributors to add references in markdown format (using brackets and links) to their respective sections. Aeden Thomas will then standardize and organize the references at the end of the document by **10:00 PM, March 20, 2025**.
+
+#### 2.9 Challenges section
+- Soroush Alimardani discussed adding the challenges faced to the end of the document.
+- **Action Item:** Soroush Alimardani to add to document. Complete by **End of Day, March 20, 2025**.
+
+#### 2.10 Submission
+- Confirm who will submit the final.
+- **Aciton Item:** Jint to do final submission
+
+#### 2.11 Additional Action Items
+
+1.  **Business Model Canvas Review:** Vineet Nagaraj Naik requested a review of the Business Model Canvas (created in Canva) for accuracy and completeness.
+2.  **Appendices:** While not compulsory, the team discussed including relevant market validation data and collected information in the appendices.
+
+### 3. Next Steps
+
+-   Complete all action items by the specified deadlines.
+-   Continuously update the GitHub repository with the latest changes.
+-   Maintain open communication in the group chat for any questions or clarifications.
+-   Potentially schedule a brief follow-up meeting if significant issues arise after the individual document review.
+- Track all the changes in the repository.
+
+---
+
+
 
 # Task table
 
