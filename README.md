@@ -148,6 +148,8 @@ An upcoming reduction in the stamp duty threshold, set to take effect on April 1
 
 Currently, the number of first-time buyers actively engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, strong activity in this segment is anticipated throughout 2025[(London Datastore, 2024)](https://data.london.gov.uk/housing/housing-market-report/).
 
+![image](sell.png)
+
 ### The Role of AI in Real Estate
 
 Two years after the release of ChatGPT, AI has become a transformative force across industries, including finance, manufacturing, healthcare, education, and real estate. Even real estate, a traditionally slow adopter of technology, is beginning to integrate AI for enhanced decision-making, task automation, cost reduction, and improved customer service.
