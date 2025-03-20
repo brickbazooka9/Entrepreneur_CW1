@@ -101,7 +101,35 @@ Stakeholder interviews with real estate agents and investors emphasized the need
 
 <!-- Added by Vineet -->
 
-![image_alt](https://github.com/Jintpong/Entrepreneur_CW1/blob/e5ceffbb8fee988d0b6d70e2b5df62b4c1ef8685/Business%20Model%20Canvas.png)
+## Interactive Prototype
+
+Our interactive prototype demonstrates the core functionality of our platform, showcasing how users can access property insights, valuations, and risk assessments through an intuitive interface.
+
+![Prototype Screenshot](https://github.com/Jintpong/Entrepreneur_CW1/blob/main/assets/proto1.png)
+![Prototype Screenshot](https://github.com/Jintpong/Entrepreneur_CW1/blob/main/assets/proto2.png)
+### Key Features Demonstrated:
+
+1. **Property Search & Filtering**
+   - Location-based search with neighborhood filtering
+   - Price range and property type selectors
+   - Advanced filters for specific amenities and features
+
+2. **Data Visualization**
+   - Heat maps showing crime rates and property value trends
+   - Historical price charts with predictive modeling
+   - Comparative analysis between similar properties
+
+3. **Risk Assessment Interface**
+   - Color-coded risk indicators for environmental factors
+   - Regulatory impact warnings
+   - Investment confidence scoring
+
+The prototype has been tested with potential users including foreign investors, first-time buyers, and real estate professionals, with feedback incorporated into the current design. User testing revealed strong interest in the risk assessment features and predictive valuation tools, confirming our value proposition's alignment with market needs.
+
+[View Interactive Demo](https://www.figma.com/proto/eNVoWNlAUAcffvFmds0IgO/Scuderia?node-id=14-3&p=f&t=BkLRsMNvLszw4bA5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A3) (Coming Soon)
+
+
+
 
 # Market
 
