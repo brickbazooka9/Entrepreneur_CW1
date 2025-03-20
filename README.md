@@ -174,7 +174,7 @@ Rightmove anticipates that the number of homes for sale will remain high in the 
 
 An upcoming reduction in the stamp duty threshold, set to take effect on April 1, could add thousands of pounds in moving costs for buyers. Rightmove's real-time data has already detected a surge in first-time buyer activity in high-cost areas as they attempt to finalize purchases before the new rates apply. Nevertheless, many regions in England still offer homes under the £300,000 threshold, allowing first-time buyers to benefit from significant tax advantages compared to second-home buyers.
 
-Currently, the number of first-time buyers actively engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, strong activity in this segment is anticipated throughout 2025[(London Datastore, 2024)](https://data.london.gov.uk/housing/housing-market-report/).
+Currently, the number of first-time buyers actively engaging with agents is 13% higher than the same period last year. With affordability expected to improve and rents continuing to rise, strong activity in this segment is anticipated throughout 2025[1](https://data.london.gov.uk/housing/housing-market-report/).
 
 ![image](sell.png)
 
@@ -191,7 +191,7 @@ For example, StadimData has developed an AI-powered platform that collects real 
 
 AI and predictive analytics are revolutionizing investment decision-making in real estate. Advanced machine learning models process granular data, including location, property condition, market demand, economic indicators, and even social media sentiment. Major firms like BlackRock leverage these AI models to gain deeper insights into property values and identify investment opportunities at a global scale.
 
-The London housing market is experiencing a positive shift in buyer activity and seller engagement, driven by interest rate cuts and changing market dynamics. The anticipated stamp duty changes and sustained supply levels are expected to shape market behavior in 2025. Meanwhile, AI is transforming real estate through automated property descriptions, improved asset valuation, and data-driven investment strategies. As AI adoption continues to grow, its influence on the real estate sector will expand, leading to greater efficiency and accuracy in market transactions[(Datacamp, 2024)](https://www.datacamp.com/blog/ai-in-real-estate).
+The London housing market is experiencing a positive shift in buyer activity and seller engagement, driven by interest rate cuts and changing market dynamics. The anticipated stamp duty changes and sustained supply levels are expected to shape market behavior in 2025. Meanwhile, AI is transforming real estate through automated property descriptions, improved asset valuation, and data-driven investment strategies. As AI adoption continues to grow, its influence on the real estate sector will expand, leading to greater efficiency and accuracy in market transactions[2](https://www.datacamp.com/blog/ai-in-real-estate).
 
 <!-- TODO: Reference to the above with markdown numbering -->
 <!--
