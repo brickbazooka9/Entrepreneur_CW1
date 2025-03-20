@@ -15,6 +15,8 @@
 
 <div style="page-break-after: always;"></div>
 
+---
+
 # Product
 
 <!-- Added by Vineet -->
@@ -396,7 +398,7 @@ Our legal entity strategy is more than a formality—it’s a competitive advant
 
 <!-- Added by Sam Alshoabi -->
 
-There are multiple legal entities that can be used to start a business in the UK. A detailed analysis of the pros and cons of each is shown below:
+While we have chosen to establish ScuderiaEstate as a Private Limited Company for the reasons outlined above, we carefully evaluated all available legal structures before making this decision. Our comprehensive analysis of UK business entities included
 
 #### 1. Sole Trader
 
@@ -579,8 +581,28 @@ Crime data serves multiple functions within a real estate intelligence platform.
 
 ### Marketing Resources
 
-To reach target customers—real estate agents, property developers, and home buyers/sellers—the business needs effective marketing channels. The plan suggests a B2C approach with subscription models, indicating a need for customer acquisition strategies.
-Acquisition Strategy: Marketing channels will be developed through digital strategies, including social media campaigns, content marketing on real estate blogs, and email marketing. Participation in industry conferences and partnerships with real estate associations will enhance visibility, as seen in successful real estate tech startups [Built In NYC](https://www.builtinnyc.com/articles/nyc-real-estate-startups-to-know).
+To effectively reach and acquire customers in the real estate sector, a multi-channel approach is essential. The following marketing channels will help target real estate agents, property developers, and home buyers/sellers:
+
+- Acquisition Strategy:
+
+  - Digital Platforms
+
+    - **Website/App**: Direct sign-ups for subscriptions[1](https://www.proven.partners/blog/traditional-digital-marketing-property),[8](https://www.proven.partners/blog/real-estate-marketing-ideas)
+    - **App Stores**: iOS/Android apps[5](https://explodingtopics.com/blog/real-estate-startups),[9](https://www.sell.do/blog/top-innovative-real-estate-tech-startups)
+    - **Social Media**: LinkedIn/Instagram ads targeting investors[1](https://www.proven.partners/blog/traditional-digital-marketing-property),[7](https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/),[8](https://www.proven.partners/blog/real-estate-marketing-ideas)
+
+  - Strategic Alliances
+
+    - **Partnerships**: Co-marketing with mortgage brokers[4](https://creti.org/proptech-marketing-hub/navigating-marketing-best-practices-in-proptech-a-residential-startups-success-story)[2](https://one-mallorca.com/en/real-estate-agent/)
+    - **Events**: Real estate expos, investor meetups[4](https://creti.org/proptech-marketing-hub/),[8](https://www.proven.partners/blog/real-estate-marketing-ideas)
+
+This comprehensive marketing approach aligns with successful strategies used by leading proptech companies. Social media platforms have become essential real estate marketing tools for professionals to keep up with current trends[ 1](https://www.proven.partners/blog/traditional-digital-marketing-property). Companies like Zillow and Redfin have demonstrated the effectiveness of digital transformation in customer acquisition[ 10](https://digitaldefynd.com/IQ/digital-transformation-in-real-estate-case-studies).
+
+For maximum impact, these channels should be integrated with consistent branding and messaging across platforms[7](https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers/). Content marketing through these channels should showcase your unique value proposition and address specific pain points in the real estate market[2](https://one-mallorca.com/en/real-estate-agent/the-importance-of-customer-acquisition-for-your-real-estate-business-and-how-you-can-be-successful),[8](https://www.proven.partners/blog/real-estate-marketing-ideas).
+
+Successful real estate tech startups like RentSpree and Azibo have leveraged these marketing channels to achieve significant growth and market penetration[5](https://explodingtopics.com/blog/real-estate-startups). By implementing platform-specific enhancement strategies and cross-channel optimization, you can maximize the effectiveness of your marketing efforts[7](https://dignuzdesign.com/blog/12-proven-marketing-strategies-for-real-estate-developers).
+
+
 
 ## What is our approach to financing?
 
