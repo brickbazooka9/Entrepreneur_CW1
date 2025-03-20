@@ -164,7 +164,7 @@ Our product directly addresses these shortcomings by offering a user-friendly in
 
 ## What relevant secondary research did you find?
 
-### Overview of the London Housing Market
+### London Housing Market Overview
 
 Recent data from the London Housing Market Report indicates rising market activity driven by buyer demand and property supply shifts. An increase in new buyer inquiries alongside a growing number of property listings suggests heightened market engagement. Since 2023, the availability of house-share rooms has steadily increased, though demand for rented rooms has fluctuated.
 
