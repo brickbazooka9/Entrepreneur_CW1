@@ -1112,6 +1112,7 @@ This ensured our business model was well-researched, realistic, and ready for in
 
 ## Financing Cost Structure
 <img src="/Resources/Seed Round Cost Structure.jpg" alt="AUC" height="760"/>
+
 # Meeting Minutes - General Meeting
 
 ## Meeting Minutes: Startup Business Plan (Property Valuation/Real Estate Technology)
