@@ -688,6 +688,18 @@ This investment will help us acquire ~700K downloads and retail ~170K Quarterly 
 
 ## Financial Planning & Analysis (FP&A)
 
+### DCF Valuation
+
+| DCF Valuation  (Income Based in GBP Millions) |     |
+|-----------------------------------------------|-----|
+|                                               |     |
+| Exit Multiple                                 | 12  |
+| Discount Rate                                 | 21% |
+| Terminal Cashflow                             | £4  |
+| Terminal Value                                | £50 |
+| Net Present Value                             | £18 |
+
+
 
 ### Net Receipts from Operations
 
