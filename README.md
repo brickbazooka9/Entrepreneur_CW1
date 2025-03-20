@@ -961,7 +961,7 @@ We conducted a PESTLE analysis to identify external factors that may hinder the 
 | **Legal**         | - Violation of GDPR and personal data protection regulations.<br> - AI-based services are considered market manipulation.<br> - Legal risks related to cross-border transactions and foreign investors.<br> - Strengthened regulations on the use of AI.                                                                                                                                                                                                 |
 | **Environmental** | - Decrease in customers due to climate change, natural disasters, pandemics.<br> - Changes in the working environment due to climate change, natural disasters, pandemics.                                                                                                                                                                                                                                                                               |
 
-As a result of the PESTLE analysis above, we have narrowed it down to two issues that are most likely to hinder the company's success.
+As a result of the SWOT and PESTLE analyses, we have identified the critical internal and external issues that are most likely to hinder the company's success.
 
 ### **Critical Risk 1: Labour Shortages**
 
@@ -994,14 +994,14 @@ If a labour shortage materialises, we will implement the following contingency m
 3. Reduction of Work Scope:  
    If the above measures prove insufficient, we will consider temporarily reducing the scope of work. Specifically, if servicing overseas investors becomes difficult, we will prioritise the domestic market. Additionally, we will pause new feature development and focus on ensuring the stable operation of existing services.
 
-#### **Critical Risk 2: Regulatory Changes**
+### **Critical Risk 2: Regulatory Changes**
 
 #### Problem Description
 
 The second biggest risk we envision is regulatory changes.  
-For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[[18]](https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html). In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[[19]](https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/). In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.
+For example, government policies could restrict foreign investors from purchasing real estate. In Canada, a new law was enacted that prohibits non-Canadians from purchasing residential real estate for two years starting in 2023[[1]](https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html). In Australia, foreign investors will be prohibited from purchasing second-hand homes for two years from April 2025[[2]](https://www.reuters.com/markets/asia/australia-put-two-year-ban-foreigners-buying-existing-homes-amid-housing-crunch-2025-02-16/). In the UK, there are still few regulations, but they may suddenly be strengthened due to future disputes or changes in public opinion. In such a case, overseas investors—our key customers—may withdraw, making it difficult for the business to survive.
 
-Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms[[20]](https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit). The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, which might lead to inspections and a loss of trust in the platform.
+Additionally, AI-based pricing could be considered market manipulation in the future. In 2024, in the United States, real estate software company RealPage was sued by the US Department of Justice (DOJ) for violating antitrust laws due to alleged price manipulation using algorithms[[3]](https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit). The company’s AI-based rent-setting software was suspected of artificially inflating rents for rental properties and restricting market competition. Since AI-powered real estate transaction services are still new, regulations are not yet fully developed. In the future, the UK Information Commissioner's Office (ICO) may impose stricter regulations, which might lead to inspections and a loss of trust in the platform.
 
 #### Mitigation Plan for Regulatory Changes
 
@@ -1011,7 +1011,7 @@ We are considering multiple countermeasures to mitigate the above risks.
    We will hire a legal advisor to provide guidance on legal changes and regulatory developments in the UK. At the same time, we will stay informed of early signs of regulatory shifts.
 
 2. Ensuring Fairness and Transparency:  
-    According to Morgan Lewis[[21]](https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations), ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
+    According to Morgan Lewis[[4]](https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations), ensuring transparency in the logic behind price calculation is a key requirement for regulatory compliance. Therefore, we will educate employees on AI pricing logic, ensuring that it remains explainable. Additionally, by disclosing this process to regulators and users, we aim to enhance transparency and reduce distrust in the service.  
    At the same time, we will conduct evaluations by independent auditing agencies multiple times a year to verify the fairness of pricing.
 
 #### Contingency Plan for Regulatory Changes
