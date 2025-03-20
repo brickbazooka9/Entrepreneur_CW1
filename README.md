@@ -858,6 +858,72 @@ We are considering multiple countermeasures to mitigate the above risks.
 2. If regulations on foreign investors are tightened:  
    We will shift our focus to investors in the UK and EU. Additionally, we will consider expanding our services to emerging markets with lower regulatory risks.
 
+# Team Challenges and Solutions
+While working on our business plan, our team faced some issues with staying organized,
+communicating effectively, and managing our workflow. But by using smart strategies, we were able
+to solve these problems and become a stronger, more efficient team. Here are the main challenges
+we dealt with and how we fixed them to succeed.
+## 1. Clear Task Division & Roles
+**Challenge:**
+At first, we had trouble dividing tasks properly. Some team members weren't sure of their
+responsibilities, leading to overlapping work and delays. As the project progressed, some areas
+needed more attention than expected.
+**Solution:**
+To fix this, we:
+- Assigned clear primary and secondary roles based on skills and interests. This setup provided
+flexibility and helped everyone learn from each other.
+- Used GitHub as our shared tool to track responsibilities and progress.
+- Appointed team leads for major sections to ensure accountability.
+- Held weekly check-ins to review and adjust workloads.
+This approach gave everyone clarity on their roles while allowing flexibility for changes.
+## 2. Improving Communication & Coordination
+**Challenge:**
+With different schedules and deadlines, some updates weren't shared on time, causing confusion.
+Additionally, offline discussions sometimes led to misunderstandings.
+**Solution:**
+To improve communication, we:
+- Set up a central chat group using WhatsApp for quick updates.
+
+- Used GitHub for version control so everyone had access to the latest work.
+- Made a rule that no big decision would be made without the whole team.
+- Rotated the task of taking meeting notes to ensure important discussions were recorded and
+shared.
+This reduced miscommunication and kept everyone aligned.
+## 3. Managing Workloads & Deadlines
+**Challenge:**
+Managing tasks and deadlines within the team was challenging. At times, some team members had
+more work than others, which led to delays.
+**Solution:**
+We:
+- Introduced progress checkpoints to complete work step by step instead of last-minute rushes.
+- Encouraged peer reviews to improve quality and efficiency.
+This helped us stay on track and maintain high-quality work.
+## 4. Handling Conflicts & Different Work Styles
+**Challenge:**
+With eight people on the team, there were sometimes disagreements about the business model,
+pricing, and who the target customers should be. These disagreements slowed down
+decision-making. Also, team members didn't always agree on which features to focus on first, which
+caused some tension.
+**Solution:**
+To handle this, we:
+- Used a democratic decision-making process where everyone had a say.
+- Relied on data and market research to guide choices.
+- Encouraged open debates to consider all viewpoints.
+By encouraging mutual respect and teamwork, we were able to use our different viewpoints as
+
+advantages.
+## 5. Overcoming Technical & Research Challenges
+**Challenge:**
+We faced difficulties in gathering data, creating financial models, gathering real-time crime data, and
+understanding legal aspects of real estate investment. Some data sources were limited.
+**Solution:**
+To tackle this, we:
+- Split research tasks among members based on expertise.
+- Used reliable sources like real estate reports and Police API Documentation.
+- Validated financial models using case studies and industry benchmarks.
+- Continuously refined our assumptions based on feedback.
+This ensured our business model was well-researched, realistic, and ready for investors.
+
 # Appendecies
 
 ## Financing Cost Structure
