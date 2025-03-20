@@ -385,7 +385,7 @@ To safeguard our competitive edge, we are also registering our company trademark
 
 #### Future Vision: Transition to a Public Limited Company (PLC) and IPO
 
-Our growth trajectory is clear and bold. Once Entrepreneurs achieves a valuation of **£50 million**, we plan to transition from a private limited company to a **Public Limited Company (PLC)** under UK law. This shift will pave the way for an **Initial Public Offering (IPO)** on the London Stock Exchange (LSE), unlocking access to public capital markets and accelerating our expansion. By going public, we aim to attract institutional investors, enhance our global visibility, and fuel our next phase of innovation. This milestone will mark our evolution from a nimble startup to a market leader, poised to redefine industry standards.
+Our growth trajectory is clear and bold. Once ScuderiaEstate achieves a valuation of **£50 million**, we plan to transition from a private limited company to a **Public Limited Company (PLC)** under UK law. This shift will pave the way for an **Initial Public Offering (IPO)** on the London Stock Exchange (LSE), unlocking access to public capital markets and accelerating our expansion. By going public, we aim to attract institutional investors, enhance our global visibility, and fuel our next phase of innovation. This milestone will mark our evolution from a nimble startup to a market leader, poised to redefine industry standards.
 
 #### Global Expansion Strategy
 
@@ -393,7 +393,7 @@ While our initial focus is on the UK and US—two of the world’s most influent
 
 #### Why This Matters
 
-Our legal entity strategy is more than a formality—it’s a competitive advantage. Starting as an Ltd provides the agility to iterate and innovate, while our planned transition to a PLC positions us to scale with confidence. By anchoring our headquarters in London and securing intellectual property in our core markets, we’re building a resilient, future-ready organization capable of leading in a global landscape. At Entrepreneurs, our legal structure is the bedrock of our promise: to deliver value, drive impact, and redefine what’s possible.
+Our legal entity strategy is more than a formality—it’s a competitive advantage. Starting as an Ltd provides the agility to iterate and innovate, while our planned transition to a PLC positions us to scale with confidence. By anchoring our headquarters in London and securing intellectual property in our core markets, we’re building a resilient, future-ready organization capable of leading in a global landscape. At ScuderiaEstate, our legal structure is the bedrock of our promise: to deliver value, drive impact, and redefine what’s possible.
 
 <!-- Added by Sam Alshoabi -->
 
@@ -505,7 +505,7 @@ For our startup inorder to seek scalability and investor confidence, a **Limited
 
 <!-- TODO: Remove above repeated text -->
 
-Once Entrepreneurs achieves a valuation of **£50 million**, we plan to transition from a private limited company to a **Public Limited Company (PLC)** under UK law. This shift will pave the way for an **Initial Public Offering (IPO)** on the London Stock Exchange (LSE), unlocking access to public capital markets and accelerating our expansion. By going public, we aim to attract institutional investors, enhance our global visibility, and fuel our next phase of innovation. This milestone will mark our evolution from a nimble startup to a market leader, poised to redefine industry standards.
+Once ScuderiaEstate achieves a valuation of **£50 million**, we plan to transition from a private limited company to a **Public Limited Company (PLC)** under UK law. This shift will pave the way for an **Initial Public Offering (IPO)** on the London Stock Exchange (LSE), unlocking access to public capital markets and accelerating our expansion. By going public, we aim to attract institutional investors, enhance our global visibility, and fuel our next phase of innovation. This milestone will mark our evolution from a nimble startup to a market leader, poised to redefine industry standards.
 
 ## Which resources do you need and how will you get them?
 
@@ -667,7 +667,9 @@ This assumes a 50–100% annual growth rate post-seed, fueled by demand from for
 
 #### Why This Approach Works
 
-Starting with an incubator/accelerator de-risks our early stages by providing capital, expertise, and investor access, critical for a proptech startup needing to prove product-market fit. The staged funding rounds align with milestones—building, scaling, and globalizing—while our London base leverages a prime real estate market to attract angels and VCs. By targeting a £50 million valuation, we position Entrepreneurs for an IPO, unlocking public capital to redefine property valuation worldwide.
+Starting with an incubator/accelerator de-risks our early stages by providing capital, expertise, and investor access, critical for a proptech startup needing to prove product-market fit. The staged funding rounds align with milestones—building, scaling, and globalizing—while our London base leverages a prime real estate market to attract angels and VCs. By targeting a £50 million valuation, we position ScuderiaEstate for an IPO, unlocking public capital to redefine property valuation worldwide.
+
+
 
 ## Sales and Marketing Plan
 
@@ -771,7 +773,7 @@ Figure 2. McKinsey 7S Model
 
 ### Our Team: The Driving Force Behind Innovation
 
-At Entrepreneurs, our leadership team is our greatest asset—a group of eight accomplished co-founders whose diverse expertise and shared vision form the backbone of our success. Collectively, we bring **69 years of combined academic and professional experience** to the table, spanning industries such as technology, finance, retail, hospitality, engineering, media, healthcare, and more. With advanced academic backgrounds in fields like Data Science, Computer Science, Mechanical Engineering, Finance, and Psychology, paired with hands-on roles ranging from Program Management to TV Direction, our team is uniquely equipped to tackle complex challenges with a strategic, multidisciplinary approach.
+At ScuderiaEstate, our leadership team is our greatest asset—a group of eight accomplished co-founders whose diverse expertise and shared vision form the backbone of our success. Collectively, we bring **69 years of combined academic and professional experience** to the table, spanning industries such as technology, finance, retail, hospitality, engineering, media, healthcare, and more. With advanced academic backgrounds in fields like Data Science, Computer Science, Mechanical Engineering, Finance, and Psychology, paired with hands-on roles ranging from Program Management to TV Direction, our team is uniquely equipped to tackle complex challenges with a strategic, multidisciplinary approach.
 
 ### Meet the Team
 
@@ -793,7 +795,7 @@ Our company thrives on an **agile, lean, and data-driven culture**, designed to 
 
 #### Looking Ahead
 
-To fuel our growth, we plan to onboard additional key hires and outsource functions in **Legal**, **Taxation**, **HR**, **UI/UX Design** and **Business Development**, bolstering our capacity to deliver intuitive customer experiences and accelerate market expansion. With our current team’s depth and our strategic hiring roadmap, Entrepreneurs is poised to lead with innovation, adaptability, and impact.
+To fuel our growth, we plan to onboard additional key hires and outsource functions in **Legal**, **Taxation**, **HR**, **UI/UX Design** and **Business Development**, bolstering our capacity to deliver intuitive customer experiences and accelerate market expansion. With our current team’s depth and our strategic hiring roadmap, ScuderiaEstate is poised to lead with innovation, adaptability, and impact.
 
 | Name                 | Academic | Professional | Academic Background                                             | Industry                                         | Profession                                                                           | Possible Roles |
 | -------------------- | -------- | ------------ | --------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------- |
