@@ -503,9 +503,8 @@ There are multiple legal entities that can be used to start a business in the UK
 
 For our startup inorder to seek scalability and investor confidence, a **Limited Liability Company (Ltd.)** is the most suitable option due to its liability protection and growth potential.
 
-<!-- TODO: Remove above repeated text -->
 
-Once ScuderiaEstate achieves a valuation of **£50 million**, we plan to transition from a private limited company to a **Public Limited Company (PLC)** under UK law. This shift will pave the way for an **Initial Public Offering (IPO)** on the London Stock Exchange (LSE), unlocking access to public capital markets and accelerating our expansion. By going public, we aim to attract institutional investors, enhance our global visibility, and fuel our next phase of innovation. This milestone will mark our evolution from a nimble startup to a market leader, poised to redefine industry standards.
+
 
 ## Which resources do you need and how will you get them?
 
