@@ -950,13 +950,14 @@ To fuel our growth, we plan to onboard additional key hires and outsource functi
 | Name                 | Academic | Professional | Academic Background                                             | Industry                                         | Profession                                                                           | Possible Roles |
 | -------------------- | -------- | ------------ | --------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------- |
 | Sam Alshoabi         | 5        | 10           | Information Systems, Data Science                               | Retail, Technology, and Customer Service         | Program Manager, Business Analyst, Customer Care Manager, Store Manager, Translation | Chief Data Officer               | 
-| Sujin Pongchababnapa | 5        | 1            | Health Science, Computer Science                                | F&B, and Hospitality                             | Consultancy, Data Analyst                                                            |                |
-| Vineet Naik          | 5        | 2            | Mechanical Engineering, Data Science                            | Finance, and Mechanics                           | Engineering, Private Equity Analyst                                                  |                |
-| Soroush Alimardani   | 5        | 2            | Information Technology, Computer Science                        |    Software Engineering                                              |    Software Engineer                                                                                  |                |
-| Avneet Singh         | 6        | 8            | Civil Engineering, Management Business & Finance in Real Estate | Investment Banking, Sales, and Construction      | Advisor & Consultant                                                                 |                |
-| Yuta Asai            | 5        | 3            | Psychology, Computer Science                                    | Media, Healthcare, Documentaries                 | TV Director                                                                          |                |
-| Aeden Geo Thomas     | 5        | 1            | Computer Science Engineering                                    | Software Engineering                             | Software Engineer                                                                    |                |
-| Yu-Han Kao (Tina)    | 5        | 3            | Finance & International Business                                | Banking, Information, Mobile and Web Development | Banking Officer, Research Assistant, Product Management                              |                |
+| Sujin Pongchababnapa | 5        | 1            | Health Science, Computer Science                                | F&B, and Hospitality                             | Consultancy, Data Analyst                                                            | Data Insights Specialist |
+| Vineet Naik          | 5        | 2            | Mechanical Engineering, Data Science                            | Finance, and Mechanics                           | Engineering, Private Equity Analyst                                                  | Financial Strategy Lead |
+| Soroush Alimardani   | 5        | 2            | Information Technology, Computer Science                        | Software Engineering                             | Software Engineer                                                                    | Technical Architect |
+| Avneet Singh         | 6        | 8            | Civil Engineering, Management Business & Finance in Real Estate | Investment Banking, Sales, and Construction      | Advisor & Consultant                                                                 | Chief Business Officer |
+| Yuta Asai            | 5        | 3            | Psychology, Computer Science                                    | Media, Healthcare, Documentaries                 | TV Director                                                                          | UX Research Director |
+| Aeden Geo Thomas     | 5        | 1            | Computer Science Engineering                                    | Software Engineering                             | Software Engineer                                                                    | Founding Engineer |
+| Yu-Han Kao (Tina)    | 5        | 3            | Finance & International Business                                | Banking, Information, Mobile and Web Development | Banking Officer, Research Assistant, Product Management                              | Product Operations Lead |
+
 
 | Metric             | Value |
 | ------------------ | ----- |
@@ -1104,10 +1105,16 @@ This ensured our business model was well-researched, realistic, and ready for in
 # Contributions Split 
 <img width="472" alt="marking_split" src="https://github.com/user-attachments/assets/9af97163-0ee0-4623-9473-99007b5cb410"/>
 
-# Appendecies
+# Appendix
 
 ## Financing Cost Structure
 <img src="/Resources/Seed Round Cost Structure.jpg" alt="AUC" height="760"/>
+
+## Financial Model
+<img src="/Resources/Financial Model - Scuderia Estate.xlsx" alt="Financial Model" />
+
+The complete financial model for Scuderia Estates can be found in the Resources folder. This Excel spreadsheet contains detailed projections, revenue forecasts, and cost breakdowns that support our business plan.
+
 
 # Meeting Minutes - General Meeting
 
@@ -1481,14 +1488,14 @@ This ensured our business model was well-researched, realistic, and ready for in
 |                                 | 10          | What relevant secondary research did you find?                                                                                                     | Tina                 | Yuta                 |
 |                                 | 10          | Which people (customers, industry experts, …) have you approached? How have you approached them (methods)? Why? What answers did you find?         | Jint                 |                      |
 |                                 | 10          | What are your main competitors (direct and indirect)? How are they positioned (strengths and weaknesses)? What is your unique selling proposition? | Soroush              | Vineet               |
-| **Strategy Section (30 Marks)** | 4.3         | What is the legal status and structure of your business?                                                                                           | Aeden                | Sam                    |
+| **Strategy Section (30 Marks)** | 4.3         | What is the legal status and structure of your business?                                                                                           | Aeden                | Sam                  |
 |                                 | 4.3         | Who is your team and what are their roles and capabilities?                                                                                        | Sam                  |                      |
 |                                 | 4.3         | Which resources do you need and how will you get them?                                                                                             | Aeden                |                      |
-|                                 | 4.3         | What is your approach to financing?                                                                                                                | Sam               |  Avneet                    |
+|                                 | 4.3         | What is your approach to financing?                                                                                                                | Sam                  | Avneet               |
 |                                 | 4.3         | What are your plans for sales and marketing?                                                                                                       | Soroush              |                      |
 |                                 | 4.3         | What is your operational plan?                                                                                                                     | Jint                 |                      |
 |                                 | 4.3         | What are the main risks to the success of your business and how will you address or mitigate them?                                                 | Yuta                 |                      |
-
+| **Additional Contributions**    |             | Figma prototyping designs                                                                                                                          | Aeden                |                      |
 
 ---
 
