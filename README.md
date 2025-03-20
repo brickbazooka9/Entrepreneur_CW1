@@ -1345,20 +1345,20 @@ This ensured our business model was well-researched, realistic, and ready for in
 
 #### 2.2 Revenue Streams
 - We identified additional revenue sources:  
-  1. **Advertising** from real estate companies targeting investors.  
-  2. **API licensing** for financial and investment platforms.  
-  3. **Commission-based partnerships** with real estate firms.  
+  1. Advertising from real estate companies targeting investors.  
+  2. API licensing for financial and investment platforms.  
+  3. Commission-based partnerships with real estate firms.  
 
 ### 3. Platform Development & Features
 
 #### 3.1 Scope of MVP (Minimum Viable Product)
 - We revised the MVP scope to include:  
-  1. **AI-driven real estate price prediction.**  
-  2. **Visualization of market trends** with interactive graphs.  
-  3. **Regulatory compliance insights** for international investors.  
+  1. AI-driven real estate price prediction.
+  2. Visualization of market trends with interactive graphs.  
+  3. Regulatory compliance insights for international investors.  
 
 #### 3.2 Feature Prioritization
-- We agreed to defer **VR-based real estate previews** until later development stages.  
+- We agreed to defer VR-based real estate previews until later development stages.  
 
 #### 3.3 Data Aggregation
 - The following will be included as data sources:  
@@ -1369,13 +1369,13 @@ This ensured our business model was well-researched, realistic, and ready for in
 ### 4. Marketing & Positioning Strategy
 
 #### 4.1 Target Market
-- All members confirmed that the main customer base remains **foreign investors seeking UK real estate**.  
+- All members confirmed that the main customer base remains foreign investors seeking UK real estate.  
 
 #### 4.2 Competitive Differentiation
 - The team reaffirmed the key benefits of the platform:  
-  1. **AI-driven forecasts** tailored for foreign investors.  
-  2. **Real-time regulatory updates** to help with compliance.  
-  3. **Transparent pricing model** to improve reliability.  
+  1. AI-driven forecasts tailored for foreign investors.  
+  2. Real-time regulatory updates to help with compliance.  
+  3. Transparent pricing model to improve reliability.  
 
 #### 4.3 Growth Strategy
 - Strategic partnerships with real estate companies will be leveraged for credibility.  
@@ -1383,8 +1383,8 @@ This ensured our business model was well-researched, realistic, and ready for in
 
 ### 5. Next Steps  
 - **Final Edits:** All members will refine their assigned sections.  
-- **Financial Projections:** Ensure **detailed cost estimation and revenue forecasts**.  
-- **Regulatory Compliance:** Legal considerations will be cross-checked with **UK data laws**.  
+- **Financial Projections:** Ensure detailed cost estimation and revenue forecasts  
+- **Regulatory Compliance:** Legal considerations will be cross-checked with UK data laws.  
 - **Follow-Up Meeting (if needed):** Another discussion will be scheduled before the submission deadline.  
 
 
