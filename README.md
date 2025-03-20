@@ -332,7 +332,18 @@ Figure 1. Power/Interest grid
 
 ### What is your legal status and structure of your Business?
 
-<!-- Added by Sam Alshoabi -->
+<!-- Added by Sam Alshoabi: AI Assissted in write up, while information is crossed checked with Company House and additional Details is added. 
+Prompt: 
+Answering the question:
+What is your legal status and structure of your Business?
+
+be creative in your answer and list details fit for a winning section of the Business PLan. 
+
+Indicate that our office and head quarters will be based in london to be in close proximity to the thriving real estate market in the city, additionally add the plan that we want to start as private limited liability company in the UK, to enable us to raise funds in exchange for equity and then once we reach a £50 million Dollars valuation, we plan to become a public limited liability company and IPO. We plan to register our company and patent in the UK and the US as our initial markets, and then expand to Europe, Dubai and major cities in Asia. 
+
+Add whatever information you see fit for this section and include it in a markdown format with the largest header ####
+-->
+
 
 At Entrepreneurs, our legal structure is designed to support our ambitious vision while ensuring flexibility, scalability, and investor confidence. We have strategically chosen to establish our **headquarters in London, United Kingdom**, positioning ourselves at the heart of one of the world’s most dynamic real estate markets. This proximity to London’s thriving property ecosystem—coupled with its status as a global financial hub—enables us to tap into cutting-edge market trends, attract top talent, and forge partnerships that drive our mission forward.
 
@@ -548,7 +559,11 @@ Acquisition Strategy: Marketing channels will be developed through digital strat
 ## What is our approach to financing?
 
 ### Financing Strategy: From Incubator to £50 Million Valuation
-<!--- Financing comment: This should be our end of year 5 EBITDA multiplied by 20 [Based on valuation of 20 years EBITDA --->
+<!-- Added by Sam Alshoabi: AI Assissted in write up, while cost projections are designed in excel sheet based on estimates for needs. Excel sheet is attached in the resources section. Answer is reviewed and selection of timeline, incubators, amounts and equity is adjutsed.  
+Prompt: 
+Now I need your help with Financing. My initial plan is we would like to start by getting into an incubator/accelerator, one that will help us find the product market fit, and guide us in the efforts of building the product. Preferably one that would provide an investment as well. It will be ideal if this incubator/accelerator will help us get to pitch our idea to angel investors and Venture Capitals. Align your answer with plan in raisting min (100K in Preseed, 500K in seed round, £5M in Series A, and £10 in Series B) set a 6 years timeline to reach a 50 million valuation and determine the forecasted valuation at each stage of funding. Make sure that each funding round covers expenses from 18-24 months post pre-seed round. 
+-->
+
 
 At Entrepreneurs, our financing strategy is designed to fuel innovation, establish product-market fit, and scale our real estate technology solution into a globally recognized platform. We aim to leverage the resources of a top-tier incubator or accelerator to kickstart our journey, secure initial capital, and position ourselves for subsequent funding rounds from angel investors and venture capitalists (VCs). Our initial goal is to achieve a £50 million valuation, 
 <!--- Financing comment: This should be repalced by the agreed upon valuation --->
