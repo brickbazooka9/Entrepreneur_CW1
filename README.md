@@ -100,7 +100,7 @@ Stakeholder interviews with real estate agents and investors emphasized the need
 ## Business Model Canvas
 
 <!-- Added by Vineet -->
-
+![image_alt](https://github.com/Jintpong/Entrepreneur_CW1/blob/e5ceffbb8fee988d0b6d70e2b5df62b4c1ef8685/Business%20Model%20Canvas.png)
 ## Interactive Prototype
 
 Our interactive prototype demonstrates the core functionality of our platform, showcasing how users can access property insights, valuations, and risk assessments through an intuitive interface.
