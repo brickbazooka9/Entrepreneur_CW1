@@ -374,7 +374,8 @@ At ScuderiaEstate, our legal structure is designed to support our ambitious visi
 
 #### Current Structure: Private Limited Liability Company (UK)
 
-We are launching as a **Private Limited Liability Company (Ltd)** under UK law, a structure that offers the perfect blend of operational agility and legal protection. This setup shields our co-founders from personal liability while allowing us to retain full control over strategic decisions during our early growth phase. By registering as an Ltd, we can efficiently raise capital from private investors, reinvest profits into innovation, and build a robust foundation for our initial operations in the UK and US markets. Our company registration will be filed with **Companies House in the UK**, ensuring compliance with local regulations and establishing our legal presence in this key market.
+We are launching as a **Private Limited Liability Company (Ltd)** under UK law, a structure that offers the perfect blend of operational agility and legal protection. This setup shields our co-founders from personal liability while allowing us to retain full control over strategic decisions during our early growth phase. By registering as an Ltd, we can efficiently raise capital from private investors, reinvest profits into innovation, and build a robust foundation for our initial operations in the UK and US markets. Our company registration will be filed with **Companies House in the UK**, ensuring compliance with local regulations and establishing our legal presence in this key market. [^59]
+
 
 #### Intellectual Property Protection
 
@@ -609,9 +610,7 @@ Now I need your help with Financing. My initial plan is we would like to start b
 -->
 
 
-At ScuderiaEstate, our financing strategy is designed to fuel innovation, establish product-market fit, and scale our real estate technology solution into a globally recognized platform. We aim to leverage the resources of a top-tier incubator or accelerator to kickstart our journey, secure initial capital, and position ourselves for subsequent funding rounds from angel investors and venture capitalists (VCs). Our initial goal is to achieve a £50 million valuation, 
-<!--- Financing comment: This should be repalced by the agreed upon valuation --->
-enabling a transition to a Public Limited Company (PLC) and an Initial Public Offering (IPO) on the London Stock Exchange (LSE). Below, we outline our approach to initial funding, the funding rounds ahead, and a projected timeline to reach this milestone.
+At ScuderiaEstate, our financing strategy is crafted to drive innovation, secure product-market fit, and transform our real estate technology solution into a globally recognized platform. We will kickstart this journey by leveraging a top-tier incubator or accelerator, gaining initial capital, expert guidance, and access to networks that position us for subsequent funding from angel investors and venture capitalists (VCs). Our primary objective is a £50 million valuation, enabling a transition to a Public Limited Company (PLC) and unlocking exit opportunities—either through acquisition by major industry players or an Initial Public Offering (IPO) on the London Stock Exchange (LSE). Below, we detail our approach to initial funding, outline subsequent rounds, and provide a projected timeline to achieve this milestone.
 
 #### Initial Step: Joining an Incubator or Accelerator
 
@@ -670,17 +669,10 @@ Our journey to a £50 million valuation will progress through standard startup f
    - **Valuation:** £40–£80 million (post-money)
    - **Timeline:** Q2 2030–Q4 2030 (18–24 months after Series A).
   
-5. **Series C++**
-   - **Amount:** £20-£50 million
-   - **Source:** Late-stage VCs, institutional investors, sovereign wealth funds
-   - **Purpose:** Market dominance, M&A (acquiring complementary startups or data providers), expansion into additional markets (North America, Australia, etc.), and strengthening AI/ML capabilities.
-   - **Equity:** 5–15%
-   - **Valuation:** £100–£250 million (post-money)
-   - **Timeline:** Q2 2032–Q4 2033 (18–24 months after Series C)
 
 #### Timeline to £50 Million Valuation
 
-Reaching a £50 million valuation typically takes 5–7 years for high-growth tech startups, though proptech firms with strong traction can accelerate this. Based on our London base, real estate focus, and incubator start, here’s a projected timeline:
+Reaching a £50 million valuation could take 5–7 years for high-growth tech startups, though proptech firms with strong traction can accelerate this. Based on our London base, real estate focus, and incubator start, here’s a projected timeline:
 
 - **Year 1 (2026):** Pre-seed via incubator/accelerator. Exit with an MVP and £50k–£150k, valuing us at £500k–£1.5m.
 - **Year 2 (2027):** Seed round raises £1m, driving product refinement and early revenue. Post-money valuation: £5m–£7m.
@@ -691,14 +683,15 @@ This assumes a 50–100% annual growth rate post-seed, fueled by demand from for
 
 #### Why This Approach Works
 
-Starting with an incubator/accelerator de-risks our early stages by providing capital, expertise, and investor access, critical for a proptech startup needing to prove product-market fit. The staged funding rounds align with milestones—building, scaling, and globalizing—while our London base leverages a prime real estate market to attract angels and VCs. By targeting a £50 million valuation, we position ScuderiaEstate for an IPO, unlocking public capital to redefine property valuation worldwide.
 
-This investment will help us acquire ~700K downloads and retail ~170K Quarterly Active Users (QAU), this projection was based on the below assumptions:
+Starting with an incubator/accelerator mitigates early-stage risks by providing capital, expertise, and investor access—essentials for a proptech startup like Entrepreneurs to establish product-market fit. Our staged funding rounds align with key milestones—building, scaling, and globalizing—while our London headquarters taps into a premier real estate market to attract angel investors and venture capitalists. Targeting a £50 million valuation positions ScuderiaEstate for an exit strategy, either through acquisition or an IPO on the London Stock Exchange, unlocking public capital to redefine property valuation globally. Should we significantly disrupt the proptech sector, we could aim for a £100-£250 million valuation, potentially pursuing a Series C or later round to raise £20–£50 million, fueling broader global expansion prior to an IPO or strategic acquisition.
+
+
+**Note:** This investment will help us acquire ~700K downloads and retail ~170K Quarterly Active Users (QAU), this projection was based on the below assumptions:
 1. 1-Quarter User Retention = 10%
 2. 2-Quarters User Reterntion = 5%
 3. 3-Quarters User Retention = 3%
 4. Avg Cost per customer acquistion/download = £15
-
 
 
 
@@ -1615,5 +1608,7 @@ The complete financial model for Scuderia Estates can be found in the Resources 
 [^57]: The Guardian, 2024. *US justice department to investigate real estate firm RealPage over rent price fixing claims* [Online] . Available from: https://www.theguardian.com/business/article/2024/aug/23/doj-realpage-lawsuit [Accessed 8 March 2024].
 
 [^58]: Morgan Lewis, 2025. *AI and Algorithmic Pricing: 2025 Antitrust Outlook and Compliance Considerations* [Online]. Available from: https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations [Accessed 8 March 2024].
+
+[^59]: GOV.UK (2024). Set up a private limited company. [online] GOV.UK. Available at: https://www.gov.uk/limited-company-formation [Accessed 19 Mar. 2025].
 
 
