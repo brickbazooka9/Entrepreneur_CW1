@@ -1438,7 +1438,7 @@ The complete financial model for Scuderia Estates can be found in the Resources 
 #### 2.6 Product Name Finalization
 
 -   The team agreed on the product name "Scuderia Estates" after addressing trademark concerns.
--   **Action Item:** Aeden Thomas to update all instances of "XYZ" in the document to "Scuderia Estates." Complete by **End of Day, March 20, 2025**.
+-   **Action Item:** Jint Pongchababnapa to update all instances of "XYZ" in the document to "Scuderia Estates." Complete by **End of Day, March 20, 2025**.
 
 #### 2.7 Referencing and Citation
 
