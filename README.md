@@ -370,7 +370,7 @@ Add whatever information you see fit for this section and include it in a markdo
 -->
 
 
-At Entrepreneurs, our legal structure is designed to support our ambitious vision while ensuring flexibility, scalability, and investor confidence. We have strategically chosen to establish our **headquarters in London, United Kingdom**, positioning ourselves at the heart of one of the world’s most dynamic real estate markets. This proximity to London’s thriving property ecosystem—coupled with its status as a global financial hub—enables us to tap into cutting-edge market trends, attract top talent, and forge partnerships that drive our mission forward.
+At ScuderiaEstate, our legal structure is designed to support our ambitious vision while ensuring flexibility, scalability, and investor confidence. We have strategically chosen to establish our **headquarters in London, United Kingdom**, positioning ourselves at the heart of one of the world’s most dynamic real estate markets. This proximity to London’s thriving property ecosystem—coupled with its status as a global financial hub—enables us to tap into cutting-edge market trends, attract top talent, and forge partnerships that drive our mission forward.
 
 #### Current Structure: Private Limited Liability Company (UK)
 
@@ -609,7 +609,7 @@ Now I need your help with Financing. My initial plan is we would like to start b
 -->
 
 
-At Entrepreneurs, our financing strategy is designed to fuel innovation, establish product-market fit, and scale our real estate technology solution into a globally recognized platform. We aim to leverage the resources of a top-tier incubator or accelerator to kickstart our journey, secure initial capital, and position ourselves for subsequent funding rounds from angel investors and venture capitalists (VCs). Our initial goal is to achieve a £50 million valuation, 
+At ScuderiaEstate, our financing strategy is designed to fuel innovation, establish product-market fit, and scale our real estate technology solution into a globally recognized platform. We aim to leverage the resources of a top-tier incubator or accelerator to kickstart our journey, secure initial capital, and position ourselves for subsequent funding rounds from angel investors and venture capitalists (VCs). Our initial goal is to achieve a £50 million valuation, 
 <!--- Financing comment: This should be repalced by the agreed upon valuation --->
 enabling a transition to a Public Limited Company (PLC) and an Initial Public Offering (IPO) on the London Stock Exchange (LSE). Below, we outline our approach to initial funding, the funding rounds ahead, and a projected timeline to reach this milestone.
 
